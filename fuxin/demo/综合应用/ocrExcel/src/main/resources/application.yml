@@ -1,6 +1,0 @@
-server:
-  port: 8099
-
-paddle:
-  ocr:
-    url: http://10.14.40.117:5000/ocr_check/
