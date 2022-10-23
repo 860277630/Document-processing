@@ -1,0 +1,5638 @@
+<?xml version="1.0" encoding="UTF-8"?><TaggedPDF-doc><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">&#x0A;<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">&#x0A;<rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">&#x0A;<pdf:Producer>Microsoft® Word 适用于 Microsoft 365</pdf:Producer>
+</rdf:Description>
+<rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/">&#x0A;<dc:title><rdf:Alt><rdf:li xml:lang="x-default">定量研究专题报告</rdf:li>
+</rdf:Alt>
+</dc:title>
+<dc:creator><rdf:Seq><rdf:li>钟晓天</rdf:li>
+</rdf:Seq>
+</dc:creator>
+</rdf:Description>
+<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">&#x0A;<xmp:CreatorTool>Microsoft® Word 适用于 Microsoft 365</xmp:CreatorTool>
+<xmp:CreateDate>2022-07-21T09:24:00+08:00</xmp:CreateDate>
+<xmp:ModifyDate>2022-07-21T09:24:00+08:00</xmp:ModifyDate>
+</rdf:Description>
+<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">&#x0A;<xmpMM:DocumentID>uuid:61A56C37-B585-4C60-BFD0-D3DE780E4E0A</xmpMM:DocumentID>
+<xmpMM:InstanceID>uuid:61A56C37-B585-4C60-BFD0-D3DE780E4E0A</xmpMM:InstanceID>
+</rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+<Document><Figure><Span/>
+<Sect><P><Span ActualText=" "> </Span>
+</P>
+</Sect>
+</Figure>
+<Figure><Span/>
+<Sect><Table><TR><TH><P><Span ActualText="定">定</Span>
+<Span ActualText="量">量</Span>
+<Span ActualText="研">研</Span>
+<Span ActualText="究">究</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</Table>
+</Sect>
+</Figure>
+<Figure><Span/>
+<Sect><Table><TR><TH><P><Span ActualText="专">专</Span>
+<Span ActualText="题">题</Span>
+<Span ActualText="报">报</Span>
+<Span ActualText="告">告</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+</Sect>
+</Figure>
+<Table><TBody><TR><TH><P>证券研究报告 </P>
+<P> </P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TR><TD><P><Span ActualText="＃">＃</Span>
+<Span>emailAuthor</Span>
+<Span ActualText="＃">＃</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="分析师：">分析师：</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="郑兆磊">郑兆磊</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span>zhengzhaolei@xyzq.com.cn</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span>S0190520080006</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TR><TD><P><Span ActualText="＃">＃</Span>
+<Span>assAuthor</Span>
+<Span ActualText="＃">＃</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="联系人">联系人</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="张博">张博</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span>zhangbo21@xyzq.com.cn</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</Table>
+<P> </P>
+</TH>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_0.jpg"/>
+</Figure>
+<TH><Table><TR><TH><P> </P>
+</TH>
+</TR>
+<TR><TH><Table><TR><TH><P><Span ActualText="＃">＃</Span>
+<Span>title</Span>
+<Span ActualText="＃">＃</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText="暖日晴风路，消费复苏时">暖日晴风路，消费复苏时</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</Table>
+<P> </P>
+</TH>
+</TR>
+<TR><TH><Table><TR><TH><P><Span ActualText="＃">＃</Span>
+<Span>createTime1</Span>
+<Span ActualText="＃">＃</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P><Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>21</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</Table>
+<P> </P>
+</TH>
+</TR>
+</Table>
+<P><Span ActualText="投资要点">投资要点</Span>
+<Span ActualText=" "> </Span>
+</P>
+<Table><TR><TH><P><Span ActualText="＃">＃</Span>
+<Span>summary</Span>
+<Span ActualText="＃">＃</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><L><LI><LBody>⚫ 经济企稳，政策刺激力度大，消费有望迎来新一轮行情。 </LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="当前国内经济数据正在逐步回暖。">当前国内经济数据正在逐步回暖。</Span>
+<Span ActualText="随着国内新冠肺炎新增病例回到低位，疫情">随着国内新冠肺炎新增病例回到低位，疫情</Span>
+<Span ActualText="改善后多地解封，">改善后多地解封，</Span>
+<Span>6</Span>
+<Span ActualText="月中旬全国城际活动指数已经恢复到去年同期水平，生产">月中旬全国城际活动指数已经恢复到去年同期水平，生产</Span>
+<Span ActualText="活动相比">活动相比</Span>
+<Span>3-5</Span>
+<Span ActualText="月份已在快速恢复。">月份已在快速恢复。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="国家及各省市陆续出台稳经济促销费政策，下半年消费迎来积极信号">国家及各省市陆续出台稳经济促销费政策，下半年消费迎来积极信号</Span>
+<Span ActualText="。">。</Span>
+<Span>4</Span>
+<Span ActualText="月份">月份</Span>
+<Span ActualText="以来，国务院多次召开会议发布相关政策，加大对困难行业帮扶、减税降费及">以来，国务院多次召开会议发布相关政策，加大对困难行业帮扶、减税降费及</Span>
+<Span ActualText="稳经济促销费等，各地也纷纷出台稳经济政策措施，在拉动需求方面，发布了">稳经济促销费等，各地也纷纷出台稳经济政策措施，在拉动需求方面，发布了</Span>
+<Span ActualText="消费券、汽车购置税减免、家电以旧换新等措施。">消费券、汽车购置税减免、家电以旧换新等措施。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="从时段特征、宏观背景、通胀环境来看，当前">从时段特征、宏观背景、通胀环境来看，当前</Span>
+<Span ActualText="消费板块与历史上表现优异的时">消费板块与历史上表现优异的时</Span>
+<Span ActualText="段存在共性，消费板块有望">段存在共性，消费板块有望</Span>
+<Span ActualText="迎">迎</Span>
+<Span ActualText="来新一轮行情。">来新一轮行情。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+</L>
+<P><Span ActualText=" "> </Span>
+</P>
+<L><LI><LBody>⚫ 各个消费细分行业有望轮番演绎，带动消费板块整体上行。 </LBody>
+</LI>
+<LI><LBody>✓ 食品饮料：白酒22Q1业绩优异；消费场景恢复下，啤酒预计销量环比大幅改善；随着餐饮需求修复，调味品也有望迎来利润拐点。 </LBody>
+</LI>
+<LI><LBody>✓ 医药：短中期来看，消费医疗有望带动医药板块上行， “需求回补”是当前行业上行的主要驱动力；中长期来看，刚需支撑行业长期发展，中国医药“出海”有望打开利润空间。 </LBody>
+</LI>
+<LI><LBody>✓ 汽车：复工复产叠加超预期政策刺激，乘用车景气反转向上，预计Q3/Q4销量同比均有望双位数增长。 </LBody>
+</LI>
+<LI><LBody>✓ 家电：稳增长政策刺激+地产政策放松+原材料价格回落，家电板块有望迎来三重催化。 </LBody>
+</LI>
+</L>
+<P> </P>
+<L><LI><LBody>⚫ 上证消费80指数（000069.SH）发布于2010年5月28日，反映沪市A股中消费类股票的整体表现。 </LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="指数表现：">指数表现：</Span>
+<Span ActualText="自发布以来，">自发布以来，</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="年化收益率达">年化收益率达</Span>
+<Span>7.90%</Span>
+<Span ActualText="，高于主流宽基指数，且具">，高于主流宽基指数，且具</Span>
+<Span ActualText="备更高的收益风险比。">备更高的收益风险比。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="市值分布：">市值分布：</Span>
+<Span ActualText="大">大</Span>
+<Span ActualText="中">中</Span>
+<Span ActualText="盘风格">盘风格</Span>
+<Span ActualText="较为">较为</Span>
+<Span ActualText="突出">突出</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="成分股">成分股</Span>
+<Span ActualText="加权平均自由流通市值为">加权平均自由流通市值为</Span>
+<Span>1922.64</Span>
+<Span ActualText="亿">亿</Span>
+<Span ActualText="元。">元。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="行业分布：">行业分布：</Span>
+<Span ActualText="全面覆盖具备消费属性的行业板块">全面覆盖具备消费属性的行业板块</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="食品饮料、医药、汽车等板块">食品饮料、医药、汽车等板块</Span>
+<Span ActualText="占比较高">占比较高</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="估值水平：">估值水平：</Span>
+<Span ActualText="处于近两年较低位置，配置价值凸显。">处于近两年较低位置，配置价值凸显。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+<LI><LBody><Span>✓ </Span>
+<Span ActualText="指数特征">指数特征</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText="盈利">盈利</Span>
+<Span ActualText="能力">能力</Span>
+<Span ActualText="明显优于主流宽基指数。">明显优于主流宽基指数。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+</L>
+<P><Span ActualText=" "> </Span>
+</P>
+<L><LI><LBody><Span>⚫ </Span>
+<Span>招商上证消费</Span>
+<Span>80ETF</Span>
+<Span>（</Span>
+<Span>510150</Span>
+<Span>）跟踪上证消费</Span>
+<Span>80</Span>
+<Span>指数，为投资者提供了布局消费主题，拥抱复苏行情的便捷工具。</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+</L>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P>风险提示：板块表现不达预期风险；本基金属于股票型基金，预期风险收益水平较高；指数与基金历史表现不代表未来。 </P>
+</TH>
+</TR>
+</Table>
+<P> </P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<Span/>
+<TOC><TOCI>目录 </TOCI>
+<TOCI><Link>1<Span>1</Span>
+<Span ActualText="、暖日晴风路，消费复苏时">、暖日晴风路，消费复苏时</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="..................">..................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 4 -</Span>
+、暖日晴风路，消费复苏时 .................................................................................. - 4 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>1.1<Span>1.1</Span>
+<Span>、经济企稳，消费复苏</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="...................">...................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 4 -</Span>
+、经济企稳，消费复苏 ................................................................................... - 4 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>1.2<Span>1.2</Span>
+<Span>、食品饮料：</Span>
+<Span>“</Span>
+<Span>疫</Span>
+<Span>”</Span>
+<Span>过境迁，韧性成长穿越周期</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="...........">...........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 7 -</Span>
+、食品饮料：“疫”过境迁，韧性成长穿越周期 ........................................... - 7 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>1.3<Span>1.3</Span>
+<Span>、医药：刚需属性推动行业砥砺前行</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="...........................">...........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 8 -</Span>
+、医药：刚需属性推动行业砥砺前行 ........................................................... - 8 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>1.4<Span>1.4</Span>
+<Span>、汽车：行业景气反转向上，电动智能加速落地</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 10 -</Span>
+、汽车：行业景气反转向上，电动智能加速落地 ..................................... - 10 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>1.5<Span>1.5</Span>
+<Span>、家电：莫道桑榆晚，为霞尚满天</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".............................">.............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 13 -</Span>
+、家电：莫道桑榆晚，为霞尚满天 ............................................................. - 13 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2<Span>2</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数（">指数（</Span>
+<Span>000069.SH</Span>
+<Span ActualText="）：汇聚沪市优质消费类股票">）：汇聚沪市优质消费类股票</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText=".....................">.....................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 16 -</Span>
+、上证消费80指数（000069.SH）：汇聚沪市优质消费类股票 ..................... - 16 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.1<Span>2.1</Span>
+<Span>、指数基本信息</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".............................">.............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 16 -</Span>
+、指数基本信息 ............................................................................................. - 16 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.2<Span>2.2</Span>
+<Span>、指数表现：优于市场主要宽基指数</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".........................">.........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 17 -</Span>
+、指数表现：优于市场主要宽基指数 ......................................................... - 17 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.3<Span>2.3</Span>
+<Span>、指数流动性：流动性充裕，可容纳较大规模的资金</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText=".............................">.............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 18 -</Span>
+、指数流动性：流动性充裕，可容纳较大规模的资金 ............................. - 18 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.4<Span>2.4</Span>
+<Span>、市值分布：以大中盘为主</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".........">.........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 19 -</Span>
+、市值分布：以大中盘为主 ......................................................................... - 19 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.5<Span>2.5</Span>
+<Span>、行业分布：全面覆盖具备消费属性的行业板块</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 20 -</Span>
+、行业分布：全面覆盖具备消费属性的行业板块 ..................................... - 20 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.6<Span>2.6</Span>
+<Span>、估值水平：处于近两年较低位置，配置价值凸显</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 20 -</Span>
+、估值水平：处于近两年较低位置，配置价值凸显 ................................. - 20 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.7<Span>2.7</Span>
+<Span>、指数成分股：聚焦细分领域龙头</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".............................">.............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 21 -</Span>
+、指数成分股：聚焦细分领域龙头 ............................................................. - 21 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>2.8<Span>2.8</Span>
+<Span>、指数特征：盈利能力强</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".............">.............</Span>
+<Span ActualText=" "> </Span>
+<Span>- 21 -</Span>
+、指数特征：盈利能力强 ............................................................................. - 21 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>3<Span>3</Span>
+<Span>、招商上证消费</Span>
+<Span>80ETF</Span>
+<Span>（</Span>
+<Span>510150</Span>
+<Span>）：一键布局沪市优质消费类企业</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText=".............">.............</Span>
+<Span ActualText=" "> </Span>
+<Span>- 22 -</Span>
+、招商上证消费80ETF（510150）：一键布局沪市优质消费类企业 ............. - 22 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>3.1<Span>3.1</Span>
+<Span>、产品介绍</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 22 -</Span>
+、产品介绍 ..................................................................................................... - 22 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>3.2<Span>3.2</Span>
+<Span>、基金公司</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 23 -</Span>
+、基金公司 ..................................................................................................... - 23 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>3.3<Span>3.3</Span>
+<Span>、基金经理</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 24 -</Span>
+、基金经理 ..................................................................................................... - 24 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI> </TOCI>
+<TOCI>图表目录 </TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>1</Span>
+<Span ActualText="、全国新冠肺炎新增病例回到低位">、全国新冠肺炎新增病例回到低位</Span>
+<Span>(</Span>
+<Span ActualText="单位">单位</Span>
+<Span>: </Span>
+<Span ActualText="例">例</Span>
+<Span>)</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................">................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 4 -</Span>
+1、全国新冠肺炎新增病例回到低位(单位: 例) ................................................ - 4 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>2</Span>
+<Span ActualText="、城际活动指数已经接近去年同期水平">、城际活动指数已经接近去年同期水平</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".........................">.........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 4 -</Span>
+2、城际活动指数已经接近去年同期水平 ......................................................... - 4 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>3</Span>
+<Span ActualText="、">、</Span>
+<Span>PPI</Span>
+<Span ActualText="与">与</Span>
+<Span>CPI</Span>
+<Span ActualText="同比增速及三轮消费行情">同比增速及三轮消费行情</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="..........................">..........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 6 -</Span>
+3、PPI与CPI同比增速及三轮消费行情 .......................................................... - 6 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>4</Span>
+<Span ActualText="、社零总额与">、社零总额与</Span>
+<Span>GDP</Span>
+<Span ActualText="同比增速及三轮消费行情">同比增速及三轮消费行情</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................">................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 7 -</Span>
+4、社零总额与GDP同比增速及三轮消费行情 ................................................ - 7 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>5</Span>
+<Span ActualText="、白酒板块累计收入规模及增速">、白酒板块累计收入规模及增速</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 7 -</Span>
+5、白酒板块累计收入规模及增速 ..................................................................... - 7 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>6</Span>
+<Span ActualText="、白酒板块累计净利润规模及增速">、白酒板块累计净利润规模及增速</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 7 -</Span>
+6、白酒板块累计净利润规模及增速 ................................................................. - 7 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>7</Span>
+<Span ActualText="、啤酒产量单月值及单月同比">、啤酒产量单月值及单月同比</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".........">.........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 8 -</Span>
+7、啤酒产量单月值及单月同比 ......................................................................... - 8 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>8</Span>
+<Span ActualText="、啤酒产量累计值及累计同比">、啤酒产量累计值及累计同比</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".........">.........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 8 -</Span>
+8、啤酒产量累计值及累计同比 ......................................................................... - 8 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>9</Span>
+<Span ActualText="、餐饮渠道为调">、餐饮渠道为调</Span>
+<Span ActualText="味品销售主渠道">味品销售主渠道</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....">.....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 8 -</Span>
+9、餐饮渠道为调味品销售主渠道 ..................................................................... - 8 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>10</Span>
+<Span ActualText="、疫情前调味品行业与餐饮行业收入联动性强">、疫情前调味品行业与餐饮行业收入联动性强</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="............">............</Span>
+<Span ActualText=" "> </Span>
+<Span>- 8 -</Span>
+10、疫情前调味品行业与餐饮行业收入联动性强 ............................................ - 8 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>11</Span>
+<Span ActualText="、人口老龄化趋势">、人口老龄化趋势</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="...........................">...........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 9 -</Span>
+11、人口老龄化趋势 ........................................................................................... - 9 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>12</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>6</Span>
+<Span ActualText="月份，医药制造业整体累计营业收入同比增长">月份，医药制造业整体累计营业收入同比增长</Span>
+<Span>2.30%</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="...........">...........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 9 -</Span>
+12、2022年6月份，医药制造业整体累计营业收入同比增长2.30% ........... - 9 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>13</Span>
+<Span ActualText="、以全球价值链为导向的产业升">、以全球价值链为导向的产业升</Span>
+<Span ActualText="级">级</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".............................">.............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 10 -</Span>
+13、以全球价值链为导向的产业升级 ............................................................. - 10 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>14</Span>
+<Span ActualText="、">、</Span>
+<Span>17M5-22M5</Span>
+<Span ActualText="商品房销售面积">商品房销售面积</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="....">....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 15 -</Span>
+14、17M5-22M5商品房销售面积 .................................................................... - 15 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>15</Span>
+<Span ActualText="、">、</Span>
+<Span>17M5-22M5</Span>
+<Span ActualText="房屋竣工面积">房屋竣工面积</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="........">........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 15 -</Span>
+15、17M5-22M5房屋竣工面积 ........................................................................ - 15 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>16</Span>
+<Span ActualText="、">、</Span>
+<Span>30</Span>
+<Span ActualText="大中城市商品房成交面积同比增速">大中城市商品房成交面积同比增速</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....................">.....................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 15 -</Span>
+16、30大中城市商品房成交面积同比增速..................................................... - 15 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>17</Span>
+<Span ActualText="、家电主要原材料价格">、家电主要原材料价格</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".................">.................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 16 -</Span>
+17、家电主要原材料价格 ................................................................................. - 16 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>18</Span>
+<Span ActualText="、家电主要原材料价格同比增速">、家电主要原材料价格同比增速</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 16 -</Span>
+18、家电主要原材料价格同比增速 ................................................................. - 16 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>19</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数历史走势">指数历史走势</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".......">.......</Span>
+<Span ActualText=" "> </Span>
+<Span>- 17 -</Span>
+19、上证消费80指数历史走势 ....................................................................... - 17 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>20</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数季度日均成交量及成交额">指数季度日均成交量及成交额</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="............">............</Span>
+<Span ActualText=" "> </Span>
+<Span>- 19 -</Span>
+20、上证消费80指数季度日均成交量及成交额............................................ - 19 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>21</Span>
+<Span ActualText="、成分股权重分布（单位：">、成分股权重分布（单位：</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="..">..</Span>
+<Span ActualText=" "> </Span>
+<Span>- 19 -</Span>
+21、成分股权重分布（单位：%） .................................................................. - 19 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>22</Span>
+<Span ActualText="、成分股数量分布（单位：只）">、成分股数量分布（单位：只）</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 19 -</Span>
+22、成分股数量分布（单位：只） ................................................................. - 19 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>23</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数成分股行业分布">指数成分股行业分布</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="...........................">...........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 20 -</Span>
+23、上证消费80指数成分股行业分布 ........................................................... - 20 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>24</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上">上</Span>
+<Span ActualText="证消费">证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数统计区间内估值水平">指数统计区间内估值水平</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="...................">...................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 21 -</Span>
+24、上证消费80指数统计区间内估值水平 ................................................... - 21 -</Link>
+<Span> </Span>
+</TOCI>
+</TOC>
+<TOC><TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>25</Span>
+<Span ActualText="、指数">、指数</Span>
+<Span>ROE</Span>
+<Span ActualText="比较（单位：">比较（单位：</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="....">....</Span>
+<Span ActualText=" "> </Span>
+<Span>- 22 -</Span>
+25、指数ROE比较（单位：%） .................................................................... - 22 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>图<Span ActualText="图">图</Span>
+<Span>26</Span>
+<Span ActualText="、指数销售毛利率比较（单位：">、指数销售毛利率比较（单位：</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="..........................">..........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 22 -</Span>
+26、指数销售毛利率比较（单位：%） .......................................................... - 22 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Span ActualText=" "> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>1</Span>
+<Span ActualText="、今年以来国家及各省市促销费政策梳理">、今年以来国家及各省市促销费政策梳理</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".....................">.....................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 4 -</Span>
+1、今年以来国家及各省市促销费政策梳理 ..................................................... - 4 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>2</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年初以来汽车消费刺激政策">年初以来汽车消费刺激政策</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="..............................">..............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 11 -</Span>
+2、2022年初以来汽车消费刺激政策 .............................................................. - 11 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>3</Span>
+<Span ActualText="、历史上购置税优惠政策与">、历史上购置税优惠政策与</Span>
+<Span>2022</Span>
+<Span ActualText="年的购置税政策对比">年的购置税政策对比</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="..............................">..............................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 12 -</Span>
+3、历史上购置税优惠政策与2022年的购置税政策对比 .............................. - 12 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>4</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年新能源渗透率预测（分车型销量汇总）">年新能源渗透率预测（分车型销量汇总）</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".......">.......</Span>
+<Span ActualText=" "> </Span>
+<Span>- 12 -</Span>
+4、2022年新能源渗透率预测（分车型销量汇总）....................................... - 12 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>5</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年以来各地家电消费补贴政策梳理">年以来各地家电消费补贴政策梳理</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="..................">..................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 13 -</Span>
+5、2022年以来各地家电消费补贴政策梳理 .................................................. - 13 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>6</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数基本信息">指数基本信息</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".........">.........</Span>
+<Span ActualText=" "> </Span>
+<Span>- 17 -</Span>
+6、上证消费80指数基本信息 ......................................................................... - 17 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>7</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数长期表现比较">指数长期表现比较</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 18 -</Span>
+7、上证消费80指数长期表现比较 ................................................................. - 18 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>8</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数短期表现比较">指数短期表现比较</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 18 -</Span>
+8、上证消费80指数短期表现比较 ................................................................. - 18 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>9</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数前十大成分股">指数前十大成分股</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 21 -</Span>
+9、上证消费80指数前十大成分股 ................................................................. - 21 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>10</Span>
+<Span ActualText="、上证消费">、上证消费</Span>
+<Span>80</Span>
+<Span ActualText="交易型开放式指数证券投资基金基本信息">交易型开放式指数证券投资基金基本信息</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="........................">........................</Span>
+<Span ActualText=" "> </Span>
+<Span>- 22 -</Span>
+10、上证消费80交易型开放式指数证券投资基金基本信息 ........................ - 22 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>11</Span>
+<Span ActualText="、招商基金">、招商基金</Span>
+<Span>ETF</Span>
+<Span ActualText="产品布局">产品布局</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="............">............</Span>
+<Span ActualText=" "> </Span>
+<Span>- 23 -</Span>
+11、招商基金ETF产品布局 ............................................................................ - 23 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Link>表<Span ActualText="表">表</Span>
+<Span>12</Span>
+<Span ActualText="、基金经理许荣漫管理基金概况">、基金经理许荣漫管理基金概况</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText="................................">................................</Span>
+<Span ActualText=".">.</Span>
+<Span ActualText=" "> </Span>
+<Span>- 24 -</Span>
+12、基金经理许荣漫管理基金概况 ................................................................. - 24 -</Link>
+<Span> </Span>
+</TOCI>
+<TOCI><Span ActualText=" "> </Span>
+</TOCI>
+</TOC>
+<P><Span> </Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="报告正文">报告正文</Span>
+<Span ActualText=" "> </Span>
+</P>
+<H1>1、暖日晴风路，消费复苏时  </H1>
+<H2>1.1、经济企稳，消费复苏 </H2>
+<P>当前国内经济数据正在逐步回暖。随着国内新冠肺炎新增病例回到低位，疫情改善后多地解封，6月中旬全国城际活动指数已经恢复到去年同期水平，生产活动相比3-5月份已在快速恢复。 </P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>1</Span>
+<Span ActualText="、全国新冠肺炎新增病例回到低位">、全国新冠肺炎新增病例回到低位</Span>
+<Span>(</Span>
+<Span ActualText="单位">单位</Span>
+<Span>: </Span>
+<Span ActualText="例">例</Span>
+<Span>)</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P> </P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>2</Span>
+<Span ActualText="、城际活动指数已经接近去年同期水平">、城际活动指数已经接近去年同期水平</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P> </P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_2.jpg"/>
+</Figure>
+</TD>
+<TD><P> </P>
+</TD>
+<TD><P> </P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_1.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P>资料来源：Wind，兴业证券经济与金融研究院整理 </P>
+</TD>
+<TD><P> </P>
+</TD>
+<TD><P>资料来源：百度迁徙，兴业证券经济与金融研究院宏观团队整理 </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="国家及各省市陆续出台稳经济促销费政策，下半年消费迎来积极信号。">国家及各省市陆续出台稳经济促销费政策，下半年消费迎来积极信号。</Span>
+<Span>2022</Span>
+<Span ActualText="年一季度，我国最终消费支出对经济增长贡献率达">年一季度，我国最终消费支出对经济增长贡献率达</Span>
+<Span>69.4%</Span>
+<Span ActualText="，仍是经济增长的第一">，仍是经济增长的第一</Span>
+<Span ActualText="拉动力。">拉动力。</Span>
+<Span>4</Span>
+<Span ActualText="月份以来，国务院多次召开会议发布相关政策，加大对困难行业帮扶、">月份以来，国务院多次召开会议发布相关政策，加大对困难行业帮扶、</Span>
+<Span ActualText="减税降费及稳经济促销费等，各地也纷纷出台稳经济政策措施，在拉动需求方面，">减税降费及稳经济促销费等，各地也纷纷出台稳经济政策措施，在拉动需求方面，</Span>
+<Span ActualText="发布了消费券、汽车购置税减免、家电以旧换新等措施。">发布了消费券、汽车购置税减免、家电以旧换新等措施。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>1</Span>
+<Span ActualText="、今年以来国家及各省市促销费政策梳理">、今年以来国家及各省市促销费政策梳理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P>省市 </P>
+</TH>
+<TD><P>时间 </P>
+</TD>
+<TD><P>政策 </P>
+</TD>
+<TD><P>政策内容 </P>
+</TD>
+</TR>
+<TR><TH><P>全国 </P>
+</TH>
+<TD><P>2022/4/25 </P>
+</TD>
+<TD><P>《关于进一步释放消费潜力促进消费持续恢复的意见》 </P>
+</TD>
+<TD><P>巩固传统消费，支持新能源汽车加快发展，鼓励地方开展绿色智能家电下乡和以旧换新。加快发展新兴消费，鼓励发展新业态新模式新场景，培育壮大定制、体验、智能、时尚等新兴消费。办好进博会、消博会等展会，促进品牌消费、品质消费。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省 </P>
+</TH>
+<TD><P>2022/4/27 </P>
+</TD>
+<TD><P>《广东省进一步促进消费若干措施》 </P>
+</TD>
+<TD><P>1)对珠三角地市(不含深圳市)按其发放消费券实际支出的 50%比例补贴，每市最高补贴不超过 3000 万元。2)粤东西北各市发放消费券不得少于 500 万元，超出基础部分按 70%比例补贴，每市最高补贴不超过 2500 万元。3)报废旧车，购买新能源汽车的补贴 10000 元/辆、购买燃油汽车的补贴 5000 元/辆; 转出旧车，购买新能源汽车的补贴 8000 元/辆、购买燃油汽车的补贴 3000 元/辆。 </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<Table><TBody><TR><TH><P>福建省福州市 </P>
+</TH>
+<TD><P>2022/4/28 </P>
+</TD>
+<TD><P>“惠聚榕城福见商旅”促消费活动 </P>
+</TD>
+<TD><P>2022年4月28日至10月31日期间，将分期发放总额1.2亿元商旅消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>浙江省 </P>
+</TH>
+<TD><P>2022/4/29 </P>
+</TD>
+<TD><P>“浙里来消费·开门焕新消费季” </P>
+</TD>
+<TD><P>一季度全省发放各类消费券近20亿，二季度持续以消费券暖市，其中宁波总投放金额超3亿元，绍兴第二批消费券总金额1亿元，丽水预计投入1.8亿元，浙江银联投入近4500万用于补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>海南省 </P>
+</TH>
+<TD><P>2022/4/29 </P>
+</TD>
+<TD><P>《海南省促进消费若干意见》 </P>
+</TD>
+<TD><P>省财政安排1亿元开展消费券发放活动。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省深圳市 </P>
+</TH>
+<TD><P>2022/4/30 </P>
+</TD>
+<TD><P>《深圳市消费电子和家用电器购置补贴申请工作指引》 </P>
+</TD>
+<TD><P>拿出1亿元用于补贴消费者购买手机、无人机、电视、冰箱、洗衣机等，消费电子和家用电器等产品，市民购买家电最高可以补贴2000元。 </P>
+</TD>
+</TR>
+<TR><TH><P>吉林省长春市 </P>
+</TH>
+<TD><P>2022/5/3 </P>
+</TD>
+<TD><P>《贯彻落实〈吉林省积极应对疫情影响促进消费回补和潜力释放若干措施〉实施方案》 </P>
+</TD>
+<TD><P>发放家电、住房、汽车、文旅等领域消费券，计划全年发放2亿元消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>陕西省 </P>
+</TH>
+<TD><P>2022/5/3 </P>
+</TD>
+<TD><P>《陕西省进一步激发消费活力促进消费增长三年行动方案(2022—2024年)》 </P>
+</TD>
+<TD><P>依托国内线上支付平台定期发放汽车消费券、家电家居消费券、餐饮消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>浙江省义乌市 </P>
+</TH>
+<TD><P>2022/5/12 </P>
+</TD>
+<TD><P>2022年汽车促消费活动 </P>
+</TD>
+<TD><P>从2022年5月15日开始至2022年6月15日，购车可享补贴，最高一万元。 </P>
+</TD>
+</TR>
+<TR><TH><P>山东省青岛市 </P>
+</TH>
+<TD><P>2022/5/20 </P>
+</TD>
+<TD><P>“亿惠青岛 嗨享生活”主题消费活动 </P>
+</TD>
+<TD><P>统筹社会各界及各区(市)资金约2.67亿元，面向市民和来青人员发放300多万张消费券。包括家电、汽车、零售、餐饮、啤酒节及线上平台消费等6种消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>全国 </P>
+</TH>
+<TD><P>2022/5/23 </P>
+</TD>
+<TD><P>《稳经济一揽子措施》 </P>
+</TD>
+<TD><P>促消费和有效投资，放宽汽车限购，阶段性减征部分乘用车购置税600亿元。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省深圳市 </P>
+</TH>
+<TD><P>2022/5/23 </P>
+</TD>
+<TD><P>《深圳市关于促进消费持续恢复的若干措施》 </P>
+</TD>
+<TD><P>1)发放4亿元购物消费券、6000万元餐饮消费券、1000万元文体旅游消费券、3000万元数字人民币红包。2)购置新能源汽车给予最高不超过1万元/台补贴。3)消费电子产品、家电按照销售价格的15%给予补贴，每人累计最高2000元。 </P>
+</TD>
+</TR>
+<TR><TH><P>贵州省 </P>
+</TH>
+<TD><P>2022/5/24 </P>
+</TD>
+<TD><P>《2022年“多彩贵州·助商惠民”促消费专项行动方案》 </P>
+</TD>
+<TD><P>100,00万元通用旅游消费券(包)、9,000万元餐饮消费券、6,000万元住宿消费券、5,000万元零售消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>湖北省  </P>
+</TH>
+<TD><P>2022/5/25 </P>
+</TD>
+<TD><P>《关于加快消费恢复提振的若干 措施》  </P>
+</TD>
+<TD><P>1)6 月至 10 月，将分批次投放消费券。2)报废旧车并购买新能源汽车的补贴 8,000 元/辆、购买燃油汽车的补贴 3,000 元/辆;转 出旧车并购买新能源汽车的补贴 5,000 元/辆、购买燃油汽车的补贴 2,000 元/辆。  </P>
+</TD>
+</TR>
+<TR><TH><P>广东省深圳市 </P>
+</TH>
+<TD><P>2022/5/27 </P>
+</TD>
+<TD><P>《深圳市关于促进消费持续恢复的若干措施》 </P>
+</TD>
+<TD><P>1)鼓励汽车消费:支持个人消费者购买新能源汽车，增加普通小汽车增量指标投放。2)扩大消费电子市场规模:开展消费电子产品促销活动，拓展集中采购订单。3)推动家电消费:开展绿色节能家电促销，按照销售价格的15%给予补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>河南省郑州市 </P>
+</TH>
+<TD><P>2022/5/27 </P>
+</TD>
+<TD><P>第三届“醉美·夜郑州”消费季 </P>
+</TD>
+<TD><P>餐饮消费券、线上消费券、汽车消费券、文旅消费券等2.4亿元消费券，其中汽车消费券为1亿元。 </P>
+</TD>
+</TR>
+<TR><TH><P>山东省青岛市 </P>
+</TH>
+<TD><P>2022/5/27 </P>
+</TD>
+<TD><P>《青岛市激发市场活力稳定经济增长若干政策措施》 </P>
+</TD>
+<TD><P>统筹2.67亿元各类资金，为市民发放零售、餐饮、文旅、家电、汽车等300万张消费券；将旅行社服务质量保证金暂退比例由80%提高至100%；支持餐饮业恢复发展。 </P>
+</TD>
+</TR>
+<TR><TH><P>上海市 </P>
+</TH>
+<TD><P>2022/5/29 </P>
+</TD>
+<TD><P>《上海市加快经济恢复和重振行动方案》 </P>
+</TD>
+<TD><P>1)2022 年 12 月 31 日前，报废或转出名小客车并购买纯电动汽车的，给予每辆车 10000  元的财政补贴。 2)开展家电以旧换新、绿色智能家电和电子消费产品促销等活动 。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省 </P>
+</TH>
+<TD><P>2022/6/1 </P>
+</TD>
+<TD><P>《广东省贯彻落实国务院〈扎实稳住经济的一揽子政策措施〉实施方案》 </P>
+</TD>
+<TD><P>稳定增加汽车、家电等各领域消费。对个人消费者今年6月30日前在省内购买以旧换新推广车型范围内的新能源汽车新车，给予8000元/辆补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省中山市 </P>
+</TH>
+<TD><P>2022/6/2 </P>
+</TD>
+<TD><P>《中山市贯彻落实国务院〈扎实稳住经济的一揽子政策措施〉实施方案》 </P>
+</TD>
+<TD><P>从财政、货币金融、稳投资促消费、粮食能源安全、产业链供应链稳定、基本民生等六个方面提出了138项具体举措，进一步放大稳经济政策效应。 </P>
+</TD>
+</TR>
+<TR><TH><P>四川省 </P>
+</TH>
+<TD><P>2022/6/6 </P>
+</TD>
+<TD><P>《扎实稳住经济增长若干政策措施》 </P>
+</TD>
+<TD><P>省级财政安排资金6.6亿元，支持各地面向餐饮、零售等行业发放消费券，鼓励开展汽车、家电及综合型主题促销活</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<Table><TBody><TR><TH/>
+<TD/>
+<TD/>
+<TD><P>动，对符合条件的经营困难餐饮企业应交水电气费用给予补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：各地政府官网，兴业证券经济与金融研究院整理 </P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="复盘历史上三轮消费行情，可以发现具备以下几个特征：">复盘历史上三轮消费行情，可以发现具备以下几个特征：</Span>
+<Span>1</Span>
+<Span ActualText="）时段特征：">）时段特征：</Span>
+<Span ActualText="持续">持续</Span>
+<Span ActualText="时间">时间</Span>
+<Span>12-20</Span>
+<Span ActualText="个月，此前大盘经历大幅下跌；">个月，此前大盘经历大幅下跌；</Span>
+<Span ActualText="２）宏观背景：">２）宏观背景：</Span>
+<Span ActualText="经济回暖，">经济回暖，</Span>
+<Span>GDP</Span>
+<Span ActualText="均处">均处</Span>
+<Span ActualText="于上升阶段，社零增速上升，其中必选零售额增速好于消费整体；">于上升阶段，社零增速上升，其中必选零售额增速好于消费整体；</Span>
+<Span ActualText="３）通胀环境：">３）通胀环境：</Span>
+<Span>PPI</Span>
+<Span ActualText="与">与</Span>
+<Span>CPI</Span>
+<Span ActualText="渐次上升，二者剪刀差收敛。">渐次上升，二者剪刀差收敛。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="今年以来，俄乌地缘摩擦削弱全球经济预期，国内区域疫情爆发，叠加多地">今年以来，俄乌地缘摩擦削弱全球经济预期，国内区域疫情爆发，叠加多地</Span>
+<Span ActualText="出现点状疫情，">出现点状疫情，</Span>
+<Span>3-4</Span>
+<Span ActualText="月经济表现较弱，">月经济表现较弱，</Span>
+<Span>A</Span>
+<Span ActualText="股食品饮料指数也经历了大幅下跌。">股食品饮料指数也经历了大幅下跌。</Span>
+<Span ActualText="当下">当下</Span>
+<Span ActualText="压制消费表现的因素逐渐解除，有望迎来新一轮消费行情：">压制消费表现的因素逐渐解除，有望迎来新一轮消费行情：</Span>
+<Span>1</Span>
+<Span ActualText="）时段特征：">）时段特征：</Span>
+<Span ActualText="以">以</Span>
+<Span>2021</Span>
+<Span ActualText="年">年</Span>
+<Span>12</Span>
+<Span ActualText="月">月</Span>
+<Span>31</Span>
+<Span ActualText="日的收盘价为基准，上证指数自">日的收盘价为基准，上证指数自</Span>
+<Span>2022</Span>
+<Span ActualText="年年初至">年年初至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>6</Span>
+<Span ActualText="月">月</Span>
+<Span>17</Span>
+<Span ActualText="日累">日累</Span>
+<Span ActualText="计下跌">计下跌</Span>
+<Span>8.9%</Span>
+<Span ActualText="，目前已从阶段底部企稳回升；">，目前已从阶段底部企稳回升；</Span>
+<Span>2</Span>
+<Span ActualText="）宏观背景：">）宏观背景：</Span>
+<Span ActualText="上海市已经复工复产，">上海市已经复工复产，</Span>
+<Span ActualText="各地疫情防控趋稳，消费场景有望大面积复苏，同时稳经济措施力度加大，">各地疫情防控趋稳，消费场景有望大面积复苏，同时稳经济措施力度加大，</Span>
+<Span>“</Span>
+<Span ActualText="三驾">三驾</Span>
+<Span ActualText="马车">马车</Span>
+<Span>”</Span>
+<Span ActualText="之一的消费可成为重要经济抓手；">之一的消费可成为重要经济抓手；</Span>
+<Span>3</Span>
+<Span ActualText="）通胀环境：">）通胀环境：</Span>
+<Span>PPI</Span>
+<Span ActualText="增速见顶回落，">增速见顶回落，</Span>
+<Span>CPI</Span>
+<Span ActualText="增">增</Span>
+<Span ActualText="速温和上行，涨价趋势由工业品传导至消费品，预计下游消费企业成本端承压状">速温和上行，涨价趋势由工业品传导至消费品，预计下游消费企业成本端承压状</Span>
+<Span ActualText="况有所改善，收入端有望小幅受益于">况有所改善，收入端有望小幅受益于</Span>
+<Span>CPI</Span>
+<Span ActualText="上行，毛利率有上行空">上行，毛利率有上行空</Span>
+<Span ActualText="间。">间。</Span>
+<Span ActualText="从时段特征、">从时段特征、</Span>
+<Span ActualText="宏观背景、通胀环境来看，当前消费板块与历史上表现优异的时段存在共性，因">宏观背景、通胀环境来看，当前消费板块与历史上表现优异的时段存在共性，因</Span>
+<Span ActualText="此消费板块有望">此消费板块有望</Span>
+<Span ActualText="迎">迎</Span>
+<Span ActualText="来新一轮行情。">来新一轮行情。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="图">图</Span>
+<Span>3</Span>
+<Span ActualText="、">、</Span>
+<Span>PPI</Span>
+<Span ActualText="与">与</Span>
+<Span>CPI</Span>
+<Span ActualText="同比增速及三轮消费行情">同比增速及三轮消费行情</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_3.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="备">备</Span>
+<Span ActualText="注：更新至">注：更新至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span> </Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="图">图</Span>
+<Span>4</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="社零总额与">社零总额与</Span>
+<Span>GDP</Span>
+<Span ActualText="同比增速及三轮消费行情">同比增速及三轮消费行情</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_6.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="备">备</Span>
+<Span ActualText="注：更新至">注：更新至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>1.2、食品饮料：“疫”过境迁，韧性成长穿越周期 </H2>
+<P><Span ActualText="白酒">白酒</Span>
+<Span ActualText="板块：">板块：</Span>
+<Span>22Q1</Span>
+<Span ActualText="业绩">业绩</Span>
+<Span ActualText="优异。">优异。</Span>
+<Span>2020</Span>
+<Span ActualText="年">年</Span>
+<Span>Q1</Span>
+<Span ActualText="疫情对白酒消费和财务报表影响大，">疫情对白酒消费和财务报表影响大，</Span>
+<Span>20Q2</Span>
+<Span ActualText="拉动销去库存，报表营收和盈利继续承压，">拉动销去库存，报表营收和盈利继续承压，</Span>
+<Span>20Q3</Span>
+<Span ActualText="开始正常化，">开始正常化，</Span>
+<Span ActualText="至">至</Span>
+<Span>22Q1</Span>
+<Span ActualText="白">白</Span>
+<Span ActualText="酒板块呈连续较快增长态势，景气度处于较好水平。">酒板块呈连续较快增长态势，景气度处于较好水平。</Span>
+<Span>22Q1</Span>
+<Span ActualText="在板块整体基数不低的">在板块整体基数不低的</Span>
+<Span ActualText="情况，春节回款、动销、库存均表现良好，其中尤以地产酒因">情况，春节回款、动销、库存均表现良好，其中尤以地产酒因</Span>
+<Span>“</Span>
+<Span ActualText="返乡消费">返乡消费</Span>
+<Span>”</Span>
+<Span ActualText="热烈，业">热烈，业</Span>
+<Span ActualText="绩整体较佳。">绩整体较佳。</Span>
+<Span>22Q1</Span>
+<Span ActualText="白酒板块营业收入同比增长">白酒板块营业收入同比增长</Span>
+<Span>22.28%</Span>
+<Span ActualText="，归母净利润同比增长">，归母净利润同比增长</Span>
+<Span>27.30%</Span>
+<Span ActualText="，扣非归母净利润同比增长">，扣非归母净利润同比增长</Span>
+<Span>26.76%</Span>
+<Span ActualText="，板块业绩增速较">，板块业绩增速较</Span>
+<Span>21H2</Span>
+<Span ActualText="有所加速，多">有所加速，多</Span>
+<Span ActualText="数企业报表质量较好。">数企业报表质量较好。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>5</Span>
+<Span ActualText="、白酒板块累计收入规模及增速">、白酒板块累计收入规模及增速</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>6</Span>
+<Span ActualText="、白酒板块累计净利润规模及增速">、白酒板块累计净利润规模及增速</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_4.jpg"/>
+</Figure>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_5.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="备">备</Span>
+<Span ActualText="注：在做板块及行业分析时，以">注：在做板块及行业分析时，以</Span>
+<Span>SW</Span>
+<Span ActualText="食品饮料指数为基础">食品饮料指数为基础</Span>
+<Span ActualText="样本，并剔除短期经营存在较大波动、参考意义不强的个股">样本，并剔除短期经营存在较大波动、参考意义不强的个股</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="啤酒板块：">啤酒板块：</Span>
+<Span ActualText="随着">随着</Span>
+<Span>5</Span>
+<Span ActualText="月以来疫情逐步得到掌控，">月以来疫情逐步得到掌控，</Span>
+<Span ActualText="消费场景恢复下">消费场景恢复下</Span>
+<Span ActualText="，啤酒">，啤酒</Span>
+<Span ActualText="预计销">预计销</Span>
+<Span ActualText="量环比大幅改善，">量环比大幅改善，</Span>
+<Span ActualText="同时">同时</Span>
+<Span>6</Span>
+<Span ActualText="月上海解封叠加旺季催化，景气持续向上，">月上海解封叠加旺季催化，景气持续向上，</Span>
+<Span>22Q2</Span>
+<Span ActualText="销量有">销量有</Span>
+<Span ActualText="望延续稳健节奏。此外从基数角度来看，">望延续稳健节奏。此外从基数角度来看，</Span>
+<Span>21</Span>
+<Span ActualText="年旺季不旺，同时原材料成本上行，">年旺季不旺，同时原材料成本上行，</Span>
+<Span ActualText="基本上酒企自">基本上酒企自</Span>
+<Span>21Q2</Span>
+<Span ActualText="开始销量、收入、利润基数压力有所减弱。今年较大概率旺季">开始销量、收入、利润基数压力有所减弱。今年较大概率旺季</Span>
+<Span ActualText="时间长、天气暖，若后续疫情控制及消费场景复苏顺利，叠加提价逐渐反映到报">时间长、天气暖，若后续疫情控制及消费场景复苏顺利，叠加提价逐渐反映到报</Span>
+<Span ActualText="表端，有望兑现较高业绩弹性。">表端，有望兑现较高业绩弹性。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>7</Span>
+<Span ActualText="、啤酒产量单月值及单月同比">、啤酒产量单月值及单月同比</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>8</Span>
+<Span ActualText="、啤酒产量累计值及累计同比">、啤酒产量累计值及累计同比</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure/>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure/>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="调味品：餐饮的修复为基础调味品需求提升的主要来源，有望迎来利润拐点。">调味品：餐饮的修复为基础调味品需求提升的主要来源，有望迎来利润拐点。</Span>
+<Span ActualText="随着防疫政策的常态化，居民消费回归常态化，餐饮需求恢复的节奏逐步修复至">随着防疫政策的常态化，居民消费回归常态化，餐饮需求恢复的节奏逐步修复至</Span>
+<Span>2021</Span>
+<Span ActualText="年。基础调味品中，餐饮渠道占比更高，餐饮需求的修复将为收入恢复提速">年。基础调味品中，餐饮渠道占比更高，餐饮需求的修复将为收入恢复提速</Span>
+<Span ActualText="提供支撑。">提供支撑。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>9</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="餐饮渠道为调味品销售主渠道">餐饮渠道为调味品销售主渠道</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>10</Span>
+<Span ActualText="、疫情前调味品行业与餐饮行业收入联动性强">、疫情前调味品行业与餐饮行业收入联动性强</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_7.jpg"/>
+</Figure>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_8.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：欧睿，兴业证券经济与金融研究院整理">资料来源：欧睿，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：国家统计局，中国产业信息网，兴业证券经济与">资料来源：国家统计局，中国产业信息网，兴业证券经济与</Span>
+<Span ActualText="金融研究院整理">金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>1.3、医药：刚需属性推动行业砥砺前行 </H2>
+<P><Span ActualText="刚需属性驱动行业">刚需属性驱动行业</Span>
+<Span ActualText="持续">持续</Span>
+<Span ActualText="发展">发展</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText="医药行业在延长人类平均寿命、提高生活质量">医药行业在延长人类平均寿命、提高生活质量</Span>
+<Span ActualText="上一直扮演着重要角色。随着生物医药技术的发展和人口老龄化加剧，近年来多">上一直扮演着重要角色。随着生物医药技术的发展和人口老龄化加剧，近年来多</Span>
+</P>
+<P><Span ActualText="种新药和治疗手段问世，全球医疗卫生支出持续增长，驱动行业不断向前发展，">种新药和治疗手段问世，全球医疗卫生支出持续增长，驱动行业不断向前发展，</Span>
+<Span ActualText="也给资本市场的医药投资者带来了不菲的回报。从美国、日本等发达国家以及中">也给资本市场的医药投资者带来了不菲的回报。从美国、日本等发达国家以及中</Span>
+<Span ActualText="国股市近">国股市近</Span>
+<Span>10</Span>
+<Span ActualText="年来的走势看，医药行业都是长跑冠军，远远跑赢大市。">年来的走势看，医药行业都是长跑冠军，远远跑赢大市。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="图">图</Span>
+<Span>11</Span>
+<Span ActualText="、人口老龄化趋势">、人口老龄化趋势</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P> </P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_9.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span ActualText="世界卫生组织、">世界卫生组织、</Span>
+<Span>Frost &amp; Sullivan</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="兴业证券经济与金融研究院整理">兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="短中期来看，">短中期来看，</Span>
+<Span ActualText="消费医疗">消费医疗</Span>
+<Span ActualText="有望带动医药板块上行">有望带动医药板块上行</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="在疫情趋于稳定，国内经济">在疫情趋于稳定，国内经济</Span>
+<Span ActualText="复苏的大背景下，">复苏的大背景下，</Span>
+<Span> “</Span>
+<Span ActualText="需求回补">需求回补</Span>
+<Span>”</Span>
+<Span ActualText="是当前行业上行的主要驱动力，">是当前行业上行的主要驱动力，</Span>
+<Span ActualText="消费医疗等领域相">消费医疗等领域相</Span>
+<Span ActualText="对可能最先复苏，后续随着供应链恢复和需求复苏，医药制造业也会逐步恢复。">对可能最先复苏，后续随着供应链恢复和需求复苏，医药制造业也会逐步恢复。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>12</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>6</Span>
+<Span ActualText="月份，医药制造业整体累计营业收入同比增长">月份，医药制造业整体累计营业收入同比增长</Span>
+<Span>2.30%</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_10.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：国家统计局，兴业证券经济与金融研究院整理">资料来源：国家统计局，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：截至">数据日期：截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>6</Span>
+<Span ActualText="月">月</Span>
+<Span>30</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="备注：增速为右轴">备注：增速为右轴</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="中长期">中长期</Span>
+<Span ActualText="来看，">来看，</Span>
+<Span ActualText="中国高端制造与前沿技术在全球医药产业链上的">中国高端制造与前沿技术在全球医药产业链上的</Span>
+<Span ActualText="地位有望提升">地位有望提升</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="从">从</Span>
+<Span>“</Span>
+<Span ActualText="内卷">内卷</Span>
+<Span>”</Span>
+<Span ActualText="走向">走向</Span>
+<Span>“</Span>
+<Span ActualText="外卷">外卷</Span>
+<Span>”</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="随着我国人口红利向工程师红利逐步迁移，中国医药产业">随着我国人口红利向工程师红利逐步迁移，中国医药产业</Span>
+<Span ActualText="的国际竞争优势也有望随之从单一成本优势向差异化产品优势及高效创新优势">的国际竞争优势也有望随之从单一成本优势向差异化产品优势及高效创新优势</Span>
+<Span ActualText="（如创新药领域的临床研发优势、医疗器械领域的医工合作创新优势等）不断提">（如创新药领域的临床研发优势、医疗器械领域的医工合作创新优势等）不断提</Span>
+<Span ActualText="升，部分出口占比较高的医疗器械企业从">升，部分出口占比较高的医疗器械企业从</Span>
+<Span>OEM</Span>
+<Span ActualText="（">（</Span>
+<Span>original equipment manufacture</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="原始设备制造商）向">原始设备制造商）向</Span>
+<Span>ODM</Span>
+<Span ActualText="（">（</Span>
+<Span>original design manufacture</Span>
+<Span ActualText="，原始设计制造商）再向">，原始设计制造商）再向</Span>
+</P>
+<P><Span>OBM</Span>
+<Span ActualText="（">（</Span>
+<Span>original brand manufacture</Span>
+<Span ActualText="，原始品牌制造商）的业务重心转移便是很好的">，原始品牌制造商）的业务重心转移便是很好的</Span>
+<Span ActualText="例证。">例证。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="在政策端，">在政策端，</Span>
+<Span ActualText="《">《</Span>
+<Span>“</Span>
+<Span ActualText="十四五">十四五</Span>
+<Span>”</Span>
+<Span ActualText="医药工业发展规划》">医药工业发展规划》</Span>
+<Span ActualText="也">也</Span>
+<Span ActualText="明确提出">明确提出</Span>
+<Span>“</Span>
+<Span ActualText="推动国内医药企业更">推动国内医药企业更</Span>
+<Span ActualText="高水平进入国际市场">高水平进入国际市场</Span>
+<Span>”</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="针对市场空间广阔，但准入及监管壁垒相对较高，同时面">针对市场空间广阔，但准入及监管壁垒相对较高，同时面</Span>
+<Span ActualText="临来自海外医药巨头直接较量的成熟发达国家市场，">临来自海外医药巨头直接较量的成熟发达国家市场，</Span>
+<Span>“</Span>
+<Span ActualText="支持企业开展创新药国内外">支持企业开展创新药国内外</Span>
+<Span ActualText="同步注册，开展面向发达国家市场的全球多中心临床研究，在更广阔的空间实现">同步注册，开展面向发达国家市场的全球多中心临床研究，在更广阔的空间实现</Span>
+<Span ActualText="创新药价值；把握生物类似药国际市场机遇，鼓励疫苗生产企业开展国际认证，">创新药价值；把握生物类似药国际市场机遇，鼓励疫苗生产企业开展国际认证，</Span>
+<Span ActualText="按照国际疫苗采购要求生产、出口疫苗；增加在发达国家仿制药注册数量，提高">按照国际疫苗采购要求生产、出口疫苗；增加在发达国家仿制药注册数量，提高</Span>
+<Span ActualText="首仿药、复杂制">首仿药、复杂制</Span>
+<Span ActualText="剂等高附加值产品比重">剂等高附加值产品比重</Span>
+<Span>”</Span>
+<Span ActualText="。而在市场潜力可观的待开发新兴国家市">。而在市场潜力可观的待开发新兴国家市</Span>
+<Span ActualText="场，可充分借鉴此前医药">场，可充分借鉴此前医药</Span>
+<Span>MNC</Span>
+<Span ActualText="拓展并培育中国市场的经验，">拓展并培育中国市场的经验，</Span>
+<Span>“</Span>
+<Span ActualText="加快产业链全球布">加快产业链全球布</Span>
+<Span ActualText="局，鼓励企业提高国际市场运营能力，加强与共建">局，鼓励企业提高国际市场运营能力，加强与共建</Span>
+<Span>“</Span>
+<Span ActualText="一带一路">一带一路</Span>
+<Span>”</Span>
+<Span ActualText="国家投资合作，积">国家投资合作，积</Span>
+<Span ActualText="极开拓新兴医药市场">极开拓新兴医药市场</Span>
+<Span>”</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="展望未来，中国本土医药企业有望">展望未来，中国本土医药企业有望</Span>
+<Span ActualText="采取差异化国际市场开">采取差异化国际市场开</Span>
+<Span ActualText="发策略，结合公司自身历史积淀与产业优势，不断提升中国医药产业在全球价值">发策略，结合公司自身历史积淀与产业优势，不断提升中国医药产业在全球价值</Span>
+<Span ActualText="链上的地位。">链上的地位。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="图">图</Span>
+<Span>13</Span>
+<Span ActualText="、以全球价值链为导向的产业升级">、以全球价值链为导向的产业升级</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P> </P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_11.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Duke GVC Center</Span>
+<Span ActualText="，">，</Span>
+<Span>Taglioni and Winkler (2016) </Span>
+<Span ActualText="，兴业证券经济与金融研究院整">，兴业证券经济与金融研究院整</Span>
+<Span ActualText="理">理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>1.4、汽车：行业景气反转向上，电动智能加速落地 </H2>
+<P><Span ActualText="展望">展望</Span>
+<Span>2022H2</Span>
+<Span ActualText="，复工复产叠加超预期政策刺激，乘用车景气反转向上，预计">，复工复产叠加超预期政策刺激，乘用车景气反转向上，预计</Span>
+<Span>Q3/Q4</Span>
+<Span ActualText="销量同比均有望双位数增长。">销量同比均有望双位数增长。</Span>
+<Span ActualText="与历史相比，">与历史相比，</Span>
+<Span>2022</Span>
+<Span ActualText="年年初以来汽车行业消费">年年初以来汽车行业消费</Span>
+<Span ActualText="刺激政策作用范围更广、力度更大。">刺激政策作用范围更广、力度更大。</Span>
+<Span>2022</Span>
+<Span ActualText="年初以来国务院、工信部等陆续出台乘">年初以来国务院、工信部等陆续出台乘</Span>
+<Span ActualText="用车购置税减征、新能源汽车下乡政策，上海、深圳、山东等多个地方政府也出">用车购置税减征、新能源汽车下乡政策，上海、深圳、山东等多个地方政府也出</Span>
+<Span ActualText="台相关购车补贴、增加牌照供给等相关汽车刺激政策。就购置税优惠政策而言，">台相关购车补贴、增加牌照供给等相关汽车刺激政策。就购置税优惠政策而言，</Span>
+<Span ActualText="本次购置税减半的政策实施对象覆盖">本次购置税减半的政策实施对象覆盖</Span>
+<Span>30</Span>
+<Span ActualText="万元以下排量小于">万元以下排量小于</Span>
+<Span>2L</Span>
+<Span ActualText="的燃油车，而过去">的燃油车，而过去</Span>
+<Span ActualText="的购置税政策主要针对">的购置税政策主要针对</Span>
+<Span>1.6L</Span>
+<Span ActualText="以下排量的燃油车，因此本次购置税优惠政策的作用">以下排量的燃油车，因此本次购置税优惠政策的作用</Span>
+<Span ActualText="范围更广，力度更大。同时，">范围更广，力度更大。同时，</Span>
+<Span>2022</Span>
+<Span ActualText="年以来各地方密集的政策预计也将对汽车销售">年以来各地方密集的政策预计也将对汽车销售</Span>
+<Span ActualText="产生促进作用。从历史来看，汽车周期反转的行情机会呈现">产生促进作用。从历史来看，汽车周期反转的行情机会呈现</Span>
+<Span>“</Span>
+<Span ActualText="销">销</Span>
+<Span ActualText="量反转">量反转</Span>
+<Span>”</Span>
+<Span ActualText="和">和</Span>
+<Span>“</Span>
+<Span ActualText="业绩兑">业绩兑</Span>
+<Span ActualText="现">现</Span>
+<Span>”</Span>
+<Span ActualText="两波，复盘比较下，此轮行业周期的复苏类似历史两轮汽车的叠加（政策方面">两波，复盘比较下，此轮行业周期的复苏类似历史两轮汽车的叠加（政策方面</Span>
+</P>
+<P><Span ActualText="比">比</Span>
+<Span>2015Q4-2016Q2</Span>
+<Span ActualText="更强，公共卫生事件影响类似">更强，公共卫生事件影响类似</Span>
+<Span>2020Q2-2020Q3</Span>
+<Span ActualText="），当前汽车的">），当前汽车的</Span>
+<Span ActualText="机会处于">机会处于</Span>
+<Span>“</Span>
+<Span ActualText="销量反转">销量反转</Span>
+<Span>”</Span>
+<Span ActualText="的第一波机会中段，行情延续的时间和空间均未结束。">的第一波机会中段，行情延续的时间和空间均未结束。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>2</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年初以来汽车消费刺激政策">年初以来汽车消费刺激政策</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P> </P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_12.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P>资料来源：中央和地方财政部，兴业证券经济与金融研究院整理 </P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span> </Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>3</Span>
+<Span ActualText="、历史上购置税优惠政策与">、历史上购置税优惠政策与</Span>
+<Span>2022</Span>
+<Span ActualText="年的购置税政策对比">年的购置税政策对比</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P> </P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_13.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P>资料来源：财政部，兴业证券经济与金融研究院整理 </P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="电动化：">电动化：</Span>
+<Span ActualText="总量高增长，结构有分化，头部自主崛起。总量来看，伴随地方政">总量高增长，结构有分化，头部自主崛起。总量来看，伴随地方政</Span>
+<Span ActualText="府响应中央支持政策精神纷纷出台相关刺激政策，预计">府响应中央支持政策精神纷纷出台相关刺激政策，预计</Span>
+<Span>2022</Span>
+<Span ActualText="年新能源乘用车销量">年新能源乘用车销量</Span>
+<Span ActualText="有望达">有望达</Span>
+<Span>527.9</Span>
+<Span ActualText="万辆，同比">万辆，同比</Span>
+<Span>+59.2%</Span>
+<Span ActualText="；结构方面，上游原材料价格上涨及积分交易价">；结构方面，上游原材料价格上涨及积分交易价</Span>
+<Span ActualText="格下探，">格下探，</Span>
+<Span>A00</Span>
+<Span ActualText="级别车型占比降低，合资品牌进一步拓展国内电动化布局，头部自">级别车型占比降低，合资品牌进一步拓展国内电动化布局，头部自</Span>
+<Span ActualText="主推出诸多混动及纯电车型，造车新势力进入第二轮新品周期，竞争格局加剧。">主推出诸多混动及纯电车型，造车新势力进入第二轮新品周期，竞争格局加剧。</Span>
+<Span ActualText="新趋势方面，伴随多款自主混动车型上市，混动放量趋势日益明确；特斯拉">新趋势方面，伴随多款自主混动车型上市，混动放量趋势日益明确；特斯拉</Span>
+<Span>CTC</Span>
+<Span ActualText="以及比亚迪">以及比亚迪</Span>
+<Span>CTB</Span>
+<Span ActualText="技术在行业加速渗透，一体化压铸趋势更加明确，天幕玻璃从普">技术在行业加速渗透，一体化压铸趋势更加明确，天幕玻璃从普</Span>
+<Span ActualText="通天幕朝向功能性天幕方向演化。">通天幕朝向功能性天幕方向演化。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>4</Span>
+<Span ActualText="、">、</Span>
+<Span>2022</Span>
+<Span ActualText="年新能源渗透率预测（分车型销量汇总）">年新能源渗透率预测（分车型销量汇总）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_14.jpg"/>
+</Figure>
+</TH>
+</TR>
+<TR><TH><P><Span ActualText="资料来源：中汽协，兴业证券经济与金融研究院整理及测算">资料来源：中汽协，兴业证券经济与金融研究院整理及测算</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody/>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="智能化：">智能化：</Span>
+<Span ActualText="城市道路">城市道路</Span>
+<Span>L3</Span>
+<Span ActualText="级功能有望量产，高阶智能座舱、域控制器、激光雷达、">级功能有望量产，高阶智能座舱、域控制器、激光雷达、</Span>
+<Span>AI</Span>
+<Span ActualText="芯片有望进入放量周期。竞争格局方面：领先企业有望在">芯片有望进入放量周期。竞争格局方面：领先企业有望在</Span>
+<Span>22</Span>
+<Span ActualText="年推出城市道路">年推出城市道路</Span>
+<Span ActualText="的">的</Span>
+<Span>L3</Span>
+<Span ActualText="级自动驾驶功能，智能驾驶技术竞争进入新阶段。一线车企">级自动驾驶功能，智能驾驶技术竞争进入新阶段。一线车企</Span>
+<Span>L2+</Span>
+<Span ActualText="相关的能力">相关的能力</Span>
+<Span ActualText="差别已不大，未来">差别已不大，未来</Span>
+<Span>L3</Span>
+<Span ActualText="及以上辅助驾驶量产落地的能力和迭代完善的速度将是新">及以上辅助驾驶量产落地的能力和迭代完善的速度将是新</Span>
+<Span ActualText="阶段智能驾驶技术竞争的胜负手。产业趋势方面：整车电子电气架构进一步向中">阶段智能驾驶技术竞争的胜负手。产业趋势方面：整车电子电气架构进一步向中</Span>
+<Span ActualText="央集中式架构升级，在此变化驱动下，域控制器预计是">央集中式架构升级，在此变化驱动下，域控制器预计是</Span>
+<Span>2022</Span>
+<Span ActualText="年重要智能驾驶配置">年重要智能驾驶配置</Span>
+<Span ActualText="突破（产业节奏类似">突破（产业节奏类似</Span>
+<Span>21</Span>
+<Span ActualText="年空气悬挂和线控制动的边际突破）；座舱、智驾、感知">年空气悬挂和线控制动的边际突破）；座舱、智驾、感知</Span>
+<Span ActualText="等高端硬件配置开始量产落地，高通">等高端硬件配置开始量产落地，高通</Span>
+<Span>8155</Span>
+<Span ActualText="座舱芯片、激光雷达、高算力智能驾驶">座舱芯片、激光雷达、高算力智能驾驶</Span>
+<Span ActualText="芯片开始成规模搭载到头部车企核心新车。">芯片开始成规模搭载到头部车企核心新车。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>1.5、家电：莫道桑榆晚，为霞尚满天 </H2>
+<P><Span ActualText="稳增长政策刺激消费复苏">稳增长政策刺激消费复苏</Span>
+<Span>+</Span>
+<Span ActualText="地产政策放松">地产政策放松</Span>
+<Span>+</Span>
+<Span ActualText="原材料价格回落，家电板块有望迎">原材料价格回落，家电板块有望迎</Span>
+<Span ActualText="来三重催化。">来三重催化。</Span>
+<Span ActualText="一方面，家电">一方面，家电</Span>
+<Span ActualText="板块受益于稳增长政策刺激与消费需求修复；另一方">板块受益于稳增长政策刺激与消费需求修复；另一方</Span>
+<Span ActualText="面，家电又属于地产后周期板块，地产政策的放松有望进一步推动地产销售回暖，">面，家电又属于地产后周期板块，地产政策的放松有望进一步推动地产销售回暖，</Span>
+<Span ActualText="将给家电板块带来持续催化；与此同时，伴随美联储加息，原材料价格逐步回落，">将给家电板块带来持续催化；与此同时，伴随美联储加息，原材料价格逐步回落，</Span>
+<Span ActualText="家电板块盈利弹性有望释放。">家电板块盈利弹性有望释放。</Span>
+<Span ActualText="整体来看，前期压制板块估值和盈利的负面因素逐">整体来看，前期压制板块估值和盈利的负面因素逐</Span>
+<Span ActualText="步消除，下半年家电板块收入盈利环比改善确定性强。">步消除，下半年家电板块收入盈利环比改善确定性强。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="多地出台家电补贴政策，有望直接刺激家电消费。">多地出台家电补贴政策，有望直接刺激家电消费。</Span>
+<Span>2021</Span>
+<Span ActualText="年">年</Span>
+<Span>12</Span>
+<Span ActualText="月">月</Span>
+<Span>8</Span>
+<Span ActualText="日国务院">日国务院</Span>
+<Span ActualText="政策例行吹风会提出">政策例行吹风会提出</Span>
+<Span>“</Span>
+<Span ActualText="鼓励有条件的地区开展农村家电更新行动">鼓励有条件的地区开展农村家电更新行动</Span>
+<Span>”</Span>
+<Span ActualText="，">，</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>3</Span>
+<Span ActualText="月">月</Span>
+<Span>5</Span>
+<Span ActualText="日国务院政府工作报告再次提及">日国务院政府工作报告再次提及</Span>
+<Span>“</Span>
+<Span ActualText="鼓励地方开展绿色智能家电下">鼓励地方开展绿色智能家电下</Span>
+<Span ActualText="乡和以旧换新">乡和以旧换新</Span>
+<Span>”</Span>
+<Span ActualText="。">。</Span>
+<Span>2022</Span>
+<Span ActualText="年以来，多地政府积极响应号召，密集推出家电消费补贴活动，有望推动绿">年以来，多地政府积极响应号召，密集推出家电消费补贴活动，有望推动绿</Span>
+<Span ActualText="色家电消费、刺激家电更新换代需求。">色家电消费、刺激家电更新换代需求。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P>表5、2022年以来各地家电消费补贴政策梳理 </P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P>地区 </P>
+</TH>
+<TD><P>时间 </P>
+</TD>
+<TD><P>总金额 </P>
+</TD>
+<TD><P>消费券优惠力度 </P>
+</TD>
+</TR>
+<TR><TH><P>青海省 </P>
+</TH>
+<TD><P>青海省 </P>
+</TD>
+<TD><P>2.21-3.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>通过西宁广播电视台公众号、西宁广播电视台爱西宁社区、掌上西宁APP客户端，爱西宁社区微博、爱西宁社区公众号、青海国美公众号、真快乐APP、国美线下门店即可领消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>福建省 </P>
+</TH>
+<TD><P>福州市 </P>
+</TD>
+<TD><P>2.21-3.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>家电类单品最高享1000元补贴，套购最高享5000元补贴。国美将向全省人民发放面额5-100元不等的消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>陕西省 </P>
+</TH>
+<TD><P>陕西省 </P>
+</TD>
+<TD><P>2.25-3.25 </P>
+</TD>
+<TD><P>9.39亿元 </P>
+</TD>
+<TD><P>满1000元立减50元，满3000元立减200元。（最高补贴800元） </P>
+</TD>
+</TR>
+<TR><TH><P>甘肃省 </P>
+</TH>
+<TD><P>甘肃省 </P>
+</TD>
+<TD><P>3.1-3.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>组织各市开展专题促销活动。在活动期间县区政府安排60多万元促消费资金，通过建行APP、银联小程序再发放一批政府消费券，重点促进日用品、餐饮、家电、家具等板块消费。 </P>
+</TD>
+</TR>
+<TR><TH><P>黑龙江省 </P>
+</TH>
+<TD><P>黑龙江省 </P>
+</TD>
+<TD><P>3.1-3.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>哈尔滨市商务局、哈尔滨市总工会、哈尔滨市消协、黑龙江家电/食品协会等政府部门的要求和指导下，国美哈尔滨市20余家门店将通过银联云闪付APP、真快乐APP以发放消费补贴券的形式回馈社会家电类单品最高补贴800元，套购最高享受5000元补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>湖南省 </P>
+</TH>
+<TD><P>湖南省 </P>
+</TD>
+<TD><P>3.1-3.31 </P>
+</TD>
+<TD><P>3500万元 </P>
+</TD>
+<TD><P>湖南省商务厅、长沙市商务局指导举办“乐享消费相当韵味”2022湖南消费促进季活动。国美电器本次活动筹备3500万元专项补贴，其中，家电类单品最高补贴2000元，套购最高享受5000元补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>辽宁省 </P>
+</TH>
+<TD><P>辽宁省 </P>
+</TD>
+<TD><P>3.1-3.31 </P>
+</TD>
+<TD><P>1200万元 </P>
+</TD>
+<TD><P>沈阳国美投入1200万元，对木地名、优、特产品及精选家电产品进行补贴，通过以旧换新、节能补贴、满减、满返、买赠、家电清洗服务等形式实现真正的惠民。 </P>
+</TD>
+</TR>
+<TR><TH><P>天津市 </P>
+</TH>
+<TD><P>天津市 </P>
+</TD>
+<TD><P>3.1-3.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>天津市消协指导监督天津国美电器有限公司开展“天津惠民消费”家电百万专项补贴活动。 </P>
+</TD>
+</TR>
+<TR><TH><P>云南省 </P>
+</TH>
+<TD><P>云南省 </P>
+</TD>
+<TD><P>3.1-3.31 </P>
+</TD>
+<TD><P>5000万元 </P>
+</TD>
+<TD><P>通过国美“真快乐”APP和中国银联“云闪付”APP，累计发放消费补贴券5300万元。家电补贴劵包括100元、200元、300元、600元、800元、1000元面值，消费者在门店活动价基础上再享受补贴，1000元补贴100元，2000元补贴200元，3000元补贴300元，6000元补贴600元，8000元补贴800元，10000元补贴100元，预计补贴金额5000万元。 </P>
+</TD>
+</TR>
+<TR><TH><P>湖北省 </P>
+</TH>
+<TD><P>湖北省 </P>
+</TD>
+<TD><P>3.4-3.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>通过国美·真快乐APP和银联“云闪付APP两个平台发放1000万元消费券，消费者最高可领取729元惠民消费补贴券。凭券购家电单品满699元使用100元家电消费券:凭券购家电单品满1599元使用100元家电消费券:凭券购家电单品满588元使用188元家电消费券:凭券购家电单品满1888元使用。50元家电消费券:凭券购家电单品满699元使用100元家电消费券:凭券购家电单品满1599元使用。 </P>
+</TD>
+</TR>
+<TR><TH><P>吉林省 </P>
+</TH>
+<TD><P>吉林省 </P>
+</TD>
+<TD><P>3.4-3.31 </P>
+</TD>
+<TD><P>600万元 </P>
+</TD>
+<TD><P>吉林市商务局联合国美电器有限公司共同推出“吉林惠民消费”活动，通过发放百万消费补贴券的形式回情社会，享受补贴的同时参加析和优康，让全市消费者享易政企惠民双补站，家电香商品满2000补贴300满5000补贴500。本次活动预计发放600万专享补贴款，包括500万家电补贴，100万名优特产补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>广西省 </P>
+</TH>
+<TD><P>广西省 </P>
+</TD>
+<TD><P>3月-4月 </P>
+</TD>
+<TD><P>1000万元+ </P>
+</TD>
+<TD><P>安排1000多万补贴资金，在全区开展新一轮家电以旧换新活动。在参与活动家电企业开展送交旧家电并购买规定能效等级以上新家电的(电视机围级以上，电冰箱、洗衣机、空调目级以上)。按不超过新家电销售价格84给予补贴，单合家电最高不超过500元。 </P>
+</TD>
+</TR>
+<TR><TH><P>河南省 </P>
+</TH>
+<TD><P>郑州市 </P>
+</TD>
+<TD><P>3.8-3.31 </P>
+</TD>
+<TD><P>3000万元消费券 </P>
+</TD>
+<TD><P>以旧换新，按实际成交价格的20%给予补贴。（最高补贴500元） </P>
+</TD>
+</TR>
+<TR><TH><P>安徽省 </P>
+</TH>
+<TD><P>安徽省 </P>
+</TD>
+<TD><P>3月起 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>“2022”皖美消费 行动，以市为单位举办一市一季一主题的特色促消费活动。以相山区为例，活动期间消费者在限额以上家电零售企业购买单价3000元以上绿色智能家电，能效等级2级以上，给予每台100元补贴，补贴总数1000台。阜阳市专题活动期间，通过线下卖场向农村居民让利销售空调、彩电、冰箱、洗衣机、烟机、灶具、热水器、电饭锅等八类一级能效家电产品，按照家电销售价格5%给予补贴，最高不超过300元。 </P>
+</TD>
+</TR>
+<TR><TH><P>福建省 </P>
+</TH>
+<TD><P>福建省 </P>
+</TD>
+<TD><P>4月-10月 </P>
+</TD>
+<TD><P>4亿元消费券 </P>
+</TD>
+<TD><P>通过发放通用券、专享券、银行券、文旅券和汽车、家电、家具、家装等大宗商品消费券，带动“福品”消费省市共计发放4亿元商旅消费券，力争播动全省消费300亿元以上。 </P>
+</TD>
+</TR>
+<TR><TH><P>北京市 </P>
+</TH>
+<TD><P>北京市 </P>
+</TD>
+<TD><P>4.18-9月 </P>
+</TD>
+<TD><P>3亿元消费券 </P>
+</TD>
+<TD><P>通过京东商城、苏宁易购、真快乐、国美、物美等十家企业向在北京的消费者发放绿色节能消费券。消费者可干每.18日，在平台领取绿色节能消费券，共可领取6期，共含6张消费券，总金额900元，分别是2张50元券(消费满500元可用)、2张100元券(消费满1000元可用) 、1张200元券(消费满2000元可用)，最高补贴900元。 </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<Table><TBody><TR><TH><P>山西省 </P>
+</TH>
+<TD><P>山西省 </P>
+</TD>
+<TD><P>4.30-5.13 </P>
+</TD>
+<TD><P>1000万元 </P>
+</TD>
+<TD><P>推出1000万元家电惠民补贴，包含830万元的电子消费券、170万元的以旧换新补贴。以旧换新方面，市民可带上自己的旧家电，到全省的海尔专卖店去参与估值补贴，最高可享受补贴1000元。 </P>
+</TD>
+</TR>
+<TR><TH><P>湖北省 </P>
+</TH>
+<TD><P>武汉市 </P>
+</TD>
+<TD><P>4.7-4.30 </P>
+</TD>
+<TD><P>2000万元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>以旧换新，每满1000元可使用100元优惠，（最高补贴400元）；节能补贴，能效标识一级或二级的家电，每满2500元减200元。（最高补贴800元） </P>
+</TD>
+</TR>
+<TR><TH><P>河南省 </P>
+</TH>
+<TD><P>新乡市 </P>
+</TD>
+<TD><P>5.1-6.30 </P>
+</TD>
+<TD><P>7200万元 </P>
+</TD>
+<TD><P>新乡市共筹集促消费补贴资金7200万元，其中汽车促消费资金1500万元;家电、家具类促消费资金1000万元:新飞家电“春暖新乡回馈新乡消费者”活动4000万元(含新飞公司购买直减2000万元);一般性促消费700万元(全中国银联200万元)家电家具示单品价格满1000元享导100元消费券补贴，超出1000元以上部分，按发票金额每500元补贴50元计，不足500元不补贴，最高补贴不超过3000元。 </P>
+</TD>
+</TR>
+<TR><TH><P>河南省 </P>
+</TH>
+<TD><P>濮阳 </P>
+</TD>
+<TD><P>5.1-6.30 </P>
+</TD>
+<TD><P>5400万元 </P>
+</TD>
+<TD><P>投入财政资金5400万元，在全市范围内开展系列促消费活动，在全市在库限额以上家电销售单位购买家电产品，满1500元减100元。满3000元减300元、满5000元减500元。 </P>
+</TD>
+</TR>
+<TR><TH><P>江西省 </P>
+</TH>
+<TD><P>江西省 </P>
+</TD>
+<TD><P>5.1-7.31 </P>
+</TD>
+<TD><P>2000万元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>在家电促销方面，“2022年江西大宗商品消费季推出&quot;惠享生活品质家电”活动，发放2000万元家电电子消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>重庆市 </P>
+</TH>
+<TD><P>重庆市 </P>
+</TD>
+<TD><P>5.13-7.5 </P>
+</TD>
+<TD><P>1500万元 </P>
+</TD>
+<TD><P>在市级商务发展资金中调整安排1500万元，鼓励采取发放消量费券、补贴、打折等方式开展家电以旧换新、绿色智能家电促销、线上线下联动促销活动。 </P>
+</TD>
+</TR>
+<TR><TH><P>江苏省 </P>
+</TH>
+<TD><P>连云港市 </P>
+</TD>
+<TD><P>5.16起 </P>
+</TD>
+<TD><P>750万元 </P>
+</TD>
+<TD><P>对个人消费者一次性购买单品开票价格2000元以上的一级能耗绿色家电，给予10％补助。 </P>
+</TD>
+</TR>
+<TR><TH><P>河北省 </P>
+</TH>
+<TD><P>石家庄市 </P>
+</TD>
+<TD><P>5.20-5.29 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>北国电器拟在石家庄所辖13个县（市、区）的16加门店开展“惠民生 促销费 家电惠民补贴”促销活动。其中补贴标准为单价在3000（含）－6000（不含），补贴300元：在6000（含）－10000（不含），补贴800元：在10000（含）以上，补贴1500元。 </P>
+</TD>
+</TR>
+<TR><TH><P>江苏省 </P>
+</TH>
+<TD><P>无锡市 </P>
+</TD>
+<TD><P>5.20起 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>围绕综合体、汽车、餐饮、家电四大消费类型，48家重点商贸企业联动举办系列促销活动。 </P>
+</TD>
+</TR>
+<TR><TH><P>四川省 </P>
+</TH>
+<TD><P>成都市 </P>
+</TD>
+<TD><P>5.20-6.20 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>成都市消费券共4种，分别为“满600减200元券”“满300立减100元券”“满100立减40元券”和“满50元立减20元券”。活动期间总名额264万个。 </P>
+</TD>
+</TR>
+<TR><TH><P>山东省 </P>
+</TH>
+<TD><P>青岛市 </P>
+</TD>
+<TD><P>5.21-10.31 </P>
+</TD>
+<TD><P>2.67亿元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>贯穿端午、中秋、国庆及啤酒节等重要节日及热点消费时段。根据活动总体安排，发放家电、汽车、零售、餐饮、啤酒节及线上平台消费券等6种消费券。消费者在购买家电时，可以选择满2000元减300元券、满6000元减500元券、满8000元减600元券。 </P>
+</TD>
+</TR>
+<TR><TH><P>山西省 </P>
+</TH>
+<TD><P>太原市 </P>
+</TD>
+<TD><P>5.21-6.15 </P>
+</TD>
+<TD><P>4.2亿元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>太原将再投入4.2亿向市民发放数字消费券，其中，数字消费券将投入3.2亿元，家电通用券有4种：满4000减800.满1000减300，满500减150.满300减100。 </P>
+</TD>
+</TR>
+<TR><TH><P>河北省 </P>
+</TH>
+<TD><P>河北省 </P>
+</TD>
+<TD><P>5.25-5.29 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>商务局指导下，石家庄基城市等地联合北国电器于开展家电惠民补贴活动。居民在平台领取300元。800元和1500元代金券。补贴规则为:单价在3000元(含)-6000元(不含)之间补贴300元;单价在6000元(含)-10000元(不含)之间补贴800元;单价在10000元(含)以上补贴1500元。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省 </P>
+</TH>
+<TD><P>惠州市 </P>
+</TD>
+<TD><P>5.26-7.26 </P>
+</TD>
+<TD><P>750万元 </P>
+</TD>
+<TD><P>消费者购买符合条件的家用电器按照销售价格的15%给予补贴，活动期间每人累计补贴金额最高不超过1500元，销售价格以该商品销售发票含税价格为准。 </P>
+</TD>
+</TR>
+<TR><TH><P>河南省 </P>
+</TH>
+<TD><P>郑州市 </P>
+</TD>
+<TD><P>5.27-8.31 </P>
+</TD>
+<TD><P>2亿元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>举行“醉美·夜郑州”消费季系列活动，此次活动市政府累计投入超过2亿元。其中，汽车消费券1亿元、百货消费券4000万元，各类餐饮消费券3000万元，线上消费券5000万元，文旅消费券2000万元。活动覆盖汽车、家电等大宗商品消费及百货、餐饮等传统消费。 </P>
+</TD>
+</TR>
+<TR><TH><P>贵州省 </P>
+</TH>
+<TD><P>贵州省 </P>
+</TD>
+<TD><P>5.30起 </P>
+</TD>
+<TD><P>1.4亿元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>按照“政府补贴、商家让利、平台支持”原则，分10个批次向贵州省内外消费者发放零售文体和餐饮两大类消费券，共计1.4亿元。“最近搞活动，消费者不仅可以用旧家电抵100元至500元，还可以额外领消费券减免，最多能优惠5000元。” </P>
+</TD>
+</TR>
+<TR><TH><P>浙江省 </P>
+</TH>
+<TD><P>浙江省 </P>
+</TD>
+<TD><P>5.31起 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>省政府新闻办新闻发布会浙江稳住经济一揽子政策。提出促销费方面，将发挥消费券杠杆微动作用，以线上线下结合的方式有序发放汽车、家电、家具家装、餐饮住宿等各类消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>山东省 </P>
+</TH>
+<TD><P>德州市 </P>
+</TD>
+<TD><P>5.31起 </P>
+</TD>
+<TD><P>1100万元消费券，500多万元补贴资金 </P>
+</TD>
+<TD><P>一季度发放惠民消费券300万元，二季度发放惠民消费券和汽车消费补贴资金500多万元。第三批安排了800万元左右的惠民消费券，重点对家电消费、汽车消费进行补贴，新投放家电满减消费券120万元。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省 </P>
+</TH>
+<TD><P>深圳 </P>
+</TD>
+<TD><P>5月-8月 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>发布《深圳市关干促进消费持续恢复的若干措施》提出，对消费者购买符合条件的手机、电脑(含平板电脑、耳机、音响等产品，按照销售价格的15%给予补贴，每人累计最高2000元。此外，该政策还称，在5至8.期间，对购买符合条件的电视机、空调、冰箱、洗衣机等家用电器，按照销售价格的15%给予补贴，每人累计最高2000元。 </P>
+</TD>
+</TR>
+<TR><TH><P>广东省 </P>
+</TH>
+<TD><P>广东省 </P>
+</TD>
+<TD><P>5月-8月 </P>
+</TD>
+<TD><P>6.07亿元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>印发《广东省进一步促进消费若干措施》规定5月1日前，广东省内各地市必须制定具体实施方案，开展促消费活动。其中，粤东西北各市发放消费券不得少于500万元，广东省将对各地促消费行动实行奖补政策其中，对珠三角地市(不含深圳市)按其发放消费券实际支出的50%比例补贴，海市最高补贴不超讨3000万元。 </P>
+</TD>
+</TR>
+<TR><TH><P>山东省 </P>
+</TH>
+<TD><P>山东省 </P>
+</TD>
+<TD><P>6.1-6.30 </P>
+</TD>
+<TD><P>2亿元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>发放2亿元消费券，本省居民在省内实体店及纳入监测范围的网上店铺，购买电视、冰箱、洗衣机、空调4类商品时，按照单件商品销售发票金额，购置2000元（含）以上的发放300元消费券，购置5000元（含）以上的发放500元消费券、购置8000元（含）以上的发放600元消费券。 </P>
+</TD>
+</TR>
+<TR><TH><P>新疆维吾尔自治区 </P>
+</TH>
+<TD><P>新疆维吾尔自治区 </P>
+</TD>
+<TD><P>6.1-6.30 </P>
+</TD>
+<TD><P>6000万元 </P>
+</TD>
+<TD><P>新疆本土家电企业联合绿色智能家电、全屋定制产品等多渠道品牌家电厂商，投入6000万元补贴资金，以市场上主销的绿色节能和智能家电为主力产品，通过线上渠道投放7.6万张家电惠民消费补贴券，对全品类近2000个型号的家电产品给予50-500元不等的消费补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>宁夏回族自治区 </P>
+</TH>
+<TD><P>宁夏回族自治区 </P>
+</TD>
+<TD><P>6.1-12.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>推动绿色家电消费，一次性购置绿色家电满5000元及以上的给予500元补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>上海市 </P>
+</TH>
+<TD><P>上海市 </P>
+</TD>
+<TD><P>6.1-12.31 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>发布《上海市加快经济情复和重福行动方案》提出定施家电以旧格新计训对绿色智能家电，经合建材、节能产品等消费按规定予以话当补贴，支持大型商场，电商平台等企业以打折、补贴等方式开展家电以旧换新、绿色智能家电和电子消费产品促销等活动。 </P>
+</TD>
+</TR>
+<TR><TH><P>江苏省 </P>
+</TH>
+<TD><P>南京市 </P>
+</TD>
+<TD><P>6.2起 </P>
+</TD>
+<TD><P>1000万元 </P>
+<P>消费券 </P>
+</TD>
+<TD><P>发放1000万元家电助力券。鼓励有条件的企业、单位开展家电家具“以旧换新”活动。 组织开展线上家博会等活动，组织家装家具团购消费让利活动。 </P>
+</TD>
+</TR>
+<TR><TH><P>陕西省 </P>
+</TH>
+<TD><P>西安市 </P>
+</TD>
+<TD><P>6.2起 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>对购买一、二级能效家电的，按照实际购买价格分档给予补贴，单件商品最高补贴1000元。 </P>
+</TD>
+</TR>
+<TR><TH><P>湖北省 </P>
+</TH>
+<TD><P>潜江市 </P>
+</TD>
+<TD><P>6.3-6.19 </P>
+</TD>
+<TD><P>600万元 </P>
+</TD>
+<TD><P>智能家电·惠民补贴活动。首期活动补贴金额为600万元，补贴数量3000台。 </P>
+</TD>
+</TR>
+<TR><TH><P>安徽省 </P>
+</TH>
+<TD><P>合肥市 </P>
+</TD>
+<TD><P>6.3-7.31 </P>
+</TD>
+<TD><P>2000万元 </P>
+</TD>
+<TD><P>按照单件家电满3000元，减200元标准，共10万个名额；鼓励参与活动的企业广泛开展促销活动，支持企业以自有资金配比让利消费者，形成叠加效应，推动消费潜力释放。 </P>
+</TD>
+</TR>
+<TR><TH><P>湖北省 </P>
+</TH>
+<TD><P>天门市 </P>
+</TD>
+<TD><P>6.4-6.30 </P>
+</TD>
+<TD><P>600万元 </P>
+</TD>
+<TD><P>凭消费券购机最高可减1100元（用户每轮使用一张）：满1000元减100元，满2000元减200元，满3000元减300元，满5000元减500元。 </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<Table><TBody><TR><TH><P>四川省 </P>
+</TH>
+<TD><P>四川省 </P>
+</TD>
+<TD><P>2022年 </P>
+</TD>
+<TD><P>1亿元 </P>
+</TD>
+<TD><P>省财政安排1亿元，支持各地联合生产厂家和家电销售企业实施家电促销活动，对新购买或以旧换新的智能电视、冰箱冰柜、洗衣机、空调、手机、电瓶车等六类智能节能产品给予补贴。 </P>
+</TD>
+</TR>
+<TR><TH><P>海南省 </P>
+</TH>
+<TD><P>海南省 </P>
+</TD>
+<TD><P>2022年 </P>
+</TD>
+<TD><P>不少元8000万元消费券 </P>
+</TD>
+<TD><P>省级财改安推专项资金，发放不少于8000万元的消费券。各市县政府安排资金。对本地群众一次性购买3000元以上(含)绿色家电商品给予一定额度补助。 </P>
+</TD>
+</TR>
+<TR><TH><P>陕西省 </P>
+</TH>
+<TD><P>陕西省 </P>
+</TD>
+<TD><P>2022-2024年 </P>
+</TD>
+<TD><P>- </P>
+</TD>
+<TD><P>支持消费者购买1级能效绿色节能家电或“以旧换新”鼓励大型家电销售企业、建材市场、家装公司联合保销。对市县配套发放家电家居消费券、省级财政按一定比例予以补贴。对每半年、每年度和2022年一季度增长较快较好的全省3强消费市(区)、10强消费县(市、区)、给予一次性生助，全年各市县奖励金不超过300万元、100万元。 </P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：政府官网，新浪网，澎湃网，兴业证券经济与金融研究院整理 </P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="地产销售数据出现边际改善，家电板块有望获益。">地产销售数据出现边际改善，家电板块有望获益。</Span>
+<Span ActualText="自">自</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>4</Span>
+<Span ActualText="月以来地产放">月以来地产放</Span>
+<Span ActualText="松政策加码，家电为地产后周期最后一个环节，终端需求受地产提振有所滞后，">松政策加码，家电为地产后周期最后一个环节，终端需求受地产提振有所滞后，</Span>
+<Span ActualText="但政策放松对板块估值和市场信心均有一定提振。">但政策放松对板块估值和市场信心均有一定提振。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>14</Span>
+<Span ActualText="、">、</Span>
+<Span>17M5-22M5</Span>
+<Span ActualText="商品房销售面积">商品房销售面积</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>15</Span>
+<Span ActualText="、">、</Span>
+<Span>17M5-22M5</Span>
+<Span ActualText="房屋竣工面积">房屋竣工面积</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Sect><Span/>
+<Sect><P><Span ActualText="-60%">-60%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="-40%">-40%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="-20%">-20%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0%">0%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20%">20%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="40%">40%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="60%">60%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="80%">80%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="100%">100%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="120%">120%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0.0">0.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0.5">0.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="1.0">1.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="1.5">1.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2.0">2.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2.5">2.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="3.0">3.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2017-05">2017-05</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2017-10">2017-10</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2018-03">2018-03</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2018-08">2018-08</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2019-01">2019-01</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2019-06">2019-06</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2019-11">2019-11</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2020-04">2020-04</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2020-09">2020-09</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021-02">2021-02</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021-07">2021-07</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021-12">2021-12</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022-05">2022-05</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="商品房销售面积（亿平方米）">商品房销售面积（亿平方米）</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="同比增速">同比增速</Span>
+<Span ActualText="(">(</Span>
+<Span ActualText="右轴">右轴</Span>
+<Span ActualText=")">)</Span>
+</P>
+</Sect>
+</Sect>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Sect><Span/>
+<Sect><P><Span ActualText="-40%">-40%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="-20%">-20%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0%">0%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20%">20%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="40%">40%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="60%">60%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="80%">80%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0.0">0.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0.5">0.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="1.0">1.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="1.5">1.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2.0">2.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2.5">2.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="3.0">3.0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="3.5">3.5</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2017-05">2017-05</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2017-10">2017-10</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2018-03">2018-03</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2018-08">2018-08</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2019-01">2019-01</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2019-06">2019-06</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2019-11">2019-11</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2020-04">2020-04</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2020-09">2020-09</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021-02">2021-02</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021-07">2021-07</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021-12">2021-12</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022-05">2022-05</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="房屋竣工面积（亿平方米）">房屋竣工面积（亿平方米）</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="同比增速">同比增速</Span>
+<Span ActualText="(">(</Span>
+<Span ActualText="右轴">右轴</Span>
+<Span ActualText=")">)</Span>
+</P>
+</Sect>
+</Sect>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>16</Span>
+<Span ActualText="、">、</Span>
+<Span>30</Span>
+<Span ActualText="大中城市商品房成交面积同比增速">大中城市商品房成交面积同比增速</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Sect><Span/>
+<Sect><P><Span ActualText="-100%">-100%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="-50%">-50%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0%">0%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="50%">50%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="100%">100%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="150%">150%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="200%">200%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/01">2021/01</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/02">2021/02</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/03">2021/03</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/04">2021/04</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/05">2021/05</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/06">2021/06</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/07">2021/07</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/08">2021/08</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/09">2021/09</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/10">2021/10</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/11">2021/11</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2021/12">2021/12</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022/01">2022/01</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022/02">2022/02</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022/03">2022/03</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022/04">2022/04</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022/05">2022/05</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="2022/06">2022/06</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="30">30</Span>
+<Span ActualText="大中城市">大中城市</Span>
+<Span ActualText=":">:</Span>
+<Span ActualText="商品房成交面积同比增速">商品房成交面积同比增速</Span>
+</P>
+</Sect>
+</Sect>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="备">备</Span>
+<Span ActualText="注：未显示增速超过">注：未显示增速超过</Span>
+<Span>200%</Span>
+<Span ActualText="的个别极端值">的个别极端值</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span>4</Span>
+<Span ActualText="月至今家电主要原材料价格企稳回落，考虑到下半年美元加息周期下商品">月至今家电主要原材料价格企稳回落，考虑到下半年美元加息周期下商品</Span>
+<Span ActualText="通胀有望缓解，家电板块盈利弹性或将释放。">通胀有望缓解，家电板块盈利弹性或将释放。</Span>
+<Span>22Q2</Span>
+<Span ActualText="铜均价为">铜均价为</Span>
+<Span>72064</Span>
+<Span ActualText="元">元</Span>
+<Span>/</Span>
+<Span ActualText="吨，同比">吨，同比</Span>
+<Span>+2.11%</Span>
+<Span ActualText="，环比">，环比</Span>
+<Span>+0.4%</Span>
+<Span ActualText="；铝均价为">；铝均价为</Span>
+<Span>20615</Span>
+<Span ActualText="元">元</Span>
+<Span>/</Span>
+<Span ActualText="吨，同比">吨，同比</Span>
+<Span>+11.04%</Span>
+<Span ActualText="，环比">，环比</Span>
+<Span>-7.10%</Span>
+<Span ActualText="；冷轧板">；冷轧板</Span>
+<Span ActualText="均价为">均价为</Span>
+<Span>5430</Span>
+<Span ActualText="元">元</Span>
+<Span>/</Span>
+<Span ActualText="吨，同比">吨，同比</Span>
+<Span>-13.77%</Span>
+<Span ActualText="，环比">，环比</Span>
+<Span>-2.18%</Span>
+<Span ActualText="；塑料平均指数为">；塑料平均指数为</Span>
+<Span>996.7</Span>
+<Span ActualText="，同比">，同比</Span>
+<Span>-5.14%</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="环比">环比</Span>
+<Span>-0.49%</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>17</Span>
+<Span ActualText="、家电主要原材料价格">、家电主要原材料价格</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>18</Span>
+<Span ActualText="、家电主要原材料价格同比增速">、家电主要原材料价格同比增速</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Sect Alt="Chart_8d791645-a277-40b2-b8f2-5d9aaec0758c.crtx"><Span/>
+<Sect><P><Span ActualText="0">0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="500">500</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="1000">1000</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="1500">1500</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0">0</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20000">20000</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="40000">40000</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="60000">60000</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="80000">80000</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="12Q1">12Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="12Q4">12Q4</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="13Q3">13Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="14Q2">14Q2</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="15Q1">15Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="15Q4">15Q4</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="16Q3">16Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="17Q2">17Q2</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="18Q1">18Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="18Q4">18Q4</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="19Q3">19Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20Q2">20Q2</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="21Q1">21Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="21Q4">21Q4</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="铜均价（元">铜均价（元</Span>
+<Span ActualText="/">/</Span>
+<Span ActualText="吨）">吨）</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="铝均价（元">铝均价（元</Span>
+<Span ActualText="/">/</Span>
+<Span ActualText="吨）">吨）</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="冷轧板均价（元">冷轧板均价（元</Span>
+<Span ActualText="/">/</Span>
+<Span ActualText="吨）">吨）</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="塑料平均指数（右轴）">塑料平均指数（右轴）</Span>
+</P>
+</Sect>
+</Sect>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Sect><Span/>
+<Sect><P><Span ActualText="-60%">-60%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="-40%">-40%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="-20%">-20%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="0%">0%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20%">20%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="40%">40%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="60%">60%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="80%">80%</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="12Q1">12Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="12Q3">12Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="13Q1">13Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="13Q3">13Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="14Q1">14Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="14Q3">14Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="15Q1">15Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="15Q3">15Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="16Q1">16Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="16Q3">16Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="17Q1">17Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="17Q3">17Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="18Q1">18Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="18Q3">18Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="19Q1">19Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="19Q3">19Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20Q1">20Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="20Q3">20Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="21Q1">21Q1</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="21Q3">21Q3</Span>
+</P>
+</Sect>
+<Sect><P><Span ActualText="22Q1">22Q1</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="铜均价同比">铜均价同比</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="铝均价同比">铝均价同比</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="冷轧卷板均价同比">冷轧卷板均价同比</Span>
+</P>
+</Sect>
+<Span/>
+<Sect><P><Span ActualText="塑料均价同比">塑料均价同比</Span>
+</P>
+</Sect>
+</Sect>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：公司公告，兴业证券经济与金融研究院整理">资料来源：公司公告，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：公司公告，兴业证券经济与金融研究院整理">资料来源：公司公告，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H1>2、上证消费80指数（000069.SH）：汇聚沪市优质消费类股票 </H1>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数（">指数（</Span>
+<Span>000069.SH</Span>
+<Span ActualText="）发布于">）发布于</Span>
+<Span>2010</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span>28</Span>
+<Span ActualText="日，由沪市">日，由沪市</Span>
+<Span>A</Span>
+<Span ActualText="股中规">股中规</Span>
+<Span ActualText="模大、流动性好的">模大、流动性好的</Span>
+<Span>80</Span>
+<Span ActualText="只主要消费、可选消费和医药卫生类公司股票组成，反映沪">只主要消费、可选消费和医药卫生类公司股票组成，反映沪</Span>
+<Span ActualText="市">市</Span>
+<Span>A</Span>
+<Span ActualText="股中消费类股票的整体表现。">股中消费类股票的整体表现。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.1、指数基本信息 </H2>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数（">指数（</Span>
+<Span>000069.SH</Span>
+<Span ActualText="）以">）以</Span>
+<Span>2003</Span>
+<Span ActualText="年">年</Span>
+<Span>12</Span>
+<Span ActualText="月">月</Span>
+<Span>31</Span>
+<Span ActualText="日为基日，以">日为基日，以</Span>
+<Span>1000</Span>
+<Span ActualText="点为">点为</Span>
+<Span ActualText="基点，具体选样方法如下：">基点，具体选样方法如下：</Span>
+<Span ActualText=" "> </Span>
+</P>
+<L><LI><LBody><Span>⚫ </Span>
+<Span ActualText="选样空间">选样空间</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+</L>
+<P><Span ActualText="上证全指指数样本股。">上证全指指数样本股。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<L><LI><LBody><Span>⚫ </Span>
+<Span ActualText="选样方法">选样方法</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+</L>
+<P><Span ActualText="（">（</Span>
+<Span>1</Span>
+<Span ActualText="）将样本空间中行业分类为可选消费、主要消费和医药卫生的股票列为消">）将样本空间中行业分类为可选消费、主要消费和医药卫生的股票列为消</Span>
+<Span ActualText="费类股票；">费类股票；</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="（">（</Span>
+<Span>2</Span>
+<Span ActualText="）将样本空间中消费类股票按照过去一年日均总市值与日均成交金额由高">）将样本空间中消费类股票按照过去一年日均总市值与日均成交金额由高</Span>
+<Span ActualText="到低排名，所得和的排名作为股票的综合排名。选取综合排名前">到低排名，所得和的排名作为股票的综合排名。选取综合排名前</Span>
+<Span>80</Span>
+<Span ActualText="的股票进入上">的股票进入上</Span>
+<Span ActualText="证消费">证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数。">指数。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<L><LI><LBody><Span>⚫ </Span>
+<Span ActualText="指数计算">指数计算</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText=" "> </Span>
+</LBody>
+</LI>
+</L>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="计算公式为：">计算公式为：</Span>
+<Span ActualText=" "> </Span>
+<Span ActualText="报告期指数">报告期指数</Span>
+<Span>=</Span>
+<Span ActualText="报告期样本股的调整市值">报告期样本股的调整市值</Span>
+<Span ActualText="除数">除数</Span>
+<Span/>
+<Span>×1000</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+<Span ActualText="其中，调整市值＝">其中，调整市值＝</Span>
+<Span>∑(</Span>
+<Span ActualText="股价">股价</Span>
+<Span>×</Span>
+<Span ActualText="调整股本数">调整股本数</Span>
+<Span>×</Span>
+<Span ActualText="权重因子">权重因子</Span>
+<Span>)</Span>
+<Span ActualText="。调整股本数的计算方法、">。调整股本数的计算方法、</Span>
+<Span ActualText="除数修正方法参见计算与维护细则。权重因子介于">除数修正方法参见计算与维护细则。权重因子介于</Span>
+<Span>0</Span>
+<Span ActualText="和">和</Span>
+<Span>1</Span>
+<Span ActualText="之间，以使单个样本股">之间，以使单个样本股</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="权重不超过">权重不超过</Span>
+<Span>10%</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="表">表</Span>
+<Span>6</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数基本信息">指数基本信息</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="指数全称">指数全称</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="指数代码">指数代码</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>000069.SH</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="英文名称">英文名称</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>SSE Consumer 80 Index</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span/>
+<Span ActualText="发布日期">发布日期</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2010</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span>28</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span/>
+<Span ActualText="基点日期">基点日期</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2003</Span>
+<Span ActualText="年">年</Span>
+<Span>12</Span>
+<Span ActualText="月">月</Span>
+<Span>31</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span/>
+<Span ActualText="指数调整">指数调整</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="（">（</Span>
+<Span>1</Span>
+<Span ActualText="）定期调整：上证消费">）定期调整：上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数的样本股每半年调整一次，样本">指数的样本股每半年调整一次，样本</Span>
+<Span ActualText="调整实施时间为每年">调整实施时间为每年</Span>
+<Span>6</Span>
+<Span ActualText="月和">月和</Span>
+<Span>12</Span>
+<Span ActualText="月的第二个星期五的下一交易日。">月的第二个星期五的下一交易日。</Span>
+<Span ActualText="当上证全指调整样本股，上证消费">当上证全指调整样本股，上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数样股随之">指数样股随之</Span>
+<Span ActualText="进行相应调整。">进行相应调整。</Span>
+<Span ActualText="权重因子随样本股定期调整而调整，调整时间与指数样本定期调整">权重因子随样本股定期调整而调整，调整时间与指数样本定期调整</Span>
+<Span ActualText="实施时间相同。在下一个定期调整日前，权重因子一般固定不变。">实施时间相同。在下一个定期调整日前，权重因子一般固定不变。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="（">（</Span>
+<Span>2</Span>
+<Span ActualText="）临时调整：特殊情况下将对上证消费">）临时调整：特殊情况下将对上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数样本进行临时调">指数样本进行临时调</Span>
+<Span ActualText="整。当样本股暂停上市或退市时，将其从指数样本中剔除。样本股">整。当样本股暂停上市或退市时，将其从指数样本中剔除。样本股</Span>
+<Span ActualText="公司发生收购、合并、分拆、停牌等情形的处理，参照计算与维护">公司发生收购、合并、分拆、停牌等情形的处理，参照计算与维护</Span>
+<Span ActualText="细则处理。当出现样本股临时调整，有指数样本股被非样本股替代">细则处理。当出现样本股临时调整，有指数样本股被非样本股替代</Span>
+<Span ActualText="时，新进指数的股票一般情况下将继承被剔除股票在调整前最后一">时，新进指数的股票一般情况下将继承被剔除股票在调整前最后一</Span>
+<Span ActualText="个交易日的收盘权重，并据此计算新进股票的权重因子。">个交易日的收盘权重，并据此计算新进股票的权重因子。</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span/>
+<Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与">，兴业证券经济与</Span>
+<Span ActualText="金融研究院整理">金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.2、指数表现：优于市场主要宽基指数 </H2>
+<P><Span ActualText="从长期表现来看，">从长期表现来看，</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="收益具备明显">收益具备明显</Span>
+<Span ActualText="的">的</Span>
+<Span ActualText="领先">领先</Span>
+<Span ActualText="优势">优势</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="自">自</Span>
+<Span>2010</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span>28</Span>
+<Span ActualText="日至">日至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日，指数收益为">日，指数收益为</Span>
+<Span>151.20%</Span>
+<Span ActualText="，同期上证">，同期上证</Span>
+<Span>50</Span>
+<Span ActualText="、沪深">、沪深</Span>
+<Span>300</Span>
+<Span ActualText="、中">、中</Span>
+<Span ActualText="证">证</Span>
+<Span>500</Span>
+<Span ActualText="、万得全">、万得全</Span>
+<Span>A</Span>
+<Span ActualText="收益率分别为">收益率分别为</Span>
+<Span>51.84%</Span>
+<Span ActualText="、">、</Span>
+<Span>55.21%</Span>
+<Span ActualText="、">、</Span>
+<Span>51.55%</Span>
+<Span ActualText="、">、</Span>
+<Span>114.92%</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="指数长期">指数长期</Span>
+<Span ActualText="收益优于主流宽基指数">收益优于主流宽基指数</Span>
+<Span ActualText="，且具备更高的收益风险比">，且具备更高的收益风险比</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="图">图</Span>
+<Span>19</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="历史走势">历史走势</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_15.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：">数据日期：</Span>
+<Span>2010</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span>28</Span>
+<Span ActualText="日至">日至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>7</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数长期表现比较">指数长期表现比较</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P><Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="消费">消费</Span>
+<Span>80</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="上证">上证</Span>
+<Span>50</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="沪深">沪深</Span>
+<Span>300</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="中证">中证</Span>
+<Span>500</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="万得全">万得全</Span>
+<Span>A</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="区间收益（">区间收益（</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>151.20 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>51.84 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>55.21 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>51.55 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>114.92 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="年化收益率（">年化收益率（</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>7.90 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>3.51 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>3.70 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>3.49 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>6.52 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="年化波动率">年化波动率</Span>
+<Span> </Span>
+<Span ActualText="（">（</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>24.15 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>22.88 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>22.57 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>25.78 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>24.11 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="最大回撤">最大回撤</Span>
+<Span> </Span>
+<Span ActualText="（">（</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>-46.97 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>-44.70 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>-46.70 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>-65.20 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>-55.99 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="收益风险比">收益风险比</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>0.33 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.15 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.16 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.14 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.27 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：Wind，兴业证券经济与金融研究院整理 </P>
+<P><Span ActualText="数据日期：">数据日期：</Span>
+<Span>2010</Span>
+<Span ActualText="年">年</Span>
+<Span>5</Span>
+<Span ActualText="月">月</Span>
+<Span>28</Span>
+<Span ActualText="日至">日至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+<Span ActualText="从短期表现来看，">从短期表现来看，</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数优于主要宽基指数。">指数优于主要宽基指数。</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日，">日，</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="近">近</Span>
+<Span>3</Span>
+<Span ActualText="月收益为">月收益为</Span>
+<Span>8.76%</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="近">近</Span>
+<Span>1</Span>
+<Span ActualText="月">月</Span>
+<Span ActualText="收益为">收益为</Span>
+<Span>11.26%</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="均优于同期">均优于同期</Span>
+<Span ActualText="主流宽基指数">主流宽基指数</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="指数短期表现优异。">指数短期表现优异。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>8</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数短期表现比较">指数短期表现比较</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P><Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="消费">消费</Span>
+<Span>80</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="上证">上证</Span>
+<Span>50</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="沪深">沪深</Span>
+<Span>300</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="中证">中证</Span>
+<Span>500</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="万得全">万得全</Span>
+<Span>A</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="近">近</Span>
+<Span>1</Span>
+<Span ActualText="月涨跌幅（">月涨跌幅（</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>11.26 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>7.40 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>8.18 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>5.60 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>7.74 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span ActualText="近">近</Span>
+<Span>3</Span>
+<Span ActualText="月涨跌幅（">月涨跌幅（</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span>8.76 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>1.82 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>3.46 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.85 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>3.30 </Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：Wind，兴业证券经济与金融研究院整理 </P>
+<P><Span ActualText="数据日期：截至">数据日期：截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.3、指数流动性：流动性充裕，可容纳较大规模的资金 </H2>
+<P><Span ActualText="指数流动性充裕">指数流动性充裕</Span>
+<Span ActualText="：">：</Span>
+<Span>2021Q1</Span>
+<Span ActualText="，">，</Span>
+<Span>2021Q2</Span>
+<Span ActualText="，">，</Span>
+<Span>2021Q3</Span>
+<Span ActualText="，">，</Span>
+<Span>2021Q4</Span>
+<Span ActualText="，">，</Span>
+<Span>2022Q1</Span>
+<Span ActualText="和">和</Span>
+<Span>2022Q2</Span>
+<Span ActualText="指数日均成交额分别为">指数日均成交额分别为</Span>
+<Span>673.56</Span>
+<Span ActualText="亿元，">亿元，</Span>
+<Span>586.06</Span>
+<Span ActualText="亿元，">亿元，</Span>
+<Span>667.75</Span>
+<Span ActualText="亿元，">亿元，</Span>
+<Span>563.02</Span>
+<Span ActualText="亿元，">亿元，</Span>
+<Span>499.62</Span>
+<Span ActualText="亿元及">亿元及</Span>
+<Span>494.88</Span>
+<Span ActualText="亿元">亿元</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="流动性维持在较高水平。">流动性维持在较高水平。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span> </Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>20</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数季度日均成交量及成交额">指数季度日均成交量及成交额</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_16.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：">数据日期：</Span>
+<Span>2020</Span>
+<Span ActualText="年">年</Span>
+<Span>1</Span>
+<Span ActualText="月">月</Span>
+<Span>1</Span>
+<Span ActualText="日至">日至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>6</Span>
+<Span ActualText="月">月</Span>
+<Span>30</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.4、市值分布：以大中盘为主 </H2>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="成分股">成分股</Span>
+<Span ActualText="加权平均">加权平均</Span>
+<Span ActualText="自由流通市值为">自由流通市值为</Span>
+<Span>1922.64</Span>
+<Span ActualText="亿">亿</Span>
+<Span ActualText="元">元</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日，指数的">日，指数的</Span>
+<Span>80</Span>
+<Span ActualText="只成分股自由流通市值合计">只成分股自由流通市值合计</Span>
+<Span>36586.81</Span>
+<Span ActualText="亿元，成分股加权">亿元，成分股加权</Span>
+<Span ActualText="平均自由流通市值为">平均自由流通市值为</Span>
+<Span>1922.64</Span>
+<Span ActualText="亿元。">亿元。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="指数">指数</Span>
+<Span ActualText="大中">大中</Span>
+<Span ActualText="盘风格">盘风格</Span>
+<Span ActualText="较">较</Span>
+<Span ActualText="为突出">为突出</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText="自由流通市值在">自由流通市值在</Span>
+<Span>100</Span>
+<Span ActualText="亿以下的股票有">亿以下的股票有</Span>
+<Span>11</Span>
+<Span ActualText="只，权重">只，权重</Span>
+<Span ActualText="占比为">占比为</Span>
+<Span>3.16%</Span>
+<Span ActualText="；自由流通市值在">；自由流通市值在</Span>
+<Span>100-200</Span>
+<Span ActualText="亿之间的股票有">亿之间的股票有</Span>
+<Span>33</Span>
+<Span ActualText="只，权重占比为">只，权重占比为</Span>
+<Span>16.48%</Span>
+<Span ActualText="；">；</Span>
+<Span ActualText="自由流通市值在">自由流通市值在</Span>
+<Span>200-500</Span>
+<Span ActualText="亿之间的股票有">亿之间的股票有</Span>
+<Span>24</Span>
+<Span ActualText="只，权重占比为">只，权重占比为</Span>
+<Span>22.09%</Span>
+<Span ActualText="；自由流通">；自由流通</Span>
+<Span ActualText="市值在">市值在</Span>
+<Span>500-1000</Span>
+<Span ActualText="亿之间的股票有">亿之间的股票有</Span>
+<Span>5</Span>
+<Span ActualText="只，权重占比为">只，权重占比为</Span>
+<Span>13.23%</Span>
+<Span ActualText="；自由流通市值在在">；自由流通市值在在</Span>
+<Span>1000</Span>
+<Span ActualText="亿以上的股票有">亿以上的股票有</Span>
+<Span>7</Span>
+<Span ActualText="只，权重占比为">只，权重占比为</Span>
+<Span>45.03%</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>21</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="成分股权重分布">成分股权重分布</Span>
+<Span ActualText="（单位：">（单位：</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>22</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="成分股数量分布">成分股数量分布</Span>
+<Span ActualText="（">（</Span>
+<Span ActualText="单位：只">单位：只</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_17.jpg"/>
+</Figure>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_18.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源">资料来源</Span>
+<Span ActualText="：">：</Span>
+<Span>Wind</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="兴业证券经济与金融研究院整理">兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：截至">数据日期：截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：截至">数据日期：截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P><Span> </Span>
+<Span ActualText=" "> </Span>
+</P>
+<H2>2.5、行业分布：全面覆盖具备消费属性的行业板块 </H2>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数共覆盖">指数共覆盖</Span>
+<Span>27</Span>
+<Span ActualText="个申万二">个申万二</Span>
+<Span ActualText="级行业">级行业</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="其中">其中</Span>
+<Span ActualText="白酒权重最高，达">白酒权重最高，达</Span>
+<Span>18.99%</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="合计数量为">合计数量为</Span>
+<Span>8</Span>
+<Span ActualText="只；医疗服务权重达">只；医疗服务权重达</Span>
+<Span>10.66%</Span>
+<Span ActualText="，合计数量为">，合计数量为</Span>
+<Span>6</Span>
+<Span ActualText="只；化学制药权重达">只；化学制药权重达</Span>
+<Span>9.21%</Span>
+<Span ActualText="，合计数量为">，合计数量为</Span>
+<Span>7</Span>
+<Span ActualText="只；">只；</Span>
+<Span ActualText="剩余行业">剩余行业</Span>
+<Span ActualText="覆盖">覆盖</Span>
+<Span ActualText="饮料乳品、汽车零部件、旅游零售、调味">饮料乳品、汽车零部件、旅游零售、调味</Span>
+<Span ActualText="发酵品、中药、乘用车、白色家电等，">发酵品、中药、乘用车、白色家电等，</Span>
+<Span ActualText="成分股数量共计">成分股数量共计</Span>
+<Span>59</Span>
+<Span ActualText="只。">只。</Span>
+<Span ActualText="各个消费子板块有">各个消费子板块有</Span>
+<Span ActualText="望轮流带动指数上行。">望轮流带动指数上行。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>23</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="成分股行业分布">成分股行业分布</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_19.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：截至">数据日期：截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.6、估值水平：处于近两年较低位置，配置价值凸显 </H2>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数市盈率、市净率">指数市盈率、市净率</Span>
+<Span ActualText="均处于近两年较低位置，具备投资性价比，">均处于近两年较低位置，具备投资性价比，</Span>
+<Span ActualText="配置价值凸显">配置价值凸显</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日，">日，</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="市净率">市净率</Span>
+<Span ActualText="（">（</Span>
+<Span>LF</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText="为">为</Span>
+<Span>5.30</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="位于">位于</Span>
+<Span ActualText="统计区间">统计区间</Span>
+<Span ActualText="你">你</Span>
+<Span>21.81%</Span>
+<Span ActualText="的">的</Span>
+<Span ActualText="分位数水平">分位数水平</Span>
+<Span ActualText="；指数市盈率（">；指数市盈率（</Span>
+<Span>TTM</Span>
+<Span ActualText="）为">）为</Span>
+<Span>35.84</Span>
+<Span ActualText="，位于统计">，位于统计</Span>
+<Span ActualText="区间">区间</Span>
+<Span ActualText="内">内</Span>
+<Span>17.49%</Span>
+<Span ActualText="的分位数水平">的分位数水平</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span> </Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>24</Span>
+<Span ActualText="、">、</Span>
+<Span>上证消费</Span>
+<Span>80</Span>
+<Span>指数统计区间内估值水平</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_20.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：">数据日期：</Span>
+<Span>2020</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日至">日至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.7、指数成分股：聚焦细分领域龙头 </H2>
+<P><Span ActualText="前十大权重股大多为">前十大权重股大多为</Span>
+<Span ActualText="细分">细分</Span>
+<Span ActualText="板块龙头">板块龙头</Span>
+<Span ActualText="：">：</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>7</Span>
+<Span ActualText="月">月</Span>
+<Span>6</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指">指</Span>
+<Span ActualText="数">数</Span>
+<Span ActualText="前十大权重">前十大权重</Span>
+<Span ActualText="股">股</Span>
+<Span ActualText="合计权重为">合计权重为</Span>
+<Span>54.43%</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="汇聚">汇聚</Span>
+<Span ActualText="各细分领域的龙头企业">各细分领域的龙头企业</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="指数前三大权">指数前三大权</Span>
+<Span ActualText="重成分股分别是">重成分股分别是</Span>
+<Span ActualText="贵州茅台、中国中免和药明康德，">贵州茅台、中国中免和药明康德，</Span>
+<Span ActualText="权重分别为">权重分别为</Span>
+<Span>10.28%</Span>
+<Span ActualText="、">、</Span>
+<Span>7.25%</Span>
+<Span ActualText="和">和</Span>
+<Span>6.80%</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P>表9、上证消费80指数前十大成分股 </P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P>代码 </P>
+</TH>
+<TD><P>简称 </P>
+</TD>
+<TD><P>权重(%) </P>
+</TD>
+<TD><P>申万二级行业 </P>
+</TD>
+<TD><P>简介 </P>
+</TD>
+</TR>
+<TR><TH><P>600519.SH </P>
+</TH>
+<TD><P>贵州茅台 </P>
+</TD>
+<TD><P>10.28 </P>
+</TD>
+<TD><P>白酒Ⅱ </P>
+</TD>
+<TD><P>国内白酒行业的标志性企业 </P>
+</TD>
+</TR>
+<TR><TH><P>601888.SH </P>
+</TH>
+<TD><P>中国中免 </P>
+</TD>
+<TD><P>7.25 </P>
+</TD>
+<TD><P>旅游零售Ⅱ </P>
+</TD>
+<TD><P>国际大型免税运营商，经国务院授权在全国范围内开展免税业务的国有专营公司 </P>
+</TD>
+</TR>
+<TR><TH><P>603259.SH </P>
+</TH>
+<TD><P>药明康德 </P>
+</TD>
+<TD><P>6.80 </P>
+</TD>
+<TD><P>医疗服务 </P>
+</TD>
+<TD><P>全球领先的制药以及医疗器械研发开放式能力和技术平台企业 </P>
+</TD>
+</TR>
+<TR><TH><P>600887.SH </P>
+</TH>
+<TD><P>伊利股份 </P>
+</TD>
+<TD><P>6.36 </P>
+</TD>
+<TD><P>饮料乳品 </P>
+</TD>
+<TD><P>中国规模最大、产品品类最全的乳制品企业，为2008年北京奥运会、2010年上海世博会提供服务的乳制品企业 </P>
+</TD>
+</TR>
+<TR><TH><P>600276.SH </P>
+</TH>
+<TD><P>恒瑞医药 </P>
+</TD>
+<TD><P>5.28 </P>
+</TD>
+<TD><P>化学制药 </P>
+</TD>
+<TD><P>从事医药创新和高品质药品研发、生产及推广的医药健康企业，连续多年被国家统计局列为全国化学制药行业十佳效益企业 </P>
+</TD>
+</TR>
+<TR><TH><P>600809.SH </P>
+</TH>
+<TD><P>山西汾酒 </P>
+</TD>
+<TD><P>5.06 </P>
+</TD>
+<TD><P>白酒Ⅱ </P>
+</TD>
+<TD><P>生产国家名酒汾酒、竹叶青酒、玫瑰汾酒、白玉汾酒等系列产品的大型一档企业，是全国食品饮料业、全国轻工业最佳企业之一 </P>
+</TD>
+</TR>
+<TR><TH><P>603288.SH </P>
+</TH>
+<TD><P>海天味业 </P>
+</TD>
+<TD><P>4.01 </P>
+</TD>
+<TD><P>调味发酵品Ⅱ </P>
+</TD>
+<TD><P>中国调味品行业的龙头企业，专业的调味品生产和营销企业 </P>
+</TD>
+</TR>
+<TR><TH><P>600436.SH </P>
+</TH>
+<TD><P>片仔癀 </P>
+</TD>
+<TD><P>3.43 </P>
+</TD>
+<TD><P>中药Ⅱ </P>
+</TD>
+<TD><P>国家高新技术企业、中华老字号企业，致力于打造国内一流的健康养生品牌 </P>
+</TD>
+</TR>
+<TR><TH><P>600690.SH </P>
+</TH>
+<TD><P>海尔智家 </P>
+</TD>
+<TD><P>3.32 </P>
+</TD>
+<TD><P>白色家电 </P>
+</TD>
+<TD><P>全球领先的美好生活和数字化转型解决方案服务商 </P>
+</TD>
+</TR>
+<TR><TH><P>600104.SH </P>
+</TH>
+<TD><P>上汽集团 </P>
+</TD>
+<TD><P>2.65 </P>
+</TD>
+<TD><P>乘用车 </P>
+</TD>
+<TD><P>国内规模领先的汽车上市公司 </P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：Wind，兴业证券济与金融研究院整理 </P>
+<P>数据日期：截至2022年7月6日 </P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>2.8、指数特征：盈利能力强 </H2>
+<P><Span ActualText="上证消费">上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="盈利">盈利</Span>
+<Span ActualText="能力优势">能力优势</Span>
+<Span ActualText="突出。">突出。</Span>
+<Span ActualText="财务数据显示，上证消费">财务数据显示，上证消费</Span>
+<Span>80</Span>
+<Span ActualText="指数的">指数的</Span>
+<Span>ROE</Span>
+<Span ActualText="、销售毛利率等指标均明显优于主流宽基指数，">、销售毛利率等指标均明显优于主流宽基指数，</Span>
+<Span ActualText="盈利能力优秀，有望为投资">盈利能力优秀，有望为投资</Span>
+<Span ActualText="者提供充沛的现金流。">者提供充沛的现金流。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P><Span ActualText="图">图</Span>
+<Span>25</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="指数">指数</Span>
+<Span>ROE</Span>
+<Span ActualText="比较">比较</Span>
+<Span ActualText="（">（</Span>
+<Span ActualText="单位：">单位：</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="图">图</Span>
+<Span>26</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="指数">指数</Span>
+<Span ActualText="销售毛利率比较">销售毛利率比较</Span>
+<Span ActualText="（">（</Span>
+<Span ActualText="单位：">单位：</Span>
+<Span>%</Span>
+<Span ActualText="）">）</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_21.jpg"/>
+</Figure>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+<Figure><ImageData src="E:/projects/ocrExcel/src/main/resources/xmls/images/20221019132150_img_22.jpg"/>
+</Figure>
+</TD>
+</TR>
+<TR><TD><P><Span ActualText="资料来源">资料来源</Span>
+<Span ActualText="：">：</Span>
+<Span>Wind</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="兴业证券经济与金融研究院整理">兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：">数据日期：</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>3</Span>
+<Span ActualText="月">月</Span>
+<Span>31</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="资料来源：">资料来源：</Span>
+<Span>Wind</Span>
+<Span ActualText="，兴业证券经济与金融研究院整理">，兴业证券经济与金融研究院整理</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="数据日期：">数据日期：</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>3</Span>
+<Span ActualText="月">月</Span>
+<Span>31</Span>
+<Span ActualText="日">日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H1>3、招商上证消费80ETF（510150）：一键布局沪市优质消费类企业 </H1>
+<H2>3.1、产品介绍 </H2>
+<P>上证消费80交易型开放式指数证券投资基金（510150）跟踪上证消费80指数，基金经理为许荣漫，为投资者提供全面布局沪市各消费细分板块优质公司的便捷工具。 </P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><TBody><TR><TD><P>表10、上证消费80交易型开放式指数证券投资基金基本信息 </P>
+</TD>
+</TR>
+<TR><TD><P>基金全称 </P>
+</TD>
+<TD><P>上证消费80交易型开放式指数证券投资基金 </P>
+</TD>
+</TR>
+<TR><TD><P>基金简称 </P>
+</TD>
+<TD><P>招商上证消费80ETF </P>
+</TD>
+<TD><P>基金代码 </P>
+</TD>
+<TD><P>510150 </P>
+</TD>
+</TR>
+<TR><TD><P>上市日期 </P>
+</TD>
+<TD><P>2011年2月25日 </P>
+</TD>
+<TD><P>基金类型 </P>
+</TD>
+<TD><P>被动指数型基金 </P>
+</TD>
+</TR>
+<TR><TD><P>基金管理人 </P>
+</TD>
+<TD><P>招商基金管理有限公司 </P>
+</TD>
+<TD><P>基金经理 </P>
+</TD>
+<TD><P>许荣漫 </P>
+</TD>
+</TR>
+<TR><TD><P>标的指数 </P>
+</TD>
+<TD><P>上证消费80指数 </P>
+</TD>
+<TD><P>标的代码 </P>
+</TD>
+<TD><P>000069.SH </P>
+</TD>
+</TR>
+<TR><TD><P>投资目标 </P>
+</TD>
+<TD><P>紧密跟踪标的指数，追求跟踪偏离度和跟踪误差最小化。 </P>
+</TD>
+</TR>
+<TR><TD><P>投资范围 </P>
+</TD>
+<TD><P>本基金的投资范围为具有良好流动性的金融工具，包括上证消费80指数的成份券及其备选成份券、一级市场新发股票、存托凭证、债券、权证以及经中国证监会批准的允许本基金投资的其它金融工具。 </P>
+</TD>
+</TR>
+<TR><TD><P>投资策略 </P>
+</TD>
+<TD><P>本基金以上证消费80指数为标的指数，采用完全复制法，即完全按照标的指数成份股组成及其权重构建基金股票投资组合，进行被动式指数化投资。股票在投资组合中的权重原则上根据标的指数成份股及其权重的变动而进行相应调整。但在因特殊情况(如流动性不足等)导致无法获得足够数量的股票时，基金管理人将搭配使用</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<Table><TBody><TR><TD/>
+<TD><P>其他合理方法进行适当的替代。本基金跟踪标的指数成份股和备选成份股的资产比例不低于基金资产净值的90%。 </P>
+</TD>
+</TR>
+<TR><TD><P>风险收益特征 </P>
+</TD>
+<TD><P>本基金属于股票型基金，预期风险与收益水平高于混合基金、债券基金与货币市场基金，在证券投资基金中属于较高风险、较高收益的投资品种；并且本基金为被动式投资的指数基金，采用完全复制法紧密跟踪上证消费80指数，具有与标的指数以及标的指数所代表的股票市场相似的风险收益特征。 </P>
+</TD>
+</TR>
+<TR><TD><P>费率结构 </P>
+</TD>
+<TD><P>管理费率 </P>
+</TD>
+<TD><P>0.50% </P>
+</TD>
+<TD><P>托管费率 </P>
+</TD>
+<TD><P>0.10% </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD><P>认购费率 </P>
+</TD>
+<TD><P>认购金额：M </P>
+</TD>
+<TD><P>费率 </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>M&lt;100万 </P>
+</TD>
+<TD><P>1.00% </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>100万≤M&lt;500万 </P>
+</TD>
+<TD><P>0.50% </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>M≥500万 </P>
+</TD>
+<TD><P>1000元/笔 </P>
+</TD>
+</TR>
+<TR><TD><P>资料来源：Wind，基金法律文件，兴业证券经济与金融研究院整理 </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>3.2、基金公司 </H2>
+<P><Span ActualText="招商基金管理有限公司于">招商基金管理有限公司于</Span>
+<Span>2002</Span>
+<Span ActualText="年">年</Span>
+<Span>12</Span>
+<Span ActualText="月">月</Span>
+<Span>27</Span>
+<Span ActualText="日经中国证监会（">日经中国证监会（</Span>
+<Span>2002</Span>
+<Span ActualText="）">）</Span>
+<Span>100</Span>
+<Span ActualText="号文">号文</Span>
+<Span ActualText="批准设立，是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立">批准设立，是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立</Span>
+<Span ActualText="基金、基金管理业务和中国证监会批准的其它业务。">基金、基金管理业务和中国证监会批准的其它业务。</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>Q1</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="招商基金">招商基金</Span>
+<Span ActualText="旗下非货币型基金总规模达">旗下非货币型基金总规模达</Span>
+<Span>5594.84</Span>
+<Span ActualText="亿元，在">亿元，在</Span>
+<Span>149</Span>
+<Span ActualText="家管理人中排名第">家管理人中排名第</Span>
+<Span>5</Span>
+<Span ActualText="位。">位。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText="招商">招商</Span>
+<Span ActualText="基金">基金</Span>
+<Span>ETF</Span>
+<Span ActualText="产品线">产品线</Span>
+<Span ActualText="布局">布局</Span>
+<Span ActualText="丰富，">丰富，</Span>
+<Span ActualText="除了宽基指数">除了宽基指数</Span>
+<Span ActualText="招商深证">招商深证</Span>
+<Span>100ETF</Span>
+<Span ActualText="等">等</Span>
+<Span ActualText="，还包括">，还包括</Span>
+<Span ActualText="诸多特色主题">诸多特色主题</Span>
+<Span ActualText="与行业">与行业</Span>
+<Span>ETF</Span>
+<Span ActualText="，如">，如</Span>
+<Span ActualText="招商中证云计算与大数据">招商中证云计算与大数据</Span>
+<Span>ETF</Span>
+<Span ActualText="、">、</Span>
+<Span ActualText="招商中证消费电子">招商中证消费电子</Span>
+<Span ActualText="主题">主题</Span>
+<Span>ETF</Span>
+<Span ActualText="等">等</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>11</Span>
+<Span ActualText="、招商">、招商</Span>
+<Span ActualText="基金">基金</Span>
+<Span>ETF</Span>
+<Span ActualText="产品">产品</Span>
+<Span ActualText="布局">布局</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P><Span ActualText="代码">代码</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="简称">简称</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="基金成立日">基金成立日</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>513220</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证全球中国互联网">招商中证全球中国互联网</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/7/4</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>517990</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证沪港深">招商中证沪港深</Span>
+<Span>500</Span>
+<Span ActualText="医药卫生">医药卫生</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/5/9</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>517900</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证银行">招商中证银行</Span>
+<Span>AH</Span>
+<Span ActualText="价格优选">价格优选</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/3/15</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159750</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证香港科技">招商中证香港科技</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/1/26</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>517550</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证沪港深消费龙头">招商中证沪港深消费龙头</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/1/20</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159701</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证物联网主题">招商中证物联网主题</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/12/15</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>561990</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商沪深">招商沪深</Span>
+<Span>300</Span>
+<Span ActualText="增强策略">增强策略</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/12/2</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159779</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证消费电子主题">招商中证消费电子主题</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/11/18</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>561910</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证电池主题">招商中证电池主题</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/8/4</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>561900</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商沪深">招商沪深</Span>
+<Span>300ESG</Span>
+<Span ActualText="基准">基准</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/7/6</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>588300</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证科创创业">招商中证科创创业</Span>
+<Span>50ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/6/25</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159899</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证全指软件">招商中证全指软件</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/6/18</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159898</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证全指医疗器械">招商中证全指医疗器械</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/5/27</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159890</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证云计算与大数据">招商中证云计算与大数据</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/3/25</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<Table><TBody><TR><TH><P><Span>516670</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证畜牧养殖">招商中证畜牧养殖</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/3/18</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159849</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证生物科技主题">招商中证生物科技主题</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/2/8</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159843</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商国证食品饮料">招商国证食品饮料</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/1/25</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159815</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证浙江">招商中证浙江</Span>
+<Span>100ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2020/8/3</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>513990</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商上证港股通">招商上证港股通</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2020/8/3</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159991</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商创业板大盘">招商创业板大盘</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2020/3/20</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>515160</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商">招商</Span>
+<Span>MSCI</Span>
+<Span ActualText="中国">中国</Span>
+<Span>A</Span>
+<Span ActualText="股国际通">股国际通</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2020/2/3</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>515080</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证红利">招商中证红利</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2019/11/28</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159975</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商深证">招商深证</Span>
+<Span>100ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2019/11/7</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159909</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商深证">招商深证</Span>
+<Span>TMT50ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2011/6/27</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>510150</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商上证消费">招商上证消费</Span>
+<Span>80ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2010/12/8</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：Wind，兴业证券经济与金融研究院整理 </P>
+<P><Span ActualText="备注：仅统计初始基金；统计不包含">备注：仅统计初始基金；统计不包含</Span>
+<Span>ETF</Span>
+<Span ActualText="联接基金">联接基金</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<H2>3.3、基金经理 </H2>
+<P><Span ActualText="基金经理许荣漫">基金经理许荣漫</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="硕士">硕士</Span>
+<Span ActualText="，拥有丰富的指数基金投研经验">，拥有丰富的指数基金投研经验</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="许荣漫">许荣漫</Span>
+<Span ActualText="女士">女士</Span>
+<Span>2015</Span>
+<Span ActualText="年">年</Span>
+<Span ActualText="加入招商基金">加入招商基金</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="曾任品牌推广经理、研究员">曾任品牌推广经理、研究员</Span>
+<Span ActualText="、高级研究员，现任招商基金量化投">、高级研究员，现任招商基金量化投</Span>
+<Span ActualText="资部基金经理">资部基金经理</Span>
+<Span ActualText="。许荣漫女士">。许荣漫女士</Span>
+<Span ActualText="同时任招商中证电池主题">同时任招商中证电池主题</Span>
+<Span>ETF</Span>
+<Span ActualText="、招商中证全指医疗器">、招商中证全指医疗器</Span>
+<Span ActualText="械">械</Span>
+<Span>ETF</Span>
+<Span ActualText="、招商中证生物科技主题">、招商中证生物科技主题</Span>
+<Span>ETF</Span>
+<Span ActualText="、招商中证沪港深消费龙头">、招商中证沪港深消费龙头</Span>
+<Span>ETF</Span>
+<Span ActualText="等多个产品">等多个产品</Span>
+<Span ActualText="的基金经理">的基金经理</Span>
+<Span ActualText="。">。</Span>
+<Span ActualText="截至">截至</Span>
+<Span>2022</Span>
+<Span ActualText="年">年</Span>
+<Span>Q1</Span>
+<Span ActualText="，">，</Span>
+<Span ActualText="管理基金">管理基金</Span>
+<Span>9</Span>
+<Span ActualText="只（多份额基金合并计算），在管基">只（多份额基金合并计算），在管基</Span>
+<Span ActualText="金总规模">金总规模</Span>
+<Span>177.17</Span>
+<Span ActualText="亿元。">亿元。</Span>
+<Span ActualText=" "> </Span>
+</P>
+<P><Span ActualText=" "> </Span>
+</P>
+<Table><THead><TR><TH><P><Span ActualText="表">表</Span>
+<Span>12</Span>
+<Span ActualText="、基金经理">、基金经理</Span>
+<Span ActualText="许荣漫">许荣漫</Span>
+<Span ActualText="管理基金概况">管理基金概况</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+</TR>
+</THead>
+<TBody><TR><TH><P>代码 </P>
+</TH>
+<TD><P>名称 </P>
+</TD>
+<TD><P>基金类型 </P>
+</TD>
+<TD><P>任职日期 </P>
+</TD>
+<TD><P>规模合计(亿） </P>
+</TD>
+</TR>
+<TR><TH><P><Span>161726</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商国证生物医药">招商国证生物医药</Span>
+<Span>A</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/3/25</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>155.27</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>510150</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商上证消费">招商上证消费</Span>
+<Span>80ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/4/22</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>7.14</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>011966</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证光伏产业">招商中证光伏产业</Span>
+<Span>A</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/12/4</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>7.05</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>217017</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商上证消费">招商上证消费</Span>
+<Span>80ETF</Span>
+<Span ActualText="联接">联接</Span>
+<Span>A</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/4/22</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2.42</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>561910</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证电池主题">招商中证电池主题</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/8/4</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>1.92</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159898</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证全指医疗器械">招商中证全指医疗器械</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/3/5</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>1.61</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>159849</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证生物科技主题">招商中证生物科技主题</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/3/5</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>1.21</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>517550</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商中证沪港深消费龙头">招商中证沪港深消费龙头</Span>
+<Span>ETF</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2022/1/20</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.34</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P><Span>501067</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TH>
+<TD><P><Span ActualText="招商富时">招商富时</Span>
+<Span>A-H50A</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span ActualText="被动指数型">被动指数型</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>2021/4/22</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+<TD><P><Span>0.21</Span>
+<Span ActualText=" "> </Span>
+</P>
+</TD>
+</TR>
+<TR><TH><P>资料来源：Wind，兴业证券经济与金融研究院整理 </P>
+<P>数据日期：截至2022年3月31日 </P>
+<P>备注：多份额基金规模合并统计；新发基金按照发行规模统计 </P>
+</TH>
+</TR>
+</TBody>
+</Table>
+<P><Span ActualText=" "> </Span>
+</P>
+<P>风险提示：板块表现不达预期风险；本基金属于股票型基金，预期风险收益水平较高；指数与基金历史表现不代表未来。 </P>
+<P>分析师声明 </P>
+<P>本人具有中国证券业协会授予的证券投资咨询执业资格并登记为证券分析师，以勤勉的职业态度，独立、客观地出具本报告。本报告清晰准确地反映了本人的研究观点。本人不曾因，不因，也将不会因本报告中的具体推荐意见或观点而直接或间接收到任何形式的补偿。 </P>
+<P>投资评级说明 </P>
+<Table><TBody><TR><TD><P>投资建议的评级标准 </P>
+</TD>
+<TD><P>类别 </P>
+</TD>
+<TD><P>评级 </P>
+</TD>
+<TD><P>说明 </P>
+</TD>
+</TR>
+<TR><TD><P>报告中投资建议所涉及的评级分为股票评级和行业评级（另有说明的除外）。评级标准为报告发布日后的12个月内公司股价（或行业指数）相对同期相关证券市场代表性指数的涨跌幅。其中：A股市场以上证综指或深圳成指为基准，香港市场以恒生指数为基准；美国市场以标普500或纳斯达克综合指数为基准。 </P>
+</TD>
+<TD><P>股票评级 </P>
+</TD>
+<TD><P>买入 </P>
+</TD>
+<TD><P>相对同期相关证券市场代表性指数涨幅大于15% </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>审慎增持 </P>
+</TD>
+<TD><P>相对同期相关证券市场代表性指数涨幅在5%～15%之间 </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>中性 </P>
+</TD>
+<TD><P>相对同期相关证券市场代表性指数涨幅在-5%～5%之间 </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>减持 </P>
+</TD>
+<TD><P>相对同期相关证券市场代表性指数涨幅小于-5% </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>无评级 </P>
+</TD>
+<TD><P>由于我们无法获取必要的资料，或者公司面临无法预见结果的重大不确定性事件，或者其他原因，致使我们无法给出明确的投资评级 </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD><P>行业评级 </P>
+</TD>
+<TD><P>推荐 </P>
+</TD>
+<TD><P>相对表现优于同期相关证券市场代表性指数 </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>中性 </P>
+</TD>
+<TD><P>相对表现与同期相关证券市场代表性指数持平 </P>
+</TD>
+</TR>
+<TR><TD/>
+<TD/>
+<TD><P>回避 </P>
+</TD>
+<TD><P>相对表现弱于同期相关证券市场代表性指数 </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P>信息披露 </P>
+<P>本公司在知晓的范围内履行信息披露义务。客户可登录www.xyzq.com.cn内幕交易防控栏内查询静默期安排和关联公司持股情况。 </P>
+<P>使用本研究报告的风险提示及法律声明 </P>
+<P>兴业证券股份有限公司经中国证券监督管理委员会批准，已具备证券投资咨询业务资格。 </P>
+<P>本报告仅供兴业证券股份有限公司（以下简称“本公司”）的客户使用，本公司不会因接收人收到本报告而视其为客户。本报告中的信息、意见等均仅供客户参考，不构成所述证券买卖的出价或征价邀请或要约，投资者自主作出投资决策并自行承担投资风险，任何形式的分享证券投资收益或者分担证券投资损失的书面或口头承诺均为无效，任何有关本报告的摘要或节选都不代表本报告正式完整的观点，一切须以本公司向客户发布的本报告完整版本为准。该等信息、意见并未考虑到获取本报告人员的具体投资目的、财务状况以及特定需求，在任何时候均不构成对任何人的个人推荐。客户应当对本报告中的信息和意见进行独立评估，并应同时考量各自的投资目的、财务状况和特定需求，必要时就法律、商业、财务、税收等方面咨询专家的意见。对依据或者使用本报告所造成的一切后果，本公司及/或其关联人员均不承担任何法律责任。 </P>
+<P>本报告所载资料的来源被认为是可靠的，但本公司不保证其准确性或完整性，也不保证所包含的信息和建议不会发生任何变更。本公司并不对使用本报告所包含的材料产生的任何直接或间接损失或与此相关的其他任何损失承担任何责任。 </P>
+<P>本报告所载的资料、意见及推测仅反映本公司于发布本报告当日的判断，本报告所指的证券或投资标的的价格、价值及投资收入可升可跌，过往表现不应作为日后的表现依据；在不同时期，本公司可发出与本报告所载资料、意见及推测不一致的报告；本公司不保证本报告所含信息保持在最新状态。同时，本公司对本报告所含信息可在不发出通知的情形下做出修改，投资者应当自行关注相应的更新或修改。 </P>
+<P>除非另行说明，本报告中所引用的关于业绩的数据代表过往表现。过往的业绩表现亦不应作为日后回报的预示。我们不承诺也不保证，任何所预示的回报会得以实现。分析中所做的回报预测可能是基于相应的假设。任何假设的变化可能会显著地影响所预测的回报。 </P>
+<P>本公司的销售人员、交易人员以及其他专业人士可能会依据不同假设和标准、采用不同的分析方法而口头或书面发表与本报告意见及建议不一致的市场评论和/或交易观点。本公司没有将此意见及建议向报告所有接收者进行更新的义务。本公司的资产管理部门、自营部门以及其他投资业务部门可能独立做出与本报告中的意见或建议不一致的投资决策。 </P>
+<P>本报告并非针对或意图发送予或为任何就发送、发布、可得到或使用此报告而使兴业证券股份有限公司及其关联子公司等违反当地的法律或法规或可致使兴业证券股份有限公司受制于相关法律或法规的任何地区、国家或其他管辖区域的公民或居民，包括但不限于美国及美国公民（1934年美国《证券交易所》第15a-6条例定义为本「主要美国机构投资者」除外）。 </P>
+<P>本报告的版权归本公司所有。本公司对本报告保留一切权利。除非另有书面显示，否则本报告中的所有材料的版权均属本公司。未经本公司事先书面授权，本报告的任何部分均不得以任何方式制作任何形式的拷贝、复印件或复制品，或再次分发给任何其他人，或以任何侵犯本公司版权的其他方式使用。未经授权的转载，本公司不承担任何转载责任。 </P>
+<P>特别声明 </P>
+<P>在法律许可的情况下，兴业证券股份有限公司可能会持有本报告中提及公司所发行的证券头寸并进行交易，也可能为这些公司提供或争取提供投资银行业务服务。因此，投资者应当考虑到兴业证券股份有限公司及/或其相关人员可能存在影响本报告观点客观性的潜在利益冲突。投资者请勿将本报告视为投资或其他决定的唯一信赖依据。 </P>
+<P>兴业证券研究 </P>
+<Table><TBody><TR><TD><P>上 海 </P>
+</TD>
+<TD><P>北 京 </P>
+</TD>
+<TD><P>深 圳 </P>
+</TD>
+</TR>
+<TR><TD><P>地址：上海浦东新区长柳路36号兴业证券大厦15层 </P>
+<P>邮编：200135 </P>
+<P>邮箱：research@xyzq.com.cn </P>
+</TD>
+<TD><P>地址：北京市朝阳区建国门大街甲6号SK大厦32层01-08单元 </P>
+<P>邮编：100020 </P>
+<P>邮箱：research@xyzq.com.cn </P>
+</TD>
+<TD><P>地址：深圳市福田区皇岗路5001号深业上城T2座52楼 </P>
+<P>邮编：518035 </P>
+<P>邮箱：research@xyzq.com.cn </P>
+</TD>
+</TR>
+</TBody>
+</Table>
+<P> </P>
+</Document>
+</TaggedPDF-doc>

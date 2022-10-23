@@ -1,0 +1,104 @@
+Foxit Software Incorporated
+Foxit is a leading software provider of fast, affordable, and secure PDF solutions. Businesses
+and consumers increase productivity by using Foxit’s cost effective solutions to securely work
+with PDF documents and forms. Software developers reduce costs and improve time to
+market with Foxit’s Software Development Kits (SDKs) to incorporate robust PDF technology
+into their application workflows. This technology shares the same underlying technology that
+powers Google’s open-source PDFium project. Winner of numerous awards, Foxit boasts
+over 275 million users and has sold to over 100,000 customers located in over 200 countries.
+Since Foxit products are ISO 32000-1/PDF 1.7 standard compliant, they are compatible with
+other PDF products like those from Adobe®.
+Product Overview
+Foxit provides the following product offerings to our customers:
+PDF Reading
+ Foxit Reader - Small, fast, and feature rich PDF viewer which allows you to open, view,
+and print any PDF file. Unlike other free PDF readers, Foxit Reader also includes easy
+to use collaboration features like the ability to add annotations, fill out forms, and share
+content with social networks. It is designed to meet the PDF viewing needs of enterprise
+and government organizations, making it easy to deploy and manage in large enterprise
+environments. Foxit Reader can also be customized to specific product features and
+branding.
+ Foxit MobilePDF - Allows users to work on PDF documents while on the go with any
+Android or iPad device. Built on the same technology as Foxit Reader, MobilePDF
+provides a similar PDF user experience from desktop to mobile devices. More than just a
+PDF reader, it provides advanced display, collaboration tools, and page management
+capabilities.
+Desktop PDF Editing, Creation, and Security
+ Foxit PhantomPDF™
+o Foxit PhantomPDF Standard - Expands upon PhantomPDF Express by allowing
+users to edit PDF document contents. Robust security features keep documents
+safe, including encryption and digital signature. The form design tools let users
+develop PDF forms. OCR support converts scanned or image-based content into
+selectable and searchable text.
+o Foxit PhantomPDF Business - Robust for the needs of businesses, it expands
+upon PhantomPDF Standard by providing advanced editing and security features.
+Policy protects PDF documents through Microsoft® Active Directory® Rights
+Management Service. Permanently remove (redact) visible text and images to
+protect confidential information. Foxit Advanced PDF Editor - Provides paragraph editing to reflow and reformat your
+PDF text like a word processor. Resize page margins and spell check text to make
+editing PDF documents easy.
+PDF Index and Search
+ Foxit PDF IFilter - Super-fast indexing allows users to index a large amount of PDF
+documents and then quickly search these documents using popular search engines.
+Built on Microsoft®'s IFilter indexing interface, Foxit PDF IFilter extracts data from PDF
+documents and returns the index results to search engine software. It indexes PDF
+content, titles, subjects, authors, keywords, bookmarks, attachments, create time/date,
+number of pages, and the names of the creating applications.
+PDF Security
+ Foxit PDF Security Suite - Delivers cost effective PDF policy protection to any business
+running Microsoft®SharePoint® or Exchange® with Active Directory® Rights Management
+Services (AD RMS). For organizations that incorporate AD RMS that need to include
+rights management to PDF files, Foxit PDF Security Suite seamlessly extends Microsoft
+AD RMS to provide policy protection to PDF documents in SharePoint®, Exchange®,
+and/or desktop solutions. These protected PDF documents can be read by the AD RMSaware Foxit Reader.
+Software Development Kits (SDKs)
+Foxit PDF SDKs enable developers and device manufacturers to leverage Foxit's award
+winning PDF technology in their applications and devices. The SDKs allow developers to
+incorporate powerful PDF technology to view, search, and annotate PDF. The SDKs provide
+these capabilities in an easy to integrate, platform independent solution that allows
+developers to reduce time to market by developing features once and then easily port these
+capabilities to other platforms.
+Foxit Strengths
+Customers typically choose Foxit products for their:
+ High Performance - Speeds three times faster than any other PDF software.
+ Lightweight footprint - Won't exhaust system resource and deploys quickly.
+ Great value / affordability - The right features at the right price with email and phone
+support.
+ Security - Safeguards confidential information.
+ Customer Support - Available when you need them to quickly satisfy customer needs.Introduction to PDF
+History of PDF
+PDF is a file format used to represent documents in a manner independent of application
+software, hardware, and operating systems. Each PDF file encapsulates a complete description
+of a fixed-layout flat document, including the text, font, graphics, and other information needed
+to display it.
+While Adobe Systems made the PDF specification available for free in 1993, PDF remained a
+proprietary format controlled by Adobe, until July 1, 2008, when it was officially released as an
+open standard and published by the International Organization for Standardization as ISO
+32000-1:2008. In 2008, Adobe published a Public Patent License to ISO 32000-1 granting
+royalty-free rights for all patents owned by Adobe that are necessary to make, use, sell and
+distribute PDF compliant implementations.
+PDF Document Structure
+A PDF document is composed of one or more pages. Each page has its own specifications to
+indicate its appearance. All the contents in a PDF page, such as text, image, annotation and
+form, etc. are represented as PDF objects. A PDF document can be considered as a hierarchy
+of objects contained in the body section of a PDF file (more detailed description about PDF
+objects is in section 4.20). Displaying a PDF document in an application involves loading PDF
+document, parsing PDF objects, retrieving/decoding pages content and displaying/printing it on
+a device. Editing a PDF document requires parsing the document structure, making changes
+and reorganizing the PDF objects in a document. These operations could be done by a
+conforming PDF reader/editor or in your own applications through APIs provided by Foxit.
+PDF Document Features
+PDF supports a lot of features to enhance the document capability, such as document
+encryption, digital signatures, java script actions, form filling, layered content, multimedia
+support and etc. These features provide users with more flexibility in displaying, exchanging
+and editing documents. Foxit supports all PDF features in the ISO standard. Users can use
+Foxit PDF SDK to fulfill these advanced features in your applications.Support
+Foxit support home link:
+http://www.foxitsoftware.com/support/
+Sales contact phone number:
+Phone: 1-866-680-3668
+Email: sales@foxitsoftware.com
+Support & General contact:
+Phone: 1-866-MYFOXIT or 1-866-693-6948
+Email: support@foxitsoftware.com
+www.foxitsoftware.com
