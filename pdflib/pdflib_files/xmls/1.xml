@@ -1,0 +1,2710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by the PDFlib Text and Image Extraction Toolkit TET (www.pdflib.com) -->
+<TET xmlns="http://www.pdflib.com/XML/TET5/TET-5.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.pdflib.com/XML/TET5/TET-5.0
+ http://www.pdflib.com/XML/TET5/TET-5.0.xsd"
+ version="5.2">
+<Creation platform="Win64" tetVersion="5.3" date="2022-12-26T19:59:11+08:00" />
+<Document filename="E:\projects/pdflib_files/pdfs\1.pdf" pageCount="1" filesize="242851" linearized="false" pdfVersion="1.4">
+<DocInfo>
+<Author>天宇科技</Author>
+<CreationDate>2022-04-28T08:50:00+08:00</CreationDate>
+<Creator>Microsoft® Word 2010</Creator>
+<ModDate>2022-05-31T10:52:12+08:00</ModDate>
+<Producer>Microsoft® Word 2010</Producer>
+<Title> </Title>
+</DocInfo>
+<Options>tetml={}</Options>
+<Pages>
+<Page number="1" width="595.32" height="842.04">
+<Options>granularity=word</Options>
+<Content granularity="word" dehyphenation="false" dropcap="false" font="false" geometry="false" shadow="false" sub="false" sup="false">
+<PlacedImage image="I0" x="30.60" y="765.14" width="136.70" height="38.15" />
+<Para>
+ <Box llx="247.37" lly="767.88" urx="431.93" ury="797.76">
+  <Word>
+   <Text>公司研究</Text>
+   <Box llx="273.05" lly="787.20" urx="315.17" ury="797.76"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="315.19" lly="787.20" urx="318.13" ury="797.76"/>
+  </Word>
+  <Word>
+   <Text>信息设备</Text>
+   <Box llx="318.07" lly="787.20" urx="360.08" ury="797.76"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="360.07" lly="787.20" urx="363.01" ury="797.76"/>
+  </Word>
+  <Word>
+   <Text>通信设备</Text>
+   <Box llx="362.95" lly="787.20" urx="404.96" ury="797.76"/>
+  </Word>
+  <Word>
+   <Text>中瓷电子</Text>
+   <Box llx="247.37" lly="767.88" urx="295.59" ury="779.88"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="295.61" lly="767.88" urx="307.61" ury="779.88"/>
+  </Word>
+  <Word>
+   <Text>003031</Text>
+   <Box llx="307.73" lly="767.88" urx="347.73" ury="779.88"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="347.71" lly="767.88" urx="359.71" ury="779.88"/>
+  </Word>
+  <Word>
+   <Text>公司年报点评</Text>
+   <Box llx="359.71" lly="767.88" urx="431.93" ury="779.88"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="500.98" lly="787.20" urx="564.11" ury="797.76">
+  <Word>
+   <Text>证券研究报告</Text>
+   <Box llx="500.98" lly="787.20" urx="564.11" ury="797.76"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="485.74" lly="766.92" urx="563.98" ury="775.92">
+  <Word>
+   <Text>2022</Text>
+   <Box llx="485.74" lly="766.92" urx="505.86" ury="775.92"/>
+  </Word>
+  <Word>
+   <Text>年</Text>
+   <Box llx="508.06" lly="766.92" urx="517.06" ury="775.92"/>
+  </Word>
+  <Word>
+   <Text>04</Text>
+   <Box llx="519.34" lly="766.92" urx="529.38" ury="775.92"/>
+  </Word>
+  <Word>
+   <Text>月</Text>
+   <Box llx="531.58" lly="766.92" urx="540.58" ury="775.92"/>
+  </Word>
+  <Word>
+   <Text>28</Text>
+   <Box llx="542.86" lly="766.92" urx="552.78" ury="775.92"/>
+  </Word>
+  <Word>
+   <Text>日</Text>
+   <Box llx="554.98" lly="766.92" urx="563.98" ury="775.92"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="26.52" lly="723.46" urx="141.38" ury="739.18">
+  <Word>
+   <Text>投资评级</Text>
+   <Box llx="26.52" lly="723.46" urx="74.52" ury="735.46"/>
+  </Word>
+  <Word>
+   <Text>优于大市</Text>
+   <Box llx="85.10" lly="725.14" urx="141.38" ury="739.18"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="23.16" lly="704.98" urx="63.36" ury="714.94">
+  <Word>
+   <Text>股票数据</Text>
+   <Box llx="23.16" lly="704.98" urx="63.36" ury="714.94"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="165.98" lly="724.54" urx="190.10" ury="736.54">
+  <Word>
+   <Text>维持</Text>
+   <Box llx="165.98" lly="724.54" urx="190.10" ury="736.54"/>
+  </Word>
+ </Box>
+</Para>
+<Table llx="21.16" lly="639.51" ulx="21.16" uly="701.52" urx="203.65" ury="700.92" lrx="203.65" lry="639.51">
+ <Row>
+  <Cell llx="23.16" lly="689.85" urx="129.02" ury="700.07">
+   <Para>
+    <Box llx="23.16" lly="691.30" urx="110.42" ury="699.82">
+     <Word>
+      <Text>04</Text>
+      <Box llx="23.16" lly="691.30" urx="32.58" ury="699.82"/>
+     </Word>
+     <Word>
+      <Text>月</Text>
+      <Box llx="33.96" lly="691.30" urx="42.48" ury="699.82"/>
+     </Word>
+     <Word>
+      <Text>27</Text>
+      <Box llx="44.04" lly="691.30" urx="53.58" ury="699.82"/>
+     </Word>
+     <Word>
+      <Text>日收盘价</Text>
+      <Box llx="54.96" lly="691.30" urx="89.18" ury="699.82"/>
+     </Word>
+     <Word>
+      <Text>(</Text>
+      <Box llx="84.98" lly="691.30" urx="93.50" ury="699.82"/>
+     </Word>
+     <Word>
+      <Text>元</Text>
+      <Box llx="93.38" lly="691.30" urx="101.90" ury="699.82"/>
+     </Word>
+     <Word>
+      <Text>)</Text>
+      <Box llx="101.90" lly="691.30" urx="110.42" ury="699.82"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="152.18" lly="689.85" urx="204.02" ury="700.07">
+   <Para>
+    <Box llx="180.38" lly="690.70" urx="201.54" ury="699.22">
+     <Word>
+      <Text>73.40</Text>
+      <Box llx="180.38" lly="690.70" urx="201.54" ury="699.22"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="23.16" lly="677.61" urx="129.02" ury="687.83">
+   <Para>
+    <Box llx="23.16" lly="679.18" urx="102.84" ury="687.70">
+     <Word>
+      <Text>52</Text>
+      <Box llx="23.16" lly="679.18" urx="32.58" ury="687.70"/>
+     </Word>
+     <Word>
+      <Text>周股价波动</Text>
+      <Box llx="34.68" lly="679.18" urx="77.28" ury="687.70"/>
+     </Word>
+     <Word>
+      <Text>(</Text>
+      <Box llx="77.28" lly="679.18" urx="85.80" ury="687.70"/>
+     </Word>
+     <Word>
+      <Text>元</Text>
+      <Box llx="85.80" lly="679.18" urx="94.32" ury="687.70"/>
+     </Word>
+     <Word>
+      <Text>)</Text>
+      <Box llx="94.32" lly="679.18" urx="102.84" ury="687.70"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="152.18" lly="677.61" urx="204.02" ury="687.83">
+   <Para>
+    <Box llx="152.18" lly="678.46" urx="201.54" ury="686.98">
+     <Word>
+      <Text>49.57-117.86</Text>
+      <Box llx="152.18" lly="678.46" urx="201.54" ury="686.98"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="23.16" lly="665.37" urx="129.02" ury="675.59">
+   <Para>
+    <Box llx="23.16" lly="666.94" urx="129.02" ury="675.46">
+     <Word>
+      <Text>总股本</Text>
+      <Box llx="23.16" lly="666.94" urx="48.72" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>/</Text>
+      <Box llx="48.72" lly="666.94" urx="51.09" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>流通</Text>
+      <Box llx="51.00" lly="666.94" urx="68.04" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>A</Text>
+      <Box llx="70.34" lly="666.94" urx="76.03" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>股</Text>
+      <Box llx="78.02" lly="666.94" urx="86.54" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>(</Text>
+      <Box llx="86.54" lly="666.94" urx="95.06" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>百万股</Text>
+      <Box llx="95.06" lly="666.94" urx="120.62" ury="675.46"/>
+     </Word>
+     <Word>
+      <Text>)</Text>
+      <Box llx="120.50" lly="666.94" urx="129.02" ury="675.46"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="152.18" lly="665.37" urx="204.02" ury="675.59">
+   <Para>
+    <Box llx="175.70" lly="666.22" urx="201.65" ury="674.74">
+     <Word>
+      <Text>149</Text>
+      <Box llx="175.70" lly="666.22" urx="189.79" ury="674.74"/>
+     </Word>
+     <Word>
+      <Text>/</Text>
+      <Box llx="189.73" lly="666.22" urx="192.10" ury="674.74"/>
+     </Word>
+     <Word>
+      <Text>50</Text>
+      <Box llx="192.13" lly="666.22" urx="201.65" ury="674.74"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="23.16" lly="653.25" urx="129.02" ury="663.47">
+   <Para>
+    <Box llx="23.16" lly="654.70" urx="127.58" ury="663.22">
+     <Word>
+      <Text>总市值</Text>
+      <Box llx="23.16" lly="654.70" urx="48.72" ury="663.22"/>
+     </Word>
+     <Word>
+      <Text>/</Text>
+      <Box llx="48.72" lly="654.70" urx="51.09" ury="663.22"/>
+     </Word>
+     <Word>
+      <Text>流通市值</Text>
+      <Box llx="51.00" lly="654.70" urx="85.08" ury="663.22"/>
+     </Word>
+     <Word>
+      <Text>(</Text>
+      <Box llx="85.08" lly="654.70" urx="93.60" ury="663.22"/>
+     </Word>
+     <Word>
+      <Text>百万元</Text>
+      <Box llx="93.62" lly="654.70" urx="119.18" ury="663.22"/>
+     </Word>
+     <Word>
+      <Text>)</Text>
+      <Box llx="119.06" lly="654.70" urx="127.58" ury="663.22"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="152.18" lly="653.25" urx="204.02" ury="663.47">
+   <Para>
+    <Box llx="156.86" lly="654.10" urx="201.65" ury="662.62">
+     <Word>
+      <Text>10961</Text>
+      <Box llx="156.86" lly="654.10" urx="180.44" ury="662.62"/>
+     </Word>
+     <Word>
+      <Text>/</Text>
+      <Box llx="180.38" lly="654.10" urx="182.75" ury="662.62"/>
+     </Word>
+     <Word>
+      <Text>3643</Text>
+      <Box llx="182.77" lly="654.10" urx="201.65" ury="662.62"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2" llx="23.16" lly="641.50" urx="66.15" ury="651.46">
+   <Para>
+    <Box llx="23.16" lly="641.50" urx="63.36" ury="651.46">
+     <Word>
+      <Text>相关研究</Text>
+      <Box llx="23.16" lly="641.50" urx="63.36" ury="651.46"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="23.16" lly="578.59" urx="196.58" ury="636.10">
+  <Word>
+   <Text>《</Text>
+   <Box llx="28.56" lly="627.58" urx="37.08" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>&quot;</Text>
+   <Box llx="37.20" lly="627.58" urx="40.22" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>海通通信</Text>
+   <Box llx="40.08" lly="627.58" urx="74.16" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>&quot;</Text>
+   <Box llx="74.18" lly="627.58" urx="77.21" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>中瓷电子</Text>
+   <Box llx="77.06" lly="627.58" urx="111.14" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>-</Text>
+   <Box llx="111.14" lly="627.58" urx="113.98" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>电子陶瓷外壳龙头</Text>
+   <Box llx="113.90" lly="627.58" urx="182.06" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="182.06" lly="627.58" urx="190.58" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>并</Text>
+   <Box llx="188.06" lly="627.58" urx="196.58" ury="636.10"/>
+  </Word>
+  <Word>
+   <Text>购打造第三代半导体领先企业》</Text>
+   <Box llx="28.56" lly="615.58" urx="147.72" ury="624.10"/>
+  </Word>
+  <Word>
+   <Text>2022.02.20</Text>
+   <Box llx="147.62" lly="615.58" urx="190.11" ury="624.10"/>
+  </Word>
+  <Word>
+   <Text>《精密陶瓷外壳龙头</Text>
+   <Box llx="28.56" lly="603.34" urx="112.04" ury="611.86"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="112.87" lly="603.34" urx="121.39" ury="611.86"/>
+  </Word>
+  <Word>
+   <Text>发展步入新阶段》</Text>
+   <Box llx="122.23" lly="603.34" urx="196.23" ury="611.86"/>
+  </Word>
+  <Word>
+   <Text>2021.04.24</Text>
+   <Box llx="28.56" lly="591.34" urx="71.05" ury="599.86"/>
+  </Word>
+  <Word>
+   <Text>市场表现</Text>
+   <Box llx="23.16" lly="578.59" urx="63.36" ury="588.55"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="28.13" lly="492.09" urx="55.42" ury="546.20">
+  <Word>
+   <Text>123.73</Text>
+   <Box llx="28.13" lly="539.25" urx="49.27" ury="546.20"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="49.24" lly="539.25" urx="55.42" ury="546.20"/>
+  </Word>
+  <Word>
+   <Text>86.73</Text>
+   <Box llx="31.96" lly="523.52" urx="49.27" ury="530.47"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="49.24" lly="523.52" urx="55.42" ury="530.47"/>
+  </Word>
+  <Word>
+   <Text>49.73</Text>
+   <Box llx="31.96" lly="507.80" urx="49.27" ury="514.75"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="49.24" lly="507.80" urx="55.42" ury="514.75"/>
+  </Word>
+  <Word>
+   <Text>12.73</Text>
+   <Box llx="31.96" lly="492.09" urx="49.27" ury="499.05"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="49.24" lly="492.09" urx="55.42" ury="499.05"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="69.88" lly="557.94" urx="161.77" ury="565.97">
+  <Word>
+   <Text>中瓷电子</Text>
+   <Box llx="69.88" lly="557.94" urx="102.37" ury="565.97"/>
+  </Word>
+  <Word>
+   <Text>海通综指</Text>
+   <Box llx="129.27" lly="557.94" urx="161.77" ury="565.97"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="29.68" lly="468.10" urx="150.31" ury="483.32">
+  <Word>
+   <Text>-24.27%</Text>
+   <Box llx="29.68" lly="476.37" urx="55.42" ury="483.32"/>
+  </Word>
+  <Word>
+   <Text>2021</Text>
+   <Box llx="50.33" lly="468.10" urx="65.72" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="65.69" lly="468.10" urx="67.62" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>4</Text>
+   <Box llx="67.62" lly="468.10" urx="71.49" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>2021</Text>
+   <Box llx="76.49" lly="468.10" urx="91.88" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="91.85" lly="468.10" urx="93.78" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>7</Text>
+   <Box llx="93.78" lly="468.10" urx="97.65" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>2021</Text>
+   <Box llx="100.83" lly="468.10" urx="116.22" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="116.19" lly="468.10" urx="118.12" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>10</Text>
+   <Box llx="118.12" lly="468.10" urx="125.82" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>2022</Text>
+   <Box llx="129.15" lly="468.10" urx="144.54" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="144.51" lly="468.10" urx="146.44" ury="475.05"/>
+  </Word>
+  <Word>
+   <Text>1</Text>
+   <Box llx="146.44" lly="468.10" urx="150.31" ury="475.05"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="23.16" lly="411.41" ulx="23.16" uly="457.63" urx="196.27" ury="456.91" lrx="196.27" lry="411.41">
+  <Word>
+   <Text>沪深</Text>
+   <Box llx="23.16" lly="449.11" urx="40.20" ury="457.63"/>
+  </Word>
+  <Word>
+   <Text>300</Text>
+   <Box llx="42.48" lly="449.11" urx="56.58" ury="457.63"/>
+  </Word>
+  <Word>
+   <Text>对比</Text>
+   <Box llx="58.56" lly="449.11" urx="75.60" ury="457.63"/>
+  </Word>
+  <Word>
+   <Text>1M</Text>
+   <Box llx="112.46" lly="448.39" urx="124.24" ury="456.91"/>
+  </Word>
+  <Word>
+   <Text>2M</Text>
+   <Box llx="148.46" lly="448.39" urx="160.24" ury="456.91"/>
+  </Word>
+  <Word>
+   <Text>3M</Text>
+   <Box llx="184.46" lly="448.39" urx="196.24" ury="456.91"/>
+  </Word>
+  <Word>
+   <Text>绝对涨幅</Text>
+   <Box llx="23.16" lly="435.43" urx="57.24" ury="443.95"/>
+  </Word>
+  <Word>
+   <Text>(%)</Text>
+   <Box llx="57.24" lly="435.43" urx="81.74" ury="443.95"/>
+  </Word>
+  <Word>
+   <Text>-21.2</Text>
+   <Box llx="104.90" lly="434.83" urx="124.27" ury="443.35"/>
+  </Word>
+  <Word>
+   <Text>-34.7</Text>
+   <Box llx="140.90" lly="434.83" urx="160.27" ury="443.35"/>
+  </Word>
+  <Word>
+   <Text>-6.9</Text>
+   <Box llx="181.58" lly="434.83" urx="196.27" ury="443.35"/>
+  </Word>
+  <Word>
+   <Text>相对涨幅</Text>
+   <Box llx="23.16" lly="421.87" urx="57.24" ury="430.39"/>
+  </Word>
+  <Word>
+   <Text>(%)</Text>
+   <Box llx="57.24" lly="421.87" urx="81.74" ury="430.39"/>
+  </Word>
+  <Word>
+   <Text>-14.5</Text>
+   <Box llx="104.90" lly="421.13" urx="124.27" ury="429.65"/>
+  </Word>
+  <Word>
+   <Text>-19.9</Text>
+   <Box llx="140.90" lly="421.13" urx="160.27" ury="429.65"/>
+  </Word>
+  <Word>
+   <Text>8.8</Text>
+   <Box llx="184.46" lly="421.13" urx="196.27" ury="429.65"/>
+  </Word>
+  <Word>
+   <Text>资料来源</Text>
+   <Box llx="23.16" lly="411.41" urx="53.28" ury="418.97"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="53.28" lly="411.41" urx="60.84" ury="418.97"/>
+  </Word>
+  <Word>
+   <Text>海通证券研究所</Text>
+   <Box llx="60.72" lly="411.41" urx="113.28" ury="418.97"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="23.16" lly="178.82" urx="134.45" ury="272.81">
+  <Word>
+   <Text>分析师</Text>
+   <Box llx="23.16" lly="264.29" urx="48.72" ury="272.81"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="48.72" lly="264.29" urx="51.09" ury="272.81"/>
+  </Word>
+  <Word>
+   <Text>余伟民</Text>
+   <Box llx="51.00" lly="264.29" urx="76.56" ury="272.81"/>
+  </Word>
+  <Word>
+   <Text>Tel</Text>
+   <Box llx="23.16" lly="250.10" urx="33.93" ury="258.62"/>
+  </Word>
+  <Word>
+   <Text>:(</Text>
+   <Box llx="33.95" lly="250.10" urx="39.18" ury="258.62"/>
+  </Word>
+  <Word>
+   <Text>010</Text>
+   <Box llx="39.21" lly="250.10" urx="53.30" ury="258.62"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="53.24" lly="250.10" urx="56.08" ury="258.62"/>
+  </Word>
+  <Word>
+   <Text>50949926</Text>
+   <Box llx="56.12" lly="250.10" urx="93.93" ury="258.62"/>
+  </Word>
+  <Word>
+   <Text>Email</Text>
+   <Box llx="23.16" lly="235.82" urx="44.36" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="44.37" lly="235.82" urx="46.74" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>ywm11574</Text>
+   <Box llx="46.77" lly="235.82" urx="87.13" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>@</Text>
+   <Box llx="87.07" lly="235.82" urx="95.72" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>htsec</Text>
+   <Box llx="95.72" lly="235.82" urx="115.92" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>.</Text>
+   <Box llx="115.97" lly="235.82" urx="118.34" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>com</Text>
+   <Box llx="118.36" lly="235.82" urx="134.45" ury="244.34"/>
+  </Word>
+  <Word>
+   <Text>证书</Text>
+   <Box llx="23.16" lly="221.66" urx="40.20" ury="230.18"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="40.20" lly="221.66" urx="42.57" ury="230.18"/>
+  </Word>
+  <Word>
+   <Text>S0850517090006</Text>
+   <Box llx="42.59" lly="221.66" urx="109.54" ury="230.18"/>
+  </Word>
+  <Word>
+   <Text>联系人</Text>
+   <Box llx="23.16" lly="207.26" urx="48.72" ury="215.78"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="48.72" lly="207.26" urx="51.09" ury="215.78"/>
+  </Word>
+  <Word>
+   <Text>夏凡</Text>
+   <Box llx="51.00" lly="207.26" urx="68.04" ury="215.78"/>
+  </Word>
+  <Word>
+   <Text>Tel</Text>
+   <Box llx="23.16" lly="192.98" urx="33.93" ury="201.50"/>
+  </Word>
+  <Word>
+   <Text>:(</Text>
+   <Box llx="33.95" lly="192.98" urx="39.18" ury="201.50"/>
+  </Word>
+  <Word>
+   <Text>021</Text>
+   <Box llx="39.21" lly="192.98" urx="53.30" ury="201.50"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="53.24" lly="192.98" urx="56.08" ury="201.50"/>
+  </Word>
+  <Word>
+   <Text>23154128</Text>
+   <Box llx="56.12" lly="192.98" urx="93.93" ury="201.50"/>
+  </Word>
+  <Word>
+   <Text>Email</Text>
+   <Box llx="23.16" lly="178.82" urx="44.36" ury="187.34"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="44.37" lly="178.82" urx="46.74" ury="187.34"/>
+  </Word>
+  <Word>
+   <Text>xf13728</Text>
+   <Box llx="46.77" lly="178.82" urx="76.91" ury="187.34"/>
+  </Word>
+  <Word>
+   <Text>@</Text>
+   <Box llx="76.85" lly="178.82" urx="85.50" ury="187.34"/>
+  </Word>
+  <Word>
+   <Text>htsec</Text>
+   <Box llx="85.50" lly="178.82" urx="105.70" ury="187.34"/>
+  </Word>
+  <Word>
+   <Text>.</Text>
+   <Box llx="105.75" lly="178.82" urx="108.12" ury="187.34"/>
+  </Word>
+  <Word>
+   <Text>com</Text>
+   <Box llx="108.15" lly="178.82" urx="124.23" ury="187.34"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="212.57" lly="721.30" urx="513.73" ury="741.34">
+  <Word>
+   <Text>业绩平稳增长</Text>
+   <Box llx="212.57" lly="721.30" urx="333.01" ury="741.34"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="333.07" lly="721.30" urx="353.11" ury="741.34"/>
+  </Word>
+  <Word>
+   <Text>长期发展前景可期</Text>
+   <Box llx="353.21" lly="721.30" urx="513.73" ury="741.34"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="689.26" urx="278.19" ury="701.26">
+  <Word>
+   <Text>投资要点</Text>
+   <Box llx="217.97" lly="689.26" urx="266.19" ury="701.26"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="266.19" lly="689.26" urx="278.19" ury="701.26"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="618.34" urx="566.62" ury="667.18">
+  <Word>
+   <Text>•</Text>
+   <Box llx="217.97" lly="657.22" urx="222.81" ury="663.70"/>
+  </Word>
+  <Word>
+   <Text>事件</Text>
+   <Box llx="229.37" lly="657.22" urx="249.41" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="249.53" lly="657.22" urx="259.49" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>4</Text>
+   <Box llx="254.69" lly="657.22" urx="260.23" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>月</Text>
+   <Box llx="262.37" lly="657.22" urx="272.33" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>22</Text>
+   <Box llx="274.73" lly="657.22" urx="285.79" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>日</Text>
+   <Box llx="288.05" lly="657.22" urx="298.01" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="298.13" lly="657.22" urx="308.09" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>中瓷电子发布</Text>
+   <Box llx="303.17" lly="657.22" urx="363.19" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>21</Text>
+   <Box llx="365.59" lly="657.22" urx="376.65" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>年年报</Text>
+   <Box llx="378.91" lly="657.22" urx="408.90" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="408.90" lly="657.22" urx="418.86" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>21</Text>
+   <Box llx="413.95" lly="657.22" urx="425.01" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>年营收</Text>
+   <Box llx="427.27" lly="657.22" urx="457.39" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>10.14</Text>
+   <Box llx="459.82" lly="657.22" urx="484.56" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="486.82" lly="657.22" urx="506.86" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>(+</Text>
+   <Box llx="501.94" lly="657.22" urx="517.84" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>24.21</Text>
+   <Box llx="517.78" lly="657.22" urx="542.76" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="542.74" lly="657.22" urx="566.62" ury="667.18"/>
+  </Word>
+  <Word>
+   <Text>归母净利</Text>
+   <Box llx="229.37" lly="644.26" urx="269.32" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>1.22</Text>
+   <Box llx="272.45" lly="644.26" urx="291.78" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="294.77" lly="644.26" urx="314.81" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>(+</Text>
+   <Box llx="314.81" lly="644.26" urx="330.73" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>23.96</Text>
+   <Box llx="330.67" lly="644.26" urx="355.63" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>%);</Text>
+   <Box llx="355.63" lly="644.26" urx="384.55" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>同日</Text>
+   <Box llx="384.55" lly="644.26" urx="404.59" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="404.59" lly="644.26" urx="414.55" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>公司发布</Text>
+   <Box llx="414.55" lly="644.26" urx="454.51" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>22</Text>
+   <Box llx="457.66" lly="644.26" urx="468.72" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>年一季报</Text>
+   <Box llx="471.70" lly="644.26" urx="511.65" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="511.78" lly="644.26" urx="521.74" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>第一季度</Text>
+   <Box llx="521.74" lly="644.26" urx="561.69" ury="654.22"/>
+  </Word>
+  <Word>
+   <Text>营收</Text>
+   <Box llx="229.37" lly="631.30" urx="249.41" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>2.92</Text>
+   <Box llx="252.05" lly="631.30" urx="271.38" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="273.89" lly="631.30" urx="293.81" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>(+</Text>
+   <Box llx="293.45" lly="631.30" urx="309.35" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>30.93</Text>
+   <Box llx="309.29" lly="631.30" urx="334.25" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="334.27" lly="631.30" urx="362.83" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>归母净利</Text>
+   <Box llx="362.59" lly="631.30" urx="402.43" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>0.36</Text>
+   <Box llx="405.07" lly="631.30" urx="424.42" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="426.91" lly="631.30" urx="446.95" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>(+</Text>
+   <Box llx="446.62" lly="631.30" urx="462.52" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>26.05</Text>
+   <Box llx="462.46" lly="631.30" urx="487.42" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>%)</Text>
+   <Box llx="487.42" lly="631.30" urx="506.26" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="506.02" lly="631.30" urx="515.98" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>公司</Text>
+   <Box llx="515.62" lly="631.30" urx="535.54" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>21</Text>
+   <Box llx="538.18" lly="631.30" urx="549.24" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>年</Text>
+   <Box llx="551.74" lly="631.30" urx="561.70" ury="641.26"/>
+  </Word>
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="229.37" lly="618.34" urx="259.36" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>28.91</Text>
+   <Box llx="262.01" lly="618.34" urx="286.86" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>%(</Text>
+   <Box llx="286.85" lly="618.34" urx="301.01" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="301.13" lly="618.34" urx="321.17" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>-0.96PCT</Text>
+   <Box llx="321.31" lly="618.34" urx="363.98" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>),</Text>
+   <Box llx="364.15" lly="618.34" urx="379.51" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>22</Text>
+   <Box llx="374.95" lly="618.34" urx="386.01" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>年</Text>
+   <Box llx="388.39" lly="618.34" urx="398.35" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>Q1</Text>
+   <Box llx="400.99" lly="618.34" urx="414.33" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="416.83" lly="618.34" urx="446.71" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>29.15</Text>
+   <Box llx="449.38" lly="618.34" urx="474.23" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>%(</Text>
+   <Box llx="474.22" lly="618.34" urx="488.38" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="488.50" lly="618.34" urx="508.54" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>-0.97PCT</Text>
+   <Box llx="508.66" lly="618.34" urx="551.22" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="551.38" lly="618.34" urx="561.34" ury="628.30"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="556.66" lly="618.34" urx="566.62" ury="628.30"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="494.95" urx="561.71" ury="608.86">
+  <Word>
+   <Text>•</Text>
+   <Box llx="217.97" lly="598.90" urx="222.81" ury="605.38"/>
+  </Word>
+  <Word>
+   <Text>消费电子业务高速增长</Text>
+   <Box llx="229.37" lly="598.90" urx="329.81" ury="608.86"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="329.83" lly="598.90" urx="339.79" ury="608.86"/>
+  </Word>
+  <Word>
+   <Text>按产品划分</Text>
+   <Box llx="339.67" lly="598.90" urx="389.59" ury="608.86"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="389.71" lly="598.90" urx="399.67" ury="608.86"/>
+  </Word>
+  <Word>
+   <Text>2021</Text>
+   <Box llx="399.55" lly="598.90" urx="421.65" ury="608.86"/>
+  </Word>
+  <Word>
+   <Text>年全年公司通信用电子陶瓷外壳</Text>
+   <Box llx="421.63" lly="598.90" urx="561.67" ury="608.86"/>
+  </Word>
+  <Word>
+   <Text>业务收入</Text>
+   <Box llx="229.37" lly="585.91" urx="269.32" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>7.25</Text>
+   <Box llx="269.45" lly="585.91" urx="288.80" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="288.77" lly="585.91" urx="308.80" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="308.20" lly="585.91" urx="318.16" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="318.27" lly="585.91" urx="338.19" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="338.35" lly="585.91" urx="344.17" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>13.04</Text>
+   <Box llx="344.11" lly="585.91" urx="368.96" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="368.95" lly="585.91" urx="397.27" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="396.79" lly="585.91" urx="426.78" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>29.52</Text>
+   <Box llx="426.91" lly="585.91" urx="451.76" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>%(</Text>
+   <Box llx="451.78" lly="585.91" urx="470.02" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="470.14" lly="585.91" urx="490.18" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>-1.60PCT</Text>
+   <Box llx="490.18" lly="585.91" urx="532.74" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>);</Text>
+   <Box llx="532.90" lly="585.91" urx="552.34" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>消</Text>
+   <Box llx="551.74" lly="585.91" urx="561.70" ury="595.87"/>
+  </Word>
+  <Word>
+   <Text>费电子陶瓷外壳业务收入</Text>
+   <Box llx="229.37" lly="572.95" urx="340.87" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>1.22</Text>
+   <Box llx="341.11" lly="572.95" urx="360.34" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="360.43" lly="572.95" urx="380.59" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="380.83" lly="572.95" urx="390.79" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="391.03" lly="572.95" urx="411.19" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="411.43" lly="572.95" urx="417.25" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>433.01</Text>
+   <Box llx="417.19" lly="572.95" urx="447.56" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="447.58" lly="572.95" urx="476.85" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="477.08" lly="572.95" urx="507.30" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>32.20</Text>
+   <Box llx="507.58" lly="572.95" urx="532.43" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>%(</Text>
+   <Box llx="532.42" lly="572.95" urx="551.38" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>同</Text>
+   <Box llx="551.62" lly="572.95" urx="561.58" ury="582.91"/>
+  </Word>
+  <Word>
+   <Text>比</Text>
+   <Box llx="229.37" lly="559.87" urx="239.33" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>-2.86PCT</Text>
+   <Box llx="239.45" lly="559.87" urx="282.01" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="282.17" lly="559.87" urx="292.13" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="291.65" lly="559.87" urx="301.61" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>按地区划分</Text>
+   <Box llx="301.13" lly="559.87" urx="351.07" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="351.07" lly="559.87" urx="361.03" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>2021</Text>
+   <Box llx="360.55" lly="559.87" urx="382.65" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>年全年公司境内业务收入</Text>
+   <Box llx="382.63" lly="559.87" urx="492.81" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>8.15</Text>
+   <Box llx="492.94" lly="559.87" urx="512.27" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="512.26" lly="559.87" urx="532.29" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="531.69" lly="559.87" urx="541.65" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="541.76" lly="559.87" urx="561.68" ury="569.83"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="229.37" lly="546.91" urx="235.19" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>29.34</Text>
+   <Box llx="235.13" lly="546.91" urx="260.12" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="260.09" lly="546.91" urx="287.93" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="286.98" lly="546.91" urx="317.08" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>28.90</Text>
+   <Box llx="317.23" lly="546.91" urx="342.08" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>%(</Text>
+   <Box llx="342.07" lly="546.91" urx="359.83" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="359.94" lly="546.91" urx="379.86" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="379.99" lly="546.91" urx="385.81" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>0.44PCT</Text>
+   <Box llx="385.75" lly="546.91" urx="425.07" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>);</Text>
+   <Box llx="425.23" lly="546.91" urx="444.19" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>境外业务收入</Text>
+   <Box llx="443.26" lly="546.91" urx="503.14" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>1.99</Text>
+   <Box llx="503.26" lly="546.91" urx="522.60" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="522.58" lly="546.91" urx="542.61" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="541.65" lly="546.91" urx="551.61" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>同</Text>
+   <Box llx="551.61" lly="546.91" urx="561.57" ury="556.87"/>
+  </Word>
+  <Word>
+   <Text>比</Text>
+   <Box llx="229.37" lly="533.95" urx="239.33" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="239.45" lly="533.95" urx="245.27" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>6.81</Text>
+   <Box llx="245.21" lly="533.95" urx="264.55" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="264.65" lly="533.95" urx="293.57" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="293.69" lly="533.95" urx="323.81" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>28.94</Text>
+   <Box llx="323.95" lly="533.95" urx="348.80" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>%(</Text>
+   <Box llx="348.91" lly="533.95" urx="367.75" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="367.87" lly="533.95" urx="387.91" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>-5.73PCT</Text>
+   <Box llx="388.03" lly="533.95" urx="430.59" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="430.75" lly="533.95" urx="440.71" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="440.86" lly="533.95" urx="450.82" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>21</Text>
+   <Box llx="450.94" lly="533.95" urx="462.00" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>年公司销售费用</Text>
+   <Box llx="461.98" lly="533.95" urx="532.15" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>0.06</Text>
+   <Box llx="532.30" lly="533.95" urx="551.65" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>亿</Text>
+   <Box llx="551.62" lly="533.95" urx="561.58" ury="543.91"/>
+  </Word>
+  <Word>
+   <Text>元</Text>
+   <Box llx="229.37" lly="520.87" urx="239.33" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="239.21" lly="520.87" urx="249.17" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="249.17" lly="520.87" urx="269.09" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>-6.21</Text>
+   <Box llx="269.21" lly="520.87" urx="291.90" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="291.89" lly="520.87" urx="320.57" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>管理费用</Text>
+   <Box llx="320.33" lly="520.87" urx="360.28" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>0.39</Text>
+   <Box llx="360.43" lly="520.87" urx="379.77" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="379.75" lly="520.87" urx="399.78" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="399.66" lly="520.87" urx="409.62" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="409.62" lly="520.87" urx="429.54" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="429.67" lly="520.87" urx="435.49" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>45.88</Text>
+   <Box llx="435.43" lly="520.87" urx="460.28" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="460.42" lly="520.87" urx="489.22" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>财务费用</Text>
+   <Box llx="488.98" lly="520.87" urx="528.93" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>-0.02</Text>
+   <Box llx="529.06" lly="520.87" urx="551.76" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>亿</Text>
+   <Box llx="551.74" lly="520.87" urx="561.70" ury="530.83"/>
+  </Word>
+  <Word>
+   <Text>元</Text>
+   <Box llx="229.37" lly="507.91" urx="239.33" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="239.44" lly="507.91" urx="249.40" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="249.51" lly="507.91" urx="269.43" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>-135.70</Text>
+   <Box llx="269.57" lly="507.91" urx="303.30" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="303.29" lly="507.91" urx="332.21" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>研发投入</Text>
+   <Box llx="332.33" lly="507.91" urx="372.53" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>1.41</Text>
+   <Box llx="372.67" lly="507.91" urx="392.02" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="391.99" lly="507.91" urx="412.02" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="412.13" lly="507.91" urx="422.09" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="422.20" lly="507.91" urx="442.12" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="442.30" lly="507.91" urx="448.12" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>29.91</Text>
+   <Box llx="448.06" lly="507.91" urx="473.04" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>%),</Text>
+   <Box llx="473.02" lly="507.91" urx="501.94" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>年底存货</Text>
+   <Box llx="502.06" lly="507.91" urx="542.26" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>2.59</Text>
+   <Box llx="542.38" lly="507.91" urx="561.71" ury="517.87"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="229.37" lly="494.95" urx="249.40" ury="504.91"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="249.40" lly="494.95" urx="259.36" ury="504.91"/>
+  </Word>
+  <Word>
+   <Text>同比</Text>
+   <Box llx="259.36" lly="494.95" urx="279.39" ury="504.91"/>
+  </Word>
+  <Word>
+   <Text>+</Text>
+   <Box llx="279.53" lly="494.95" urx="285.35" ury="504.91"/>
+  </Word>
+  <Word>
+   <Text>8.55</Text>
+   <Box llx="285.29" lly="494.95" urx="304.62" ury="504.91"/>
+  </Word>
+  <Word>
+   <Text>%)</Text>
+   <Box llx="304.61" lly="494.95" urx="323.45" ury="504.91"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="323.59" lly="494.95" urx="333.55" ury="504.91"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="371.93" urx="566.74" ury="485.83">
+  <Word>
+   <Text>•</Text>
+   <Box llx="217.97" lly="475.87" urx="222.81" ury="482.35"/>
+  </Word>
+  <Word>
+   <Text>深耕电子陶瓷领域</Text>
+   <Box llx="229.37" lly="475.87" urx="309.94" ury="485.83"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="310.13" lly="475.87" urx="320.09" ury="485.83"/>
+  </Word>
+  <Word>
+   <Text>掌握核心技术</Text>
+   <Box llx="320.21" lly="475.87" urx="380.57" ury="485.83"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="380.71" lly="475.87" urx="390.67" ury="485.83"/>
+  </Word>
+  <Word>
+   <Text>作为高端的电子陶瓷外壳产品供应商</Text>
+   <Box llx="390.91" lly="475.87" urx="551.49" ury="485.83"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="551.62" lly="475.87" urx="561.58" ury="485.83"/>
+  </Word>
+  <Word>
+   <Text>公司自主掌握</Text>
+   <Box llx="229.37" lly="462.91" urx="289.35" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>90</Text>
+   <Box llx="289.49" lly="462.91" urx="300.55" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="300.53" lly="462.91" urx="310.49" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>氧化铝陶瓷</Text>
+   <Box llx="310.49" lly="462.91" urx="360.40" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="360.51" lly="462.91" urx="370.47" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>95</Text>
+   <Box llx="365.59" lly="462.91" urx="376.65" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="376.63" lly="462.91" urx="386.59" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>氧化铝陶瓷和氮化铝陶瓷三种陶瓷体系</Text>
+   <Box llx="386.59" lly="462.91" urx="556.64" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="556.78" lly="462.91" urx="566.74" ury="472.87"/>
+  </Word>
+  <Word>
+   <Text>拥有先进的设计手段和设计软件平台和全套的多层陶瓷外壳制造技术</Text>
+   <Box llx="229.37" lly="449.95" urx="531.32" ury="459.91"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="531.58" lly="449.95" urx="541.54" ury="459.91"/>
+  </Word>
+  <Word>
+   <Text>并具</Text>
+   <Box llx="541.66" lly="449.95" urx="561.70" ury="459.91"/>
+  </Word>
+  <Word>
+   <Text>备完整的汽车电子产品制造工艺</Text>
+   <Box llx="229.37" lly="436.87" urx="370.25" ury="446.83"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="370.39" lly="436.87" urx="380.35" ury="446.83"/>
+  </Word>
+  <Word>
+   <Text>经过多年积累已成为大批国内外电子行业</Text>
+   <Box llx="380.47" lly="436.87" urx="561.70" ury="446.83"/>
+  </Word>
+  <Word>
+   <Text>领先企业的供应商</Text>
+   <Box llx="229.37" lly="423.91" urx="309.89" ury="433.87"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="310.01" lly="423.91" urx="319.97" ury="433.87"/>
+  </Word>
+  <Word>
+   <Text>作为电子元器件上游关键核心材料</Text>
+   <Box llx="320.11" lly="423.91" urx="470.93" ury="433.87"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="470.93" lly="423.91" urx="480.89" ury="433.87"/>
+  </Word>
+  <Word>
+   <Text>电子陶瓷具有热导</Text>
+   <Box llx="481.00" lly="423.91" urx="561.45" ury="433.87"/>
+  </Word>
+  <Word>
+   <Text>率高</Text>
+   <Box llx="229.37" lly="410.93" urx="249.41" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="249.53" lly="410.93" urx="259.49" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>耐高温</Text>
+   <Box llx="259.61" lly="410.93" urx="289.73" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="289.85" lly="410.93" urx="299.81" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>可靠性好</Text>
+   <Box llx="299.93" lly="410.93" urx="340.13" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="340.25" lly="410.93" urx="350.21" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>重量轻等优异性能</Text>
+   <Box llx="350.21" lly="410.93" urx="430.73" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="430.87" lly="410.93" urx="440.83" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>目前已在消费电子</Text>
+   <Box llx="440.94" lly="410.93" urx="521.28" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="521.39" lly="410.93" urx="531.35" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>通信</Text>
+   <Box llx="531.46" lly="410.93" urx="551.49" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="551.60" lly="410.93" urx="561.56" ury="420.89"/>
+  </Word>
+  <Word>
+   <Text>航空航天</Text>
+   <Box llx="229.37" lly="397.85" urx="269.57" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="269.69" lly="397.85" urx="279.65" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>机械工程</Text>
+   <Box llx="279.77" lly="397.85" urx="319.97" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="320.09" lly="397.85" urx="330.05" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>汽车零部件</Text>
+   <Box llx="330.17" lly="397.85" urx="380.33" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="380.45" lly="397.85" urx="390.41" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>军工</Text>
+   <Box llx="390.53" lly="397.85" urx="410.57" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="410.69" lly="397.85" urx="420.65" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>生物医疗等领域中被广泛应用</Text>
+   <Box llx="420.77" lly="397.85" urx="551.57" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="551.74" lly="397.85" urx="561.70" ury="407.81"/>
+  </Word>
+  <Word>
+   <Text>随着</Text>
+   <Box llx="229.37" lly="384.89" urx="249.41" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>5G</Text>
+   <Box llx="249.53" lly="384.89" urx="262.80" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>智能手机</Text>
+   <Box llx="262.73" lly="384.89" urx="302.68" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="302.79" lly="384.89" urx="312.75" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>智能手表</Text>
+   <Box llx="312.15" lly="384.89" urx="352.10" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="352.10" lly="384.89" urx="362.06" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>AR</Text>
+   <Box llx="361.63" lly="384.89" urx="375.42" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>/</Text>
+   <Box llx="375.42" lly="384.89" urx="378.19" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>VR</Text>
+   <Box llx="378.19" lly="384.89" urx="391.99" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>等消费电子领域快速发展</Text>
+   <Box llx="391.99" lly="384.89" urx="502.10" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="502.21" lly="384.89" urx="512.17" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>声表晶振类</Text>
+   <Box llx="511.66" lly="384.89" urx="561.57" ury="394.85"/>
+  </Word>
+  <Word>
+   <Text>外壳</Text>
+   <Box llx="229.37" lly="371.93" urx="249.40" ury="381.89"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="249.40" lly="371.93" urx="259.36" ury="381.89"/>
+  </Word>
+  <Word>
+   <Text>3D</Text>
+   <Box llx="259.49" lly="371.93" urx="272.20" ury="381.89"/>
+  </Word>
+  <Word>
+   <Text>光传感器模块外壳等消费电子陶瓷外壳的市场将持续旺盛</Text>
+   <Box llx="272.21" lly="371.93" urx="522.21" ury="381.89"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="522.21" lly="371.93" urx="532.17" ury="381.89"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="300.89" urx="561.70" ury="362.81">
+  <Word>
+   <Text>•</Text>
+   <Box llx="217.97" lly="352.85" urx="222.81" ury="359.33"/>
+  </Word>
+  <Word>
+   <Text>并购第三代半导体资产</Text>
+   <Box llx="229.37" lly="352.85" urx="330.43" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="330.67" lly="352.85" urx="340.63" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>未来发展可期</Text>
+   <Box llx="340.74" lly="352.85" urx="401.29" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="401.47" lly="352.85" urx="411.43" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>2022</Text>
+   <Box llx="411.79" lly="352.85" urx="433.89" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>年</Text>
+   <Box llx="433.87" lly="352.85" urx="443.83" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>1</Text>
+   <Box llx="444.10" lly="352.85" urx="449.64" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>月</Text>
+   <Box llx="449.62" lly="352.85" urx="459.58" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>29</Text>
+   <Box llx="459.82" lly="352.85" urx="470.88" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>日</Text>
+   <Box llx="470.98" lly="352.85" urx="480.94" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="481.06" lly="352.85" urx="491.02" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>公司发布公告拟</Text>
+   <Box llx="491.14" lly="352.85" urx="561.68" ury="362.81"/>
+  </Word>
+  <Word>
+   <Text>向中国电科十三所发行股份购买其持有的氮化镓通信基站射频芯片业务资产</Text>
+   <Box llx="229.37" lly="339.89" urx="561.65" ury="349.85"/>
+  </Word>
+  <Word>
+   <Text>及负债</Text>
+   <Box llx="229.37" lly="326.93" urx="259.49" ury="336.89"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="259.61" lly="326.93" urx="269.57" ury="336.89"/>
+  </Word>
+  <Word>
+   <Text>本次交易有利于提高上市公司经营质量和发展潜力</Text>
+   <Box llx="269.69" lly="326.93" urx="490.93" ury="336.89"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="491.04" lly="326.93" urx="501.00" ury="336.89"/>
+  </Word>
+  <Word>
+   <Text>将上市公司打</Text>
+   <Box llx="501.11" lly="326.93" urx="561.42" ury="336.89"/>
+  </Word>
+  <Word>
+   <Text>造成为拥有氮化镓通信基站射频芯片与器件</Text>
+   <Box llx="229.37" lly="313.85" urx="420.65" ury="323.81"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="420.77" lly="313.85" urx="430.73" ury="323.81"/>
+  </Word>
+  <Word>
+   <Text>碳化硅功率芯片及其应用</Text>
+   <Box llx="430.85" lly="313.85" urx="541.54" ury="323.81"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="541.66" lly="313.85" urx="551.62" ury="323.81"/>
+  </Word>
+  <Word>
+   <Text>电</Text>
+   <Box llx="551.74" lly="313.85" urx="561.70" ury="323.81"/>
+  </Word>
+  <Word>
+   <Text>子陶瓷等核心业务能力的国内一流半导体领域高科技企业</Text>
+   <Box llx="229.37" lly="300.89" urx="479.25" ury="310.85"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="479.36" lly="300.89" urx="489.32" ury="310.85"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="224.30" urx="566.74" ury="286.25">
+  <Word>
+   <Text>•</Text>
+   <Box llx="217.97" lly="276.29" urx="222.81" ury="282.77"/>
+  </Word>
+  <Word>
+   <Text>盈利预测</Text>
+   <Box llx="229.37" lly="276.29" urx="269.54" ury="286.25"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="269.54" lly="276.29" urx="279.50" ury="286.25"/>
+  </Word>
+  <Word>
+   <Text>我们认为公司作为国内领先的精密陶瓷外壳龙头</Text>
+   <Box llx="278.21" lly="276.29" urx="488.03" ury="286.25"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="488.03" lly="276.29" urx="497.99" ury="286.25"/>
+  </Word>
+  <Word>
+   <Text>业务稳健发展</Text>
+   <Box llx="496.66" lly="276.29" urx="556.66" ury="286.25"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="556.78" lly="276.29" urx="566.74" ury="286.25"/>
+  </Word>
+  <Word>
+   <Text>伴随氮化镓等芯片资产的并购</Text>
+   <Box llx="229.37" lly="263.33" urx="359.97" ury="273.29"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="360.19" lly="263.33" urx="370.15" ury="273.29"/>
+  </Word>
+  <Word>
+   <Text>未来增长有望进一步提速</Text>
+   <Box llx="370.27" lly="263.33" urx="480.75" ury="273.29"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="480.94" lly="263.33" urx="490.90" ury="273.29"/>
+  </Word>
+  <Word>
+   <Text>预计公司</Text>
+   <Box llx="491.02" lly="263.33" urx="531.08" ury="273.29"/>
+  </Word>
+  <Word>
+   <Text>22-24</Text>
+   <Box llx="536.26" lly="263.33" urx="561.60" ury="273.29"/>
+  </Word>
+  <Word>
+   <Text>年归母净利润</Text>
+   <Box llx="229.37" lly="250.34" urx="289.35" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>1.68</Text>
+   <Box llx="292.25" lly="250.34" urx="311.59" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="314.33" lly="250.34" urx="334.36" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="334.36" lly="250.34" urx="344.32" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>2.40</Text>
+   <Box llx="344.47" lly="250.34" urx="363.82" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>亿元和</Text>
+   <Box llx="366.55" lly="250.34" urx="396.67" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>3.38</Text>
+   <Box llx="399.55" lly="250.34" urx="418.90" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>亿元</Text>
+   <Box llx="421.63" lly="250.34" urx="441.66" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="441.66" lly="250.34" urx="451.62" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>EPS</Text>
+   <Box llx="451.78" lly="250.34" urx="471.74" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>为</Text>
+   <Box llx="474.46" lly="250.34" urx="484.42" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>1.13</Text>
+   <Box llx="487.30" lly="250.34" urx="506.65" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>元</Text>
+   <Box llx="509.38" lly="250.34" urx="519.34" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>、</Text>
+   <Box llx="519.46" lly="250.34" urx="529.42" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>1.61</Text>
+   <Box llx="529.54" lly="250.34" urx="548.88" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>元</Text>
+   <Box llx="551.50" lly="250.34" urx="561.46" ury="260.30"/>
+  </Word>
+  <Word>
+   <Text>和</Text>
+   <Box llx="229.37" lly="237.38" urx="239.33" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>2.26</Text>
+   <Box llx="241.97" lly="237.38" urx="261.31" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>元</Text>
+   <Box llx="263.81" lly="237.38" urx="273.77" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="273.88" lly="237.38" urx="283.84" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>参考可比公司估值</Text>
+   <Box llx="283.95" lly="237.38" urx="363.96" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="363.96" lly="237.38" urx="373.92" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>给予公司</Text>
+   <Box llx="373.92" lly="237.38" urx="413.98" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>22</Text>
+   <Box llx="416.71" lly="237.38" urx="427.77" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>年</Text>
+   <Box llx="430.27" lly="237.38" urx="440.23" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>PE</Text>
+   <Box llx="442.90" lly="237.38" urx="456.14" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>70-80x</Text>
+   <Box llx="461.14" lly="237.38" urx="491.56" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="491.62" lly="237.38" urx="501.58" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>对应合理价值</Text>
+   <Box llx="501.69" lly="237.38" urx="561.67" ury="247.34"/>
+  </Word>
+  <Word>
+   <Text>区间</Text>
+   <Box llx="229.37" lly="224.30" urx="249.41" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>79.10-90.40</Text>
+   <Box llx="252.05" lly="224.30" urx="305.10" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>元</Text>
+   <Box llx="307.61" lly="224.30" urx="317.57" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="317.68" lly="224.30" urx="327.64" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>给予</Text>
+   <Box llx="327.75" lly="224.30" urx="347.78" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>“</Text>
+   <Box llx="347.78" lly="224.30" urx="357.74" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>优于大市</Text>
+   <Box llx="357.85" lly="224.30" urx="397.80" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>”</Text>
+   <Box llx="397.80" lly="224.30" urx="407.76" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>评级</Text>
+   <Box llx="407.76" lly="224.30" urx="427.79" ury="234.26"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="427.79" lly="224.30" urx="437.75" ury="234.26"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="199.34" urx="499.66" ury="209.30">
+  <Word>
+   <Text>•</Text>
+   <Box llx="217.97" lly="199.34" urx="222.81" ury="205.82"/>
+  </Word>
+  <Word>
+   <Text>风险提示</Text>
+   <Box llx="229.37" lly="199.34" urx="269.57" ury="209.30"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="269.57" lly="199.34" urx="279.53" ury="209.30"/>
+  </Word>
+  <Word>
+   <Text>资产并购低于预期</Text>
+   <Box llx="279.65" lly="199.34" urx="359.55" ury="209.30"/>
+  </Word>
+  <Word>
+   <Text>,</Text>
+   <Box llx="359.71" lly="199.34" urx="369.67" ury="209.30"/>
+  </Word>
+  <Word>
+   <Text>募投项目产能释放低于预期</Text>
+   <Box llx="369.67" lly="199.34" urx="489.69" ury="209.30"/>
+  </Word>
+  <Word>
+   <Text>。</Text>
+   <Box llx="489.70" lly="199.34" urx="499.66" ury="209.30"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="212.57" lly="165.74" urx="309.70" ury="189.26">
+  <Word>
+   <Text>主要财务数据及预测</Text>
+   <Box llx="212.57" lly="179.30" urx="302.87" ury="189.26"/>
+  </Word>
+  <Word>
+   <Text>[</Text>
+   <Box llx="217.97" lly="165.74" urx="220.91" ury="176.30"/>
+  </Word>
+  <Word>
+   <Text>Table</Text>
+   <Box llx="220.85" lly="165.74" urx="246.15" ury="176.30"/>
+  </Word>
+  <Word>
+   <Text>_</Text>
+   <Box llx="246.04" lly="165.74" urx="251.91" ury="176.30"/>
+  </Word>
+  <Word>
+   <Text>FinanceInfo</Text>
+   <Box llx="251.91" lly="165.74" urx="306.76" ury="176.30"/>
+  </Word>
+  <Word>
+   <Text>]</Text>
+   <Box llx="306.76" lly="165.74" urx="309.70" ury="176.30"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="217.97" lly="149.06" ulx="217.97" uly="169.82" urx="557.78" ury="169.82" lrx="557.78" lry="148.46">
+  <Word>
+   <Text>2020</Text>
+   <Box llx="329.95" lly="161.30" urx="348.83" ury="169.82"/>
+  </Word>
+  <Word>
+   <Text>2021</Text>
+   <Box llx="385.63" lly="161.30" urx="404.51" ury="169.82"/>
+  </Word>
+  <Word>
+   <Text>2022E</Text>
+   <Box llx="430.75" lly="161.30" urx="455.25" ury="169.82"/>
+  </Word>
+  <Word>
+   <Text>2023E</Text>
+   <Box llx="481.30" lly="161.30" urx="505.80" ury="169.82"/>
+  </Word>
+  <Word>
+   <Text>2024E</Text>
+   <Box llx="532.42" lly="161.30" urx="556.92" ury="169.82"/>
+  </Word>
+  <Word>
+   <Text>营业收入</Text>
+   <Box llx="217.97" lly="149.06" urx="252.05" ury="157.58"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="252.05" lly="149.06" urx="254.89" ury="157.58"/>
+  </Word>
+  <Word>
+   <Text>百万元</Text>
+   <Box llx="254.81" lly="149.06" urx="280.37" ury="157.58"/>
+  </Word>
+  <Word>
+   <Text>)</Text>
+   <Box llx="280.37" lly="149.06" urx="283.21" ury="157.58"/>
+  </Word>
+  <Word>
+   <Text>816</Text>
+   <Box llx="334.75" lly="148.46" urx="348.85" ury="156.98"/>
+  </Word>
+  <Word>
+   <Text>1014</Text>
+   <Box llx="385.63" lly="148.46" urx="404.51" ury="156.98"/>
+  </Word>
+  <Word>
+   <Text>1309</Text>
+   <Box llx="436.39" lly="148.46" urx="455.27" ury="156.98"/>
+  </Word>
+  <Word>
+   <Text>1703</Text>
+   <Box llx="486.94" lly="148.46" urx="505.82" ury="156.98"/>
+  </Word>
+  <Word>
+   <Text>2262</Text>
+   <Box llx="538.90" lly="148.46" urx="557.78" ury="156.98"/>
+  </Word>
+ </Box>
+</Para>
+<Table llx="215.97" lly="121.80" ulx="215.97" uly="145.84" urx="559.80" ury="145.84" lrx="559.80" lry="121.20">
+ <Row>
+  <Cell llx="217.97" lly="134.77" urx="276.98" ury="144.99">
+   <Para>
+    <Box llx="217.97" lly="135.62" urx="262.32" ury="144.14">
+     <Word>
+      <Text>(+/</Text>
+      <Box llx="217.97" lly="135.62" urx="228.13" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>-)</Text>
+      <Box llx="228.17" lly="135.62" urx="233.89" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>YoY</Text>
+      <Box llx="233.92" lly="135.62" urx="249.08" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>(%)</Text>
+      <Box llx="249.04" lly="135.62" urx="262.32" ury="144.14"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="324.79" lly="134.77" urx="351.28" ury="144.99">
+   <Para>
+    <Box llx="324.79" lly="135.62" urx="348.79" ury="144.14">
+     <Word>
+      <Text>38.2</Text>
+      <Box llx="324.79" lly="135.62" urx="341.28" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="341.22" lly="135.62" urx="348.79" ury="144.14"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="380.47" lly="134.77" urx="406.96" ury="144.99">
+   <Para>
+    <Box llx="380.47" lly="135.62" urx="404.47" ury="144.14">
+     <Word>
+      <Text>24.2</Text>
+      <Box llx="380.47" lly="135.62" urx="396.96" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="396.90" lly="135.62" urx="404.47" ury="144.14"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="431.23" lly="134.77" urx="457.75" ury="144.99">
+   <Para>
+    <Box llx="431.23" lly="135.62" urx="455.23" ury="144.14">
+     <Word>
+      <Text>29.1</Text>
+      <Box llx="431.23" lly="135.62" urx="447.72" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="447.66" lly="135.62" urx="455.23" ury="144.14"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="481.78" lly="134.77" urx="508.27" ury="144.99">
+   <Para>
+    <Box llx="481.78" lly="135.62" urx="505.78" ury="144.14">
+     <Word>
+      <Text>30.1</Text>
+      <Box llx="481.78" lly="135.62" urx="498.27" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="498.21" lly="135.62" urx="505.78" ury="144.14"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="532.90" lly="134.77" urx="560.23" ury="144.99">
+   <Para>
+    <Box llx="532.90" lly="135.62" urx="556.90" ury="144.14">
+     <Word>
+      <Text>32.8</Text>
+      <Box llx="532.90" lly="135.62" urx="549.39" ury="144.14"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="549.33" lly="135.62" urx="556.90" ury="144.14"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="217.97" lly="122.05" urx="276.98" ury="132.27">
+   <Para>
+    <Box llx="217.97" lly="123.50" urx="274.69" ury="132.02">
+     <Word>
+      <Text>净利润</Text>
+      <Box llx="217.97" lly="123.50" urx="243.53" ury="132.02"/>
+     </Word>
+     <Word>
+      <Text>(</Text>
+      <Box llx="243.53" lly="123.50" urx="246.37" ury="132.02"/>
+     </Word>
+     <Word>
+      <Text>百万元</Text>
+      <Box llx="246.29" lly="123.50" urx="271.85" ury="132.02"/>
+     </Word>
+     <Word>
+      <Text>)</Text>
+      <Box llx="271.85" lly="123.50" urx="274.69" ury="132.02"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="324.79" lly="122.05" urx="351.28" ury="132.27">
+   <Para>
+    <Box llx="339.43" lly="122.90" urx="348.85" ury="131.42">
+     <Word>
+      <Text>98</Text>
+      <Box llx="339.43" lly="122.90" urx="348.85" ury="131.42"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="380.47" lly="122.05" urx="406.96" ury="132.27">
+   <Para>
+    <Box llx="390.43" lly="122.90" urx="404.53" ury="131.42">
+     <Word>
+      <Text>122</Text>
+      <Box llx="390.43" lly="122.90" urx="404.53" ury="131.42"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="431.23" lly="122.05" urx="457.75" ury="132.27">
+   <Para>
+    <Box llx="441.22" lly="122.90" urx="455.32" ury="131.42">
+     <Word>
+      <Text>168</Text>
+      <Box llx="441.22" lly="122.90" urx="455.32" ury="131.42"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="481.78" lly="122.05" urx="508.27" ury="132.27">
+   <Para>
+    <Box llx="491.74" lly="122.90" urx="505.84" ury="131.42">
+     <Word>
+      <Text>240</Text>
+      <Box llx="491.74" lly="122.90" urx="505.84" ury="131.42"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="532.90" lly="122.05" urx="560.23" ury="132.27">
+   <Para>
+    <Box llx="543.70" lly="122.90" urx="557.80" ury="131.42">
+     <Word>
+      <Text>338</Text>
+      <Box llx="543.70" lly="122.90" urx="557.80" ury="131.42"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="215.97" lly="96.24" ulx="215.97" uly="120.28" urx="558.95" ury="120.28" lrx="558.95" lry="95.52">
+ <Row>
+  <Cell llx="217.97" lly="109.21" urx="287.66" ury="119.43">
+   <Para>
+    <Box llx="217.97" lly="110.06" urx="262.32" ury="118.58">
+     <Word>
+      <Text>(+/</Text>
+      <Box llx="217.97" lly="110.06" urx="228.13" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>-)</Text>
+      <Box llx="228.17" lly="110.06" urx="233.89" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>YoY</Text>
+      <Box llx="233.92" lly="110.06" urx="249.08" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>(%)</Text>
+      <Box llx="249.04" lly="110.06" urx="262.32" ury="118.58"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="324.79" lly="109.21" urx="351.28" ury="119.43">
+   <Para>
+    <Box llx="324.79" lly="110.06" urx="348.79" ury="118.58">
+     <Word>
+      <Text>28.4</Text>
+      <Box llx="324.79" lly="110.06" urx="341.28" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="341.22" lly="110.06" urx="348.79" ury="118.58"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="380.47" lly="109.21" urx="406.96" ury="119.43">
+   <Para>
+    <Box llx="380.47" lly="110.06" urx="404.47" ury="118.58">
+     <Word>
+      <Text>24.0</Text>
+      <Box llx="380.47" lly="110.06" urx="396.96" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="396.90" lly="110.06" urx="404.47" ury="118.58"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="431.23" lly="109.21" urx="457.75" ury="119.43">
+   <Para>
+    <Box llx="431.23" lly="110.06" urx="455.23" ury="118.58">
+     <Word>
+      <Text>38.3</Text>
+      <Box llx="431.23" lly="110.06" urx="447.72" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="447.66" lly="110.06" urx="455.23" ury="118.58"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="481.78" lly="109.21" urx="508.27" ury="119.43">
+   <Para>
+    <Box llx="481.78" lly="110.06" urx="505.78" ury="118.58">
+     <Word>
+      <Text>42.8</Text>
+      <Box llx="481.78" lly="110.06" urx="498.27" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="498.21" lly="110.06" urx="505.78" ury="118.58"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="532.90" lly="109.21" urx="559.39" ury="119.43">
+   <Para>
+    <Box llx="532.90" lly="110.06" urx="556.90" ury="118.58">
+     <Word>
+      <Text>40.6</Text>
+      <Box llx="532.90" lly="110.06" urx="549.39" ury="118.58"/>
+     </Word>
+     <Word>
+      <Text>%</Text>
+      <Box llx="549.33" lly="110.06" urx="556.90" ury="118.58"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="217.97" lly="96.37" urx="287.66" ury="106.60">
+   <Para>
+    <Box llx="217.97" lly="97.94" urx="285.37" ury="106.46">
+     <Word>
+      <Text>全面摊薄</Text>
+      <Box llx="217.97" lly="97.94" urx="252.05" ury="106.46"/>
+     </Word>
+     <Word>
+      <Text>EPS</Text>
+      <Box llx="254.21" lly="97.94" urx="271.17" ury="106.46"/>
+     </Word>
+     <Word>
+      <Text>(</Text>
+      <Box llx="271.13" lly="97.94" urx="273.97" ury="106.46"/>
+     </Word>
+     <Word>
+      <Text>元</Text>
+      <Box llx="273.89" lly="97.94" urx="282.41" ury="106.46"/>
+     </Word>
+     <Word>
+      <Text>)</Text>
+      <Box llx="282.53" lly="97.94" urx="285.37" ury="106.46"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="324.79" lly="96.37" urx="351.28" ury="106.60">
+   <Para>
+    <Box llx="332.35" lly="97.22" urx="348.84" ury="105.74">
+     <Word>
+      <Text>0.66</Text>
+      <Box llx="332.35" lly="97.22" urx="348.84" ury="105.74"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="380.47" lly="96.37" urx="406.96" ury="106.60">
+   <Para>
+    <Box llx="388.03" lly="97.22" urx="404.52" ury="105.74">
+     <Word>
+      <Text>0.81</Text>
+      <Box llx="388.03" lly="97.22" urx="404.52" ury="105.74"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="431.23" lly="96.37" urx="457.75" ury="106.60">
+   <Para>
+    <Box llx="438.79" lly="97.22" urx="455.28" ury="105.74">
+     <Word>
+      <Text>1.13</Text>
+      <Box llx="438.79" lly="97.22" urx="455.28" ury="105.74"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="481.78" lly="96.37" urx="508.27" ury="106.60">
+   <Para>
+    <Box llx="489.34" lly="97.22" urx="505.83" ury="105.74">
+     <Word>
+      <Text>1.61</Text>
+      <Box llx="489.34" lly="97.22" urx="505.83" ury="105.74"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="532.90" lly="96.37" urx="559.39" ury="106.60">
+   <Para>
+    <Box llx="540.46" lly="97.22" urx="556.95" ury="105.74">
+     <Word>
+      <Text>2.26</Text>
+      <Box llx="540.46" lly="97.22" urx="556.95" ury="105.74"/>
+     </Word>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="212.57" lly="52.08" ulx="212.57" uly="93.62" urx="556.90" ury="93.00" lrx="556.90" lry="52.08">
+  <Word>
+   <Text>毛利率</Text>
+   <Box llx="217.97" lly="85.10" urx="243.53" ury="93.62"/>
+  </Word>
+  <Word>
+   <Text>(%)</Text>
+   <Box llx="243.53" lly="85.10" urx="256.81" ury="93.62"/>
+  </Word>
+  <Word>
+   <Text>29.9</Text>
+   <Box llx="324.79" lly="84.48" urx="341.28" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="341.22" lly="84.48" urx="348.79" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>28.9</Text>
+   <Box llx="380.47" lly="84.48" urx="396.96" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="396.90" lly="84.48" urx="404.47" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>30.4</Text>
+   <Box llx="431.23" lly="84.48" urx="447.72" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="447.66" lly="84.48" urx="455.23" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>31.0</Text>
+   <Box llx="481.78" lly="84.48" urx="498.27" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="498.21" lly="84.48" urx="505.78" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>30.9</Text>
+   <Box llx="532.90" lly="84.48" urx="549.39" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="549.33" lly="84.48" urx="556.90" ury="93.00"/>
+  </Word>
+  <Word>
+   <Text>净资产收益率</Text>
+   <Box llx="217.97" lly="72.24" urx="269.09" ury="80.76"/>
+  </Word>
+  <Word>
+   <Text>(%)</Text>
+   <Box llx="269.09" lly="72.24" urx="282.24" ury="80.76"/>
+  </Word>
+  <Word>
+   <Text>9.5</Text>
+   <Box llx="329.59" lly="71.64" urx="341.40" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="341.34" lly="71.64" urx="348.91" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>10.8</Text>
+   <Box llx="380.47" lly="71.64" urx="396.96" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="396.90" lly="71.64" urx="404.47" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>13.0</Text>
+   <Box llx="431.23" lly="71.64" urx="447.72" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="447.66" lly="71.64" urx="455.23" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>15.6</Text>
+   <Box llx="481.78" lly="71.64" urx="498.27" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="498.21" lly="71.64" urx="505.78" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>18.0</Text>
+   <Box llx="532.90" lly="71.64" urx="549.39" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>%</Text>
+   <Box llx="549.33" lly="71.64" urx="556.90" ury="80.16"/>
+  </Word>
+  <Word>
+   <Text>资料来源</Text>
+   <Box llx="215.09" lly="61.80" urx="245.21" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="245.21" lly="61.80" urx="252.77" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>公司年报</Text>
+   <Box llx="252.65" lly="61.80" urx="282.77" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>(</Text>
+   <Box llx="282.65" lly="61.80" urx="290.21" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>2020-2021</Text>
+   <Box llx="290.21" lly="61.80" urx="326.10" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>),</Text>
+   <Box llx="325.99" lly="61.80" urx="337.39" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>海通证券研究所</Text>
+   <Box llx="337.27" lly="61.80" urx="389.95" ury="69.36"/>
+  </Word>
+  <Word>
+   <Text>备注</Text>
+   <Box llx="212.57" lly="52.08" urx="227.69" ury="59.64"/>
+  </Word>
+  <Word>
+   <Text>:</Text>
+   <Box llx="227.69" lly="52.08" urx="235.25" ury="59.64"/>
+  </Word>
+  <Word>
+   <Text>净利润为归属母公司所有者的净利润</Text>
+   <Box llx="235.13" lly="52.08" urx="355.27" ury="59.64"/>
+  </Word>
+ </Box>
+</Para>
+<Para>
+ <Box llx="390.43" lly="35.64" urx="561.43" ury="44.64">
+  <Word>
+   <Text artifact="true">请务必阅读正文之后的信息披露和法律声明</Text>
+   <Box llx="390.43" lly="35.64" urx="561.43" ury="44.64"/>
+  </Word>
+ </Box>
+</Para>
+</Content>
+</Page>
+<Resources>
+<Fonts>
+ <Font id="F0" name="Times New Roman" type="TrueType" embedded="false" ascender="693.00" capheight="662.00" italicangle="0.00" descender="-216.00" weight="400.00" xheight="447.00"/>
+ <Font id="F1" name="¿¬Ìå_GB2312" fullname="ABCDEE+¿¬Ìå_GB2312" type="TrueType (CID)" embedded="true" ascender="859.00" capheight="859.00" italicangle="0.00" descender="-141.00" weight="400.00" xheight="250.00"/>
+ <Font id="F2" name="¿¬Ìå_GB2312" fullname="ABCDEE+¿¬Ìå_GB2312" type="TrueType" embedded="true" ascender="859.00" capheight="859.00" italicangle="0.00" descender="-141.00" weight="400.00" xheight="250.00"/>
+ <Font id="F3" name="Arial" type="TrueType" embedded="false" ascender="728.00" capheight="716.00" italicangle="0.00" descender="-210.00" weight="400.00" xheight="519.00"/>
+ <Font id="F4" name="Arial,Bold" type="TrueType" embedded="false" ascender="728.00" capheight="716.00" italicangle="0.00" descender="-210.00" weight="700.00" xheight="519.00"/>
+ <Font id="F5" name="Wingdings" fullname="ABCDEE+Wingdings" type="TrueType (CID)" embedded="true" ascender="771.00" capheight="771.00" italicangle="0.00" descender="205.00" weight="400.00" xheight="250.00"/>
+</Fonts>
+<Images>
+ <Image id="I0" filename="1_I0.jpg" extractedAs=".jpg" width="418" height="116" colorspace="CS0" bitsPerComponent="8"/>
+</Images>
+<ColorSpaces>
+ <ColorSpace id="CS0" name="DeviceRGB" components="3"/>
+ <ColorSpace id="CS1" name="DeviceGray" components="1"/>
+</ColorSpaces>
+</Resources>
+<Graphics>
+<Colors>
+ <Color id="C0" colorspace="CS1" svgname="black">
+  <Value>0.00</Value>
+ </Color>
+ <Color id="C1" colorspace="CS0" svgname="#003399">
+  <Value>0.00</Value>
+  <Value>0.20</Value>
+  <Value>0.60</Value>
+ </Color>
+ <Color id="C2" colorspace="CS1" svgname="white">
+  <Value>1.00</Value>
+ </Color>
+</Colors>
+</Graphics>
+</Pages>
+</Document>
+</TET>
