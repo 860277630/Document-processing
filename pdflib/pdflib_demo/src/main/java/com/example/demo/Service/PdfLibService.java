@@ -1,6 +1,11 @@
 package com.example.demo.Service;
 
 import com.pdflib.TET;
+import com.spire.pdf.FileFormat;
+import com.spire.pdf.PdfDocument;
+import com.spire.pdf.PdfPageBase;
+import com.spire.pdf.annotations.PdfAnnotationCollection;
+import com.spire.pdf.annotations.PdfTextWebLinkAnnotationWidget;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.pdfbox.multipdf.PageExtractor;
 import org.apache.pdfbox.pdmodel.PDDocument;
@@ -16,6 +21,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.UUID;
 
 /**
  * @program: pdflib_demo
@@ -32,10 +38,9 @@ public class PdfLibService {
     public void PickPdfDatas(MultipartFile file){
         //首先进行初始化
         initSdk();
+        System.out.println("pdflib的环境位置:"+System.getProperty("java.library.path"));
         //然后进行  xml的转换
-        PDDocument doc = null;
-        try {
-            doc = PDDocument.load(file.getInputStream());
+        try (PDDocument doc = PDDocument.load(file.getInputStream())){
             int pages = doc.getNumberOfPages();
             //因为免费版的   PDFlib 对于超过  超过10页 或1M  的PDF  是不予处理的
             //所以暂时将  PDF  的每页   都单独截取出来
@@ -57,18 +62,14 @@ public class PdfLibService {
 
                 //然后进行xml  解析
                 pickDataFromXml(targetPath+"/xmls/"+page+".xml");
-
+                extract.close();
             }
         }catch (Exception e){
             e.printStackTrace();
-        }finally {
-            try {
-                doc.close();
-            } catch (IOException e) {
-                log.info(e.getMessage());
-            }
         }
     }
+
+
 
     //进行xml  解析
     //获取到word  标签  并且  输出 他的位置信息
@@ -121,6 +122,10 @@ public class PdfLibService {
         }
     }
 
+    /*
+    * 当文件超过1M后 可以去掉 里面的   图片
+    * 实在不行就用 OCR方式进行解析
+    * */
 
     //  将PDF  转为 xml    并对相关信息进行输出
     private void parseXml(String path,String fileName){
@@ -128,9 +133,10 @@ public class PdfLibService {
         TET tet = null;
         try {
             tet = new TET();
-            tet.set_option("searchpath={{"+path+"/pdfs"+"}}");
-
-            final int doc = tet.open_document(fileName+".pdf", "tetml={}");
+            tet.set_option("searchpath={" + path + "/pdfs" + "}");
+            //  密钥 0就是无效key
+            tet.set_option("license={0}");
+            int doc = tet.open_document(fileName + ".pdf", "tetml={}");
             if (doc == -1) {
                 System.err.println("Error " + tet.get_errnum() + " in " + tet.get_apiname() + "(): " + tet.get_errmsg());
                 tet.delete();
@@ -178,7 +184,8 @@ public class PdfLibService {
     private void initSdk(){
         String os = System.getProperty("os.name").toLowerCase();
         if (os.startsWith("win")) {
-            System.loadLibrary("tet_java");
+            System.loadLibrary("pdflib_java");
+            //System.loadLibrary("tet_java");
         } else {
             //linux  下要填写成绝对路径
             System.load("/usr/local/ocrFiles/outlib/libtet_java.so");
